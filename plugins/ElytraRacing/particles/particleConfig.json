@@ -1,0 +1,212 @@
+{
+  "ENABLE": false,
+  "INTERVAL_PERSONAL_PARTICLE_REFRESH": 1,
+  "GUI_PARTICLE_TITLE": "Particle Selector",
+  "GUI_ITEM_PARTICLE_TITLE": "&f{PARTICLE_NAME}",
+  "GUI_ITEM_PARTICLE_TITLE_SELECTED": "&a{PARTICLE_NAME}",
+  "GUI_NO_PARTICLE": "None",
+  "GUI_DISABLE_OTHERS_PARTICLES_UNSELECTED": "&fDisable others particles",
+  "GUI_DISABLE_OTHERS_PARTICLES_SELECTED": "&fDisable others particles",
+  "GUI_DISABLE_OTHERS_PARTICLES_LORE_SELECTED": "&f-> Currently: &a✓",
+  "GUI_DISABLE_OTHERS_PARTICLES_LORE_UNSELECTED": "&f-> Currently: &c❌",
+  "MSG_SAVE_SUCCESSFUL": "&fChanges have been &asucessfully &fsaved",
+  "GUI_CLICKCHANGE": "Click here to change page",
+  "GUI_ENCHANT_SELECTED": true,
+  "particles": [
+    {
+      "name": "GreenCircle",
+      "enable": true,
+      "removeFromPlayableSet": false,
+      "particle": "TOTEM",
+      "item": "PAPER",
+      "showWithParticle": [
+        "",
+        "",
+        ""
+      ],
+      "shapeParticle": [
+        {
+          "key": "SHAPE_CIRCLE",
+          "option": "7;1"
+        },
+        {
+          "key": "MASK_PLAYERFOLLOW",
+          "option": ""
+        }
+      ],
+      "colorCreator": null
+    },
+    {
+      "name": "RotatingRainbowCircle",
+      "enable": true,
+      "removeFromPlayableSet": false,
+      "particle": "REDSTONE",
+      "item": "PAPER",
+      "showWithParticle": [
+        "",
+        "",
+        ""
+      ],
+      "shapeParticle": [
+        {
+          "key": "SHAPE_CIRCLE",
+          "option": "7;1"
+        },
+        {
+          "key": "MASK_Z_ROTATION",
+          "option": "10000;true"
+        },
+        {
+          "key": "MASK_PLAYERFOLLOW",
+          "option": ""
+        }
+      ],
+      "colorCreator": [
+        {
+          "key": "RAINBOW",
+          "option": "15000;true"
+        }
+      ]
+    },
+    {
+      "name": "RainbowPoint",
+      "enable": true,
+      "removeFromPlayableSet": false,
+      "particle": "REDSTONE",
+      "item": "PAPER",
+      "showWithParticle": [
+        "",
+        "",
+        ""
+      ],
+      "shapeParticle": [
+        {
+          "key": "SHAPE_POINT",
+          "option": ""
+        }
+      ],
+      "colorCreator": [
+        {
+          "key": "RAINBOW",
+          "option": "15000;true"
+        }
+      ]
+    },
+    {
+      "name": "RedPoint",
+      "enable": true,
+      "removeFromPlayableSet": false,
+      "particle": "REDSTONE",
+      "item": "PAPER",
+      "showWithParticle": [
+        "",
+        "",
+        ""
+      ],
+      "shapeParticle": [
+        {
+          "key": "SHAPE_POINT",
+          "option": ""
+        }
+      ],
+      "colorCreator": [
+        {
+          "key": "CONSTANT",
+          "option": "255;0;0"
+        }
+      ]
+    },
+    {
+      "name": "HorizontalWave",
+      "enable": true,
+      "removeFromPlayableSet": false,
+      "particle": "REDSTONE",
+      "item": "PAPER",
+      "showWithParticle": [
+        "",
+        "",
+        ""
+      ],
+      "shapeParticle": [
+        {
+          "key": "SHAPE_CIRCLE",
+          "option": "7;0.75"
+        },
+        {
+          "key": "MASK_X_ROTATION",
+          "option": "7000;true"
+        },
+        {
+          "key": "MASK_PLAYERFOLLOW",
+          "option": ""
+        }
+      ],
+      "colorCreator": [
+        {
+          "key": "CONSTANT",
+          "option": "0;153;255"
+        }
+      ]
+    },
+    {
+      "name": "VerticalWavingPoint",
+      "enable": true,
+      "removeFromPlayableSet": false,
+      "particle": "REDSTONE",
+      "item": "PAPER",
+      "showWithParticle": [
+        "",
+        "",
+        ""
+      ],
+      "shapeParticle": [
+        {
+          "key": "SHAPE_CIRCLE",
+          "option": "1;0.75"
+        },
+        {
+          "key": "MASK_Y_ROTATION",
+          "option": "1000;true"
+        },
+        {
+          "key": "MASK_PLAYERFOLLOW",
+          "option": ""
+        }
+      ],
+      "colorCreator": [
+        {
+          "key": "CONSTANT",
+          "option": "0;153;255"
+        }
+      ]
+    },
+    {
+      "name": "RainbowTube",
+      "enable": true,
+      "removeFromPlayableSet": false,
+      "particle": "REDSTONE",
+      "item": "PAPER",
+      "showWithParticle": [
+        "",
+        "",
+        ""
+      ],
+      "shapeParticle": [
+        {
+          "key": "SHAPE_CIRCLE",
+          "option": "20;0.66"
+        },
+        {
+          "key": "MASK_PLAYERFOLLOW",
+          "option": ""
+        }
+      ],
+      "colorCreator": [
+        {
+          "key": "RAINBOW",
+          "option": "10000;true"
+        }
+      ]
+    }
+  ]
+}

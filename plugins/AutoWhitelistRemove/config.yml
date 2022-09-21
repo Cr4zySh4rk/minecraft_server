@@ -1,0 +1,16 @@
+# Specify how long a player has to be offline in order to remove them.
+# d - Days
+# w - weeks
+# m - months
+# Example: 2w, 15d, 1m
+inactive-period: "30d"
+
+# Do you want to check inactive players when the server starts up?
+# This will auto remove them.
+autoremove-on-start: true
+
+# Should we save whom we removed just in case?
+# This will create removals.json
+save-whitelist-removals: true
+
+config-version: 1

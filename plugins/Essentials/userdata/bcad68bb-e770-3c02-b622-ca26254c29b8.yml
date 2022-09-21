@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 14.97.164.38
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1659627224202
+  login: 1659627015279
+money: '0'
+last-account-name: zurich
+lastlocation:
+  world: 0417e8b2-260a-47cc-954a-58f0e6ea9f1f
+  world-name: spawn
+  x: 8.5
+  y: 103.0
+  z: 7.500000000000001
+  yaw: 8.187308311462402
+  pitch: 4.049954414367676
+logoutlocation:
+  world: 5291af83-a9c5-4c5e-8888-9fac3d41f84a
+  world-name: BWLobby
+  x: 5.475786032006442
+  y: 98.0
+  z: -18.648455657619017
+  yaw: -177.10153198242188
+  pitch: 18.749998092651367

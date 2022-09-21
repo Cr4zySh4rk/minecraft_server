@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 106.51.66.210
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1663746263139
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1663746624198
+  login: 1663746598813
+money: '25.0'
+last-account-name: Darkphantom_21
+lastlocation:
+  world: a6f6322d-2f63-4b4d-a3fa-72aa7d349b23
+  world-name: survival
+  x: 12.260356400632997
+  y: 93.0
+  z: -529.7072178803829
+  yaw: 18.049421310424805
+  pitch: 27.15855598449707
+logoutlocation:
+  world: a6f6322d-2f63-4b4d-a3fa-72aa7d349b23
+  world-name: survival
+  x: 365.2189640959441
+  y: 79.0
+  z: -191.52334306905414
+  yaw: 74.57366943359375
+  pitch: 12.866695404052734
+homes:
+  home:
+    world: a6f6322d-2f63-4b4d-a3fa-72aa7d349b23
+    world-name: survival
+    x: 10.428029969491641
+    y: 93.0
+    z: -529.9423646755104
+    yaw: -25.43408203125
+    pitch: 8.697592735290527
+  castle:
+    world: a6f6322d-2f63-4b4d-a3fa-72aa7d349b23
+    world-name: survival
+    x: 350.16553322929894
+    y: 70.0
+    z: -201.22966261466382
+    yaw: 88.7611083984375
+    pitch: 6.20082426071167

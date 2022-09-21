@@ -1,0 +1,226 @@
+name: ashore
+pauseCountdown: 60
+gameTime: 3600
+world: Ashore
+pos1: 125.10249196880923;167.6043665495669;129.11183995739282;136.49995;47.09998
+pos2: -145.50781854480425;26.649386691720455;-137.61345050797723;-46.650146;7.499997
+specSpawn: 0.5401204576893487;106.49064014340203;1.6012548105802535;44.249756;32.849957
+lobbySpawn: 0.6046303314662742;118.0;0.4054258689509529;-88.95006;-5.5500045
+lobbySpawnWorld: Ashore
+minPlayers: 2
+postGameWaiting: 3
+teams:
+  red:
+    isNewColor: false
+    color: RED
+    maxPlayers: 2
+    bed: 0.0;64.0;68.0;0.0;0.0
+    spawn: 0.5453973774122438;63.0;80.45574675705159;-179.84985;0.4498462
+  blue:
+    isNewColor: false
+    color: BLUE
+    maxPlayers: 2
+    bed: -67.0;64.0;1.0;0.0;0.0
+    spawn: -78.44332649845398;63.0;1.520847876664315;-90.00098;1.4998552
+  green:
+    isNewColor: false
+    color: GREEN
+    maxPlayers: 2
+    bed: 0.0;64.0;-66.0;0.0;0.0
+    spawn: 0.4464618431713937;63.0;-77.48355083227652;0.296875;0.29988122
+  yellow:
+    isNewColor: false
+    color: YELLOW
+    maxPlayers: 2
+    bed: 67.0;64.0;1.0;0.0;0.0
+    spawn: 79.41897146598991;63.0;1.4830676506825395;90.14746;0.89998376
+spawners:
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: -0.699999988079071;62.5;84.69999998807907;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: iron
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: 1.699999988079071;62.5;84.69999998807907;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: gold
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: -82.69999998807907;62.5;0.30000001192092896;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: iron
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: -82.69999998807907;62.5;2.699999988079071;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: gold
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: 1.699999988079071;62.5;-81.69999998807907;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: iron
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: -0.699999988079071;62.5;-81.69999998807907;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: gold
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: 83.69999998807907;62.5;2.699999988079071;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: iron
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: 83.69999998807907;62.5;0.30000001192092896;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: gold
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: 47.518707593461116;64.0;45.57006732702526;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: diamond
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: 44.603728750237664;64.0;-45.47759690647028;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: diamond
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: -46.53830737609967;64.0;-42.48220020542423;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: diamond
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: -43.58668805729493;64.0;48.5680306777061;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: diamond
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: 0.5399925813363347;84.0;1.6260143431208103;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: emerald
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: 0.3630132263707587;65.0;1.493327118846848;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: emerald
+stores:
+- isBaby: 'false'
+  loc: -5.699999988079071;63.0;80.90904985363801;-89.55176;0.29996544
+  parent: 'true'
+  shop: shop.yml
+  name: §6Shop
+  skin: null
+  type: VILLAGER
+- isBaby: 'false'
+  loc: -78.94696059199664;63.0;-4.699999988079071;1.5031738;-0.90002656
+  parent: 'true'
+  shop: shop.yml
+  name: §6Shop
+  skin: null
+  type: VILLAGER
+- isBaby: 'false'
+  loc: 79.94201654329537;63.0;7.699999988079071;-179.25781;-1.6500125
+  parent: 'true'
+  shop: shop.yml
+  name: §6Shop
+  skin: null
+  type: VILLAGER
+- isBaby: 'false'
+  loc: -5.699999988079071;63.0;-78.05622803056058;-90.75342;-1.500023
+  parent: 'true'
+  shop: upgradeShop.yml
+  name: §aUpgrades
+  skin: null
+  type: VILLAGER
+- isBaby: 'false'
+  loc: 80.0361918655853;63.0;-4.699999988079071;0.89208984;0.14998792
+  parent: 'true'
+  shop: upgradeShop.yml
+  name: §aUpgrades
+  skin: null
+  type: VILLAGER
+- isBaby: 'false'
+  loc: 6.699999988079071;63.0;-77.88330585503871;89.99805;-1.2000229
+  parent: 'true'
+  shop: shop.yml
+  name: §6Shop
+  skin: null
+  type: VILLAGER
+- isBaby: 'false'
+  loc: -79.06116125298136;63.0;7.699999988079071;-178.94629;-1.6500238
+  parent: 'true'
+  shop: upgradeShop.yml
+  name: §aUpgrades
+  skin: null
+  type: VILLAGER
+- isBaby: 'false'
+  loc: 6.699999988079071;63.0;81.11416862845087;91.34839;-0.30003393
+  parent: 'true'
+  shop: upgradeShop.yml
+  name: §aUpgrades
+  skin: null
+  type: VILLAGER
+constant:
+  compass-enabled: inherit
+  add-wool-to-inventory-on-join: inherit
+  in-lobby-colored-leather-by-team: inherit
+  allow-crafting: inherit
+  join-randomly-after-lobby-timeout: inherit
+  join-randomly-on-lobby-join: inherit
+  keep-inventory-on-death: inherit
+  prevent-killing-villagers: inherit
+  player-drops: inherit
+  friendlyfire: inherit
+  lobbybossbar: inherit
+  bossbar: inherit
+  lobbyscoreboard: inherit
+  scoreboard: inherit
+  prevent-spawning-mobs: inherit
+  spawner-holograms: inherit
+  spawner-disable-merge: inherit
+  game-start-items: inherit
+  player-respawn-items: inherit
+  spawner-holograms-countdown: inherit
+  damage-when-player-is-not-in-arena: inherit
+  remove-unused-target-blocks: inherit
+  allow-block-falling: inherit
+  holo-above-bed: inherit
+  allow-spectator-join: inherit
+  anchor-auto-fill: inherit
+  anchor-decreasing: inherit
+  cake-target-block-eating: inherit
+  target-block-explosions: inherit
+arenaTime: WORLD
+arenaWeather: default
+lobbyBossBarColor: default
+gameBossBarColor: default

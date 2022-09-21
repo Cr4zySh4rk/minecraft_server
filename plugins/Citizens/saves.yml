@@ -1,0 +1,134 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 1
+npc:
+  '1':
+    metadata:
+      cached-skin-uuid: 509f1ef4-bf9e-4ffd-8386-4ee2383b6a13
+      cached-skin-uuid-name: butelkapokubusiu
+    name: §a§lBedWars §a§o(Doubles)
+    uuid: c03beaf0-adc3-48c7-b299-51a4a7d3a1b2
+    traits:
+      type: PLAYER
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+        commands:
+          '0':
+            command: sba gamesinv double
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+      inventory:
+        '0':
+          type_key: iron_sword
+          amount: 1
+        '40':
+          type_key: blue_wool
+          amount: 1
+      equipment:
+        hand:
+          type_key: iron_sword
+          amount: 1
+        offhand:
+          type_key: blue_wool
+          amount: 1
+      skintrait:
+        fetchDefaultSkin: true
+        signature: dCI5AzglV6kuKGE7Mmk2cBVzV1KZFZDvvz4MO/dHnbJ7BWUL4YKhHuwTwAjKsFrkAdrSWrfqiUPZEyu1yIa3NaXd87IIMIzRN0MyGgxLifDloma+pqHU/DJUBgdrurAu9JR1Z+Bqg6IuIq1cUVHiR09q2Eac+rlYqSCPRvYvoVsGkqWCodgk8PdAfj/v2YHs4jQwg+twMMb2j5Zx9H0xwC6a4qD0MlHsUd/JPZRBSpIsTkZsejS8OBs4NpXAi8TzRks0pDPo4irdL06XE3J11Z3hfOLFaZXiLvdF+TAMU1NcW/f69HlNstAAzdGi+nDT5Qco+waFPpRvDaXkQbQQCHQJD85mKpc6ARGPG5M4650u10OoHZUF42MPwM8qgP+DyMHEZ2d/0bNWFhwhcrRY8tH/2qHNwsNGdG9h6KjbXiuUf2Hbwe2o3zq3KcU/x/gSRBKM2N1icP7DvvAVu64pvsIgaYFSu21hTEXWyqyv5gtb5dmzcWvPuE7B6rSP5aoWmD9A0ePhzVf4dljrj3Td7I6GmlWWsLzbn2QoqC/iGLzrxz44imYnSVUNSf+pol3F/0Pp5Ucq1LEQRKvjfsiA80CNTvsIK//R/Qf4s5CVjRhZ1KwtRootny8kFz2SBhaJCYskWssJJBIjv4vNyv91Tm0DnCXOCvC0LOPLlyTSZ5U=
+        skinName: butelkapokubusiu
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY1ODAyNzk4MzM3OCwKICAicHJvZmlsZUlkIiA6ICI1MDlmMWVmNGJmOWU0ZmZkODM4NjRlZTIzODNiNmExMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdXRlbGthUG9LdWJ1c2l1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM4YzQxMDQ3NGE5NTgzNjQxMTk4ZTRhYzVhMjlhY2M1Yjg2NzI4OGViM2E4ODhlZWY2YTdlN2Q2OWQyZjY3ZGUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==
+        updateSkins: false
+      age:
+        age: 0
+        locked: true
+      spawned: true
+      owner:
+        uuid: 5230eda3-f65b-34e1-acae-ca59c2de6a7e
+      hologramtrait:
+        direction: BOTTOM_UP
+        lineHeight: -1.0
+      location:
+        bodyYaw: 7.399994
+        world: BWLobby
+        x: '11.5551'
+        y: '98.0625'
+        z: '-19.4804'
+        yaw: '7.4'
+        pitch: '0.4499'
+    traitnames: scoreboardtrait,commandtrait,type,owner,skintrait,hologramtrait,age,inventory,location,mounttrait,equipment,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '0':
+    metadata:
+      cached-skin-uuid: 1e371c1d-bc29-4283-8c5f-ec4b501e0ce8
+      cached-skin-uuid-name: alyler
+    name: §6§lBedWars §6§o(Solo)
+    uuid: 8292ca01-b014-4e70-91cd-46668ea69792
+    traits:
+      type: PLAYER
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+        commands:
+          '0':
+            command: sba gamesinv solo
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+      inventory:
+        '0':
+          type_key: iron_sword
+          amount: 1
+        '40':
+          type_key: red_wool
+          amount: 1
+      equipment:
+        hand:
+          type_key: iron_sword
+          amount: 1
+        offhand:
+          type_key: red_wool
+          amount: 1
+      skintrait:
+        fetchDefaultSkin: true
+        signature: oOF7snfhGCkPTQemtvqYTx9XabRKyKZ/LLZ3lIRiiKtni8HUxnoLV3C7uAMAAL8B/pnO28X9sYUjyydUWz/XkhQfUEKsLW69c0dBAfTeKaE1SUCvCaEKbPclfcOkeUVnkBjfugV0RJk5k/vGHpJ/WkmuKAoNJvGGRPPTx70jjBQycBGYd7MbF2N4xlfJetvjjdBv3K8uPi5oXO+HYbQ4m3BTW1k93AGPHC/6j8C5THOCNUsAQ5X+MypHNR7NNP8FZ3r0jGHU/DB5z5RcpgSV9+O2sywjblje+OMUFQTvi6PtU9a9q1igpT+o7vX3gWcQA6Sgfw/graATsIDNmtUqmVQTeDffXQvSaC6WlLgyhHDd1MTVAqbb/f8WdRrcFKP3C5FhOOlHbEHJynC7u77TZZGL0EtgjlXZe+tXxC7KcZDA7P8XLCUUkwd3h9g4hCeZGjPenHAQ0NXAq1471jEFgLTlE5RD4pRci+iYUl/3KkAryfLILjKytf+zyLlMZzxKRitdO4sY7JG+rl+HbndACTprQHE0MiLX6LvdGlgtMRaG6B8pTVZEuWDROrwkW7c45taEO1WrmJiuLe+Vq+FPUgOkBswASnh3RGB+71JJ3oYOzm5+wy0Knl0Rf0+8i7s6vfOMZohfs3zdA+AnygDpv3tPt6Y7ZFsw79cgzIAG9hY=
+        skinName: alyler
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY1ODAyNzkyMDU4MSwKICAicHJvZmlsZUlkIiA6ICIxZTM3MWMxZGJjMjk0MjgzOGM1ZmVjNGI1MDFlMGNlOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJhbHlsZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGI4MjJiMmFkMGEyNDYxZDFkYTg0NWEyNGUxNmRiY2U1ODU4NTQyNjU2YWUyY2I0OTcyNDIzYTIwMDBhMWQzOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzNDBjMGUwM2RkMjRhMTFiMTVhOGIzM2MyYTdlOWUzMmFiYjIwNTFiMjQ4MWQwYmE3ZGVmZDYzNWNhN2E5MzMiCiAgICB9CiAgfQp9
+        updateSkins: false
+      age:
+        age: 0
+        locked: true
+      spawned: true
+      owner:
+        uuid: 5230eda3-f65b-34e1-acae-ca59c2de6a7e
+      hologramtrait:
+        direction: BOTTOM_UP
+        lineHeight: -1.0
+      location:
+        bodyYaw: -8.35002
+        world: BWLobby
+        x: '5.5052'
+        y: '98.0625'
+        z: '-19.5847'
+        yaw: '-8.35'
+        pitch: '2.0999'
+    traitnames: scoreboardtrait,commandtrait,type,skintrait,owner,hologramtrait,age,inventory,location,mounttrait,equipment,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

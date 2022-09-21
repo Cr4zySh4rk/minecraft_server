@@ -1,0 +1,57 @@
+(1)[2022/08/14 09:42:40]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin failed
+  MorePackets (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping: 8ms),
+  (TPS: 19.801), (Hacker: false), (Online: 1), (type: instant, overall: 3.639556982194967,
+  last-tick: 0, ticks-requirement: 10, decreased-requirement: false)]'
+(2)[2022/08/14 10:40:31]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed NoSwing (VL: 1) [(Version: Paper 1.18), (C-V: 2) (Silent: true), (Ping: 1ms),
+  (TPS: 19.864), (Hacker: false), (Online: 1), (type: break, block: dirt, item: iron-shovel)]'
+(3)[2022/08/14 10:58:16]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed EntityMove (VL: 1) [(Version: Paper 1.18), (C-V: 3) (Silent: true), (Ping:
+  2ms), (TPS: 19.992), (Hacker: false), (Online: 1), (entity: boat, type: ground(horizontal),
+  horizontal: 0.4584703726716979, limit: 0.4, ticks: 626)]'
+(4)[2022/08/14 10:58:17]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed EntityMove (VL: 2) [(Version: Paper 1.18), (C-V: 3) (Silent: true), (Ping:
+  2ms), (TPS: 19.809), (Hacker: false), (Online: 1), (entity: boat, type: ground(horizontal),
+  horizontal: 0.4468341553327801, limit: 0.4, ticks: 629)]'
+(5)[2022/08/14 11:12:20]: Darkphantom_21 found 1 emerald on 74, 163, -681
+(6)[2022/08/14 11:13:06]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed NoFall (VL: 1) [(Version: Paper 1.18), (C-V: 3) (Silent: true), (Ping: 1ms),
+  (TPS: 19.849), (Hacker: false), (Online: 1), (type: ratio, blocks: 4, case: 1)]'
+(7)[2022/08/14 13:39:02]: Yaotzin found 1 diamond on 439, -12, 75
+(8)[2022/08/14 13:39:05]: Yaotzin found 1 diamond on 438, -12, 75
+(9)[2022/08/14 13:39:07]: Yaotzin found 1 diamond on 438, -12, 74
+(10)[2022/08/14 13:39:08]: Yaotzin found 1 diamond on 438, -12, 74
+(11)[2022/08/14 13:39:10]: Yaotzin found 1 diamond on 438, -12, 74
+(12)[2022/08/14 13:46:55]: Yaotzin found 1 gold on 384, -11, 93
+(13)[2022/08/14 13:46:58]: Yaotzin found 1 gold on 384, -10, 92
+(14)[2022/08/14 13:53:27]: Yaotzin found 1 diamond on 360, -16, 113
+(15)[2022/08/14 13:53:29]: Yaotzin found 1 diamond on 360, -16, 113
+(16)[2022/08/14 13:53:33]: Yaotzin found 1 diamond on 360, -16, 113
+(17)[2022/08/14 13:53:34]: Yaotzin found 1 diamond on 360, -16, 113
+(18)[2022/08/14 13:53:36]: Yaotzin found 1 diamond on 360, -16, 113
+(19)[2022/08/14 13:53:45]: Yaotzin found 1 diamond on 359, -18, 114
+(20)[2022/08/14 13:53:47]: Yaotzin found 1 diamond on 359, -18, 114
+(21)[2022/08/14 13:53:50]: Yaotzin found 1 diamond on 360, -18, 114
+(22)[2022/08/14 13:53:52]: Yaotzin found 1 diamond on 360, -18, 114
+(23)[2022/08/14 13:54:03]: Yaotzin found 1 gold on 368, -16, 104
+(24)[2022/08/14 13:59:32]: Yaotzin found 1 gold on 315, -13, 160
+(25)[2022/08/14 13:59:33]: Yaotzin found 1 gold on 315, -13, 161
+(26)[2022/08/14 13:59:44]: Yaotzin found 1 gold on 314, -12, 162
+(27)[2022/08/14 13:59:46]: Yaotzin found 1 gold on 315, -12, 162
+(28)[2022/08/14 13:59:47]: Yaotzin found 1 gold on 315, -12, 162
+(29)[2022/08/14 13:59:49]: Yaotzin found 1 gold on 315, -14, 163
+(30)[2022/08/14 13:59:50]: Yaotzin found 1 gold on 315, -14, 163
+(31)[2022/08/14 13:59:54]: Yaotzin found 1 gold on 316, -14, 163
+(32)[2022/08/14 14:01:30]: Yaotzin found 1 gold on 479, -4, 108
+(33)[2022/08/14 14:01:32]: Yaotzin found 1 gold on 479, -4, 109
+(34)[2022/08/14 14:01:38]: Yaotzin found 1 gold on 482, -4, 109
+(35)[2022/08/14 14:01:55]: Yaotzin found 1 gold on 488, 0, 95
+(36)[2022/08/14 14:01:57]: Yaotzin found 1 gold on 489, 0, 96
+(37)[2022/08/14 14:02:05]: Yaotzin found 1 gold on 491, 4, 95
+(38)[2022/08/14 14:02:06]: Yaotzin found 1 gold on 491, 4, 95
+(39)[2022/08/14 14:02:08]: Yaotzin found 1 gold on 491, 4, 95
+(40)[2022/08/14 14:02:09]: Yaotzin found 1 gold on 491, 4, 95
+(41)[2022/08/14 14:02:11]: Yaotzin found 1 gold on 491, 4, 95
+(42)[2022/08/14 14:02:13]: Yaotzin found 1 gold on 492, 5, 95
+(43)[2022/08/14 14:02:15]: Yaotzin found 1 gold on 492, 5, 95
+(44)[2022/08/14 14:16:33]: Yaotzin found 1 gold on 471, -16, 285

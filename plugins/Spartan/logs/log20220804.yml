@@ -1,0 +1,58 @@
+(1)[2022/08/04 16:26:12]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 0ms), (TPS: 20.0), (Hacker: false), (Online: 2), (instance: horizontal-motion(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 59, horizontal: 0.2802646498306538)]'
+(2)[2022/08/04 16:49:51]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 0ms), (TPS: 20.0), (Hacker: false), (Online: 3), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 9, horizontal: 0.2802665024938652)]'
+(3)[2022/08/04 16:49:54]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 0ms), (TPS: 20.0), (Hacker: false), (Online: 3), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 31, horizontal: 0.27980544389409645)]'
+(4)[2022/08/04 16:50:09]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 13ms), (TPS: 19.7), (Hacker: false), (Online: 3), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 10, horizontal: 0.17120886769424917)]'
+(5)[2022/08/04 17:23:46]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 17ms), (TPS: 19.884), (Hacker: false), (Online: 3), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.5, air: 22, horizontal: 0.11320347401948035)]'
+(6)[2022/08/04 17:29:15]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 1ms), (TPS: 19.964), (Hacker: false), (Online: 3), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion:
+  0.08307781780646906, box: 0.2522033402537289, old-box: 0.24918707874468282, air:
+  20, horizontal: 0.07966755604455618)]'
+(7)[2022/08/04 17:41:08]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.833), (Hacker: false), (Online: 3), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 13, horizontal: 0.11701721172789803)]'
+(8)[2022/08/04 17:47:28]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed FastBreak (VL: 1) [(Version: Paper 1.18), (C-V: 2) (Silent: true), (Ping:
+  0ms), (TPS: 19.964), (Hacker: false), (Online: 3), (type: delay, time: 1365, limit:
+  4450, difference: 3085, block: dirt, item: stone-shovel, enchantments: none, effects:
+  none)]'
+(9)[2022/08/04 18:35:45]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 16ms), (TPS: 19.996), (Hacker: false), (Online: 2), (instance: horizontal-motion(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.5, air: 40, horizontal: 0.0)]'
+(10)[2022/08/04 18:38:59]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed NoFall (VL: 1) [(Version: Paper 1.18), (C-V: 3) (Silent: true), (Ping: 16ms),
+  (TPS: 19.872), (Hacker: false), (Online: 2), (type: ratio, blocks: 20, case: 1)]'
+(11)[2022/08/04 18:39:21]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed Exploits (VL: 1) [(Version: Paper 1.18), (C-V: 3) (Silent: true), (Ping:
+  3ms), (TPS: 20.0), (Hacker: false), (Online: 2), (type: head-position(yaw), case:
+  1, difference: 3.0)]'
+(12)[2022/08/04 18:40:01]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 17ms), (TPS: 19.853), (Hacker: false), (Online: 2), (instance: horizontal-motion(4/20/8),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.5625, air: 23, horizontal: 0.0)]'

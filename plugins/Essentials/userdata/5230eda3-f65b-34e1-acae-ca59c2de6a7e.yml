@@ -1,0 +1,57 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.1.194
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1663787641868
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1663787645526
+  login: 1663787582536
+  kits:
+    claim: 1660232882151
+money: '150.20'
+last-account-name: W4RL0CKM0NK3Y
+lastlocation:
+  world: a6f6322d-2f63-4b4d-a3fa-72aa7d349b23
+  world-name: survival
+  x: -40.548602507590886
+  y: 64.0
+  z: -68.42483800302206
+  yaw: 89.69954681396484
+  pitch: -0.15001405775547028
+logoutlocation:
+  world: a6f6322d-2f63-4b4d-a3fa-72aa7d349b23
+  world-name: survival
+  x: 9.5
+  y: 93.0
+  z: -528.5
+  yaw: -97.64996337890625
+  pitch: 7.050004959106445
+homes:
+  ironfarm:
+    world: a6f6322d-2f63-4b4d-a3fa-72aa7d349b23
+    world-name: survival
+    x: 453.47539960850406
+    y: 64.0
+    z: -233.3045083238616
+    yaw: -177.45005798339844
+    pitch: 12.599995613098145
+  home:
+    world: a6f6322d-2f63-4b4d-a3fa-72aa7d349b23
+    world-name: survival
+    x: 9.579213632883421
+    y: 93.0
+    z: -528.6894611551079
+    yaw: -97.64996337890625
+    pitch: 7.050004959106445

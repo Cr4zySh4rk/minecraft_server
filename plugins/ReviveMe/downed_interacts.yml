@@ -1,0 +1,47 @@
+# ######################################################################################
+# #               | ___ \             (_)             |  \/  |                        ##
+# #               | |_/ /  ___ __   __ _ __   __  ___ | .  . |  ___                   ##
+# #               |    /  / _ \\ \ / /| |\ \ / / / _ \| |\/| | / _ \                  ##
+# #               | |\ \ |  __/ \ V / | | \ V / |  __/| |  | ||  __/                  ##
+# #               \_| \_| \___|  \_/  |_|  \_/   \___|\_|  |_/ \___|                  ##
+# ######################################################################################
+
+# the downed player can hit?
+enable_damage: false
+
+# can the downed player interact with entities?
+enable_entity_interact: true
+
+# can the downed player break blocks?
+enable_block_break: true
+
+# can the downed player place blocks?
+enable_block_place: true
+
+# can the downed player interact?
+enable_interact: true
+
+# the downed player can move?
+enable_move: true
+
+# can the downed player teleport?
+enable_teleport: true
+
+# can the downed player shoot with a bow?
+enable_shoot_bow: true
+
+# can the downed player launch projectiles?
+enable_projectile_launch: true
+
+# downed player can be damaged by falling?
+enable_fall_damage: false
+
+# Can the downed player drop items?
+enable_item_drop: true
+
+# Can the downed player pick up items?
+enable_item_pickup: true
+
+# Can the downed player use the elytra?
+enable_gliding: true
+max_fall_distance: -1

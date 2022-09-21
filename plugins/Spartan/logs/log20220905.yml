@@ -1,0 +1,19 @@
+(1)[2022/09/05 14:37:04]: Yaotzin found 1 gold on 573, -1, -121
+(2)[2022/09/05 14:37:07]: Yaotzin found 1 gold on 573, -2, -119
+(3)[2022/09/05 14:37:08]: Yaotzin found 1 gold on 573, -2, -119
+(4)[2022/09/05 14:37:09]: Yaotzin found 1 gold on 573, -3, -119
+(5)[2022/09/05 14:37:11]: Yaotzin found 1 gold on 573, -3, -118
+(6)[2022/09/05 14:37:13]: Yaotzin found 1 gold on 573, -3, -118
+(7)[2022/09/05 14:37:16]: Yaotzin found 1 gold on 573, -3, -118
+(8)[2022/09/05 15:04:12]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin failed
+  IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true), (Ping:
+  7ms), (TPS: 19.88), (Hacker: true), (Online: 1), (instance: greater-jump(1), scenario:
+  ground-interaction, up/down: 1, jump/fall: 1, motion: 0.2481250000000017, old-motion:
+  0.164773281826065, box: 0.41423426093821547, old-box: 0.16610926093821377, air:
+  1, horizontal: 0.19293274961956597)]'
+(9)[2022/09/05 18:15:35]: '[Spartan Phase 478/155-656903/122613-002092] Sid failed
+  IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping:
+  45ms), (TPS: 19.821), (Hacker: false), (Online: 1), (instance: step-air(1), extra:
+  (difference: 1.0244240882136921, base-limit: 2.0, limit: 2.0), scenario: neutral,
+  up/down: 1, jump/fall: 1, motion: -0.15233518685055003, old-motion: -0.07544406518948676,
+  box: 0.02442408821369213, old-box: 0.17675927506424216, air: 0, horizontal: 0.10529771894049958)]'

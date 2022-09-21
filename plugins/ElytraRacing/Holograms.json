@@ -1,0 +1,67 @@
+{
+  "Holograms": [
+    {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "world": "<worldname>",
+      "hologram_type": "PERSONAL_STATS",
+      "option_map": null,
+      "name": "064521"
+    },
+    {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "world": "<worldname>",
+      "hologram_type": "RANK_MAP",
+      "option_map": "<map_name>",
+      "name": "17c783"
+    },
+    {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "world": "<worldname>",
+      "hologram_type": "RANK_MAP",
+      "option_map": "<map_name>",
+      "name": "7c6d82"
+    },
+    {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "world": "<worldname>",
+      "hologram_type": "RANK_SCORE",
+      "option_map": null,
+      "name": "33e58a"
+    },
+    {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "world": "<worldname>",
+      "hologram_type": "RANK_WON_GRANDPRIX",
+      "option_map": null,
+      "name": "ee1261"
+    },
+    {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "world": "<worldname>",
+      "hologram_type": "RANK_WON_RACEMODE",
+      "option_map": "<map_name>",
+      "name": "967b42"
+    },
+    {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "world": "<worldname>",
+      "hologram_type": "PERSONAL_MAPS",
+      "option_map": "null",
+      "name": "5e21bd"
+    }
+  ]
+}

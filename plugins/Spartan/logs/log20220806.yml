@@ -1,0 +1,89 @@
+(1)[2022/08/06 17:20:15]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.79), (Hacker: false), (Online: 2), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 7, horizontal: 0.3367683317493756)]'
+(2)[2022/08/06 17:20:15]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.739), (Hacker: false), (Online: 2), (instance: horizontal-motion(4/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 20, horizontal: 0.3367374377490221)]'
+(3)[2022/08/06 17:34:53]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 9ms), (TPS: 19.109), (Hacker: false), (Online: 2), (instance: ground-up(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.13288801814746876, old-motion:
+  0.21560001587867816, box: 0.8277817471574451, old-box: 0.6948937290099764, air:
+  0, horizontal: 0.014374839150036678)]'
+(4)[2022/08/06 17:47:17]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 2), (instance: step-air(1),
+  extra: (difference: 1.0784186500196853, base-limit: 2.0, limit: 2.0), scenario:
+  neutral, up/down: 1, jump/fall: 1, motion: -0.07544406518948676, old-motion: 0.003016261509046103,
+  box: 0.17675927506424216, old-box: 0.2522033402537289, air: 38, horizontal: 0.27637086707567454)]'
+(5)[2022/08/06 17:49:09]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed GhostHand (VL: 1) [(Version: Paper 1.18), (C-V: 5) (Silent: true), (Ping:
+  4ms), (TPS: 19.801), (Hacker: false), (Online: 2), (type: break, block: grass-block,
+  real-block: grass-block)]'
+(6)[2022/08/06 17:51:55]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed GhostHand (VL: 1) [(Version: Paper 1.18), (C-V: 5) (Silent: true), (Ping:
+  4ms), (TPS: 19.892), (Hacker: false), (Online: 2), (type: break, block: dirt, real-block:
+  grass-block)]'
+(7)[2022/08/06 17:52:13]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.743), (Hacker: false), (Online: 2), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 8, horizontal: 0.2575960548437407)]'
+(8)[2022/08/06 17:52:13]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.723), (Hacker: false), (Online: 2), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 14, horizontal: 0.25881746915099624)]'
+(9)[2022/08/06 18:01:20]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed MorePackets (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping:
+  7ms), (TPS: 19.868), (Hacker: false), (Online: 2), (type: horizontal(positive),
+  total-horizontal: 0.24153360844973495, total-vertical: 0.0, extra-ticks: 8, extra-packets:
+  2, tick-average: 50.0)]'
+(10)[2022/08/06 18:17:28]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 2ms), (TPS: 19.996), (Hacker: false), (Online: 2), (instance: step-air(1),
+  extra: (difference: 1.5358406250445569, base-limit: 2.0, limit: 2.0), scenario:
+  neutral, up/down: 1, jump/fall: 1, motion: -0.23052736891296632, old-motion: -0.15523200451659847,
+  box: 0.5358406250445569, old-box: 0.7663679939575232, air: 0, horizontal: 0.1079777826612831)]'
+(11)[2022/08/06 18:20:20]: Castiel2503 landed a critical hit with air and 6.0 damage
+(12)[2022/08/06 18:23:37]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  won the fight against Castiel2503: outcome|kill, duration|59788, hits|11|30, hit-time-average|4989|1988,
+  reach-average|2.1157732102058655|2.016513845420851, max-cps|5|5, yaw-rate|2.1818278|16.190115,
+  pitch-rate|1.2545447|1.6900003, vertical-velocity|-0.30292/20.32052/20.0/11.08632/20.33438/20.49908/20.58209/20.58209/20.50369/20.34846/20.11793/2-0.18638/20.43698/21.0/20.41999/20.7532/21.00133/20.16611/20.24918/20.2522/20.17675/20.02442/10.78075/21.05588/20.24711/20.35612/10.33401/20.20608/20.0023/2-0.27579/20.37327/1-0.12783/20.64456/20.34311/2-0.03071/20.52454/20.01029/10.41999/20.7532/21.00133/20.16611/20.24918/20.2522/20.17675/10.36074/20.63588/20.82711/20.93612/20.96455/20.91401/20.78607/20.5823/10.00133/20.16611/20.24918/20.2522/20.17675/20.02442/2-0.20327/20.4952/20.12129/11.08632/20.33438/20.49908/20.58209/20.58209/20.50369/20.34846/20.11793/2-0.18638/20.43698/10.26757/20.0/20.41999/20.7532/21.00133/20.16611/20.24918/20.17675/20.02442/2-0.20327/20.4952/10.0/20.41999/20.7532/21.00133/20.16611/20.24918/20.2522/20.17675/20.02442/2-0.20327/20.4952/20.12129|0.78607/20.5823/20.30421/10.63588/20.82711/20.93612/20.96455/10.36074/20.63588/20.82711/20.93612/20.96455/10.63588/20.82711/20.93612/20.96455/20.91401/20.78607/20.5823/20.30421/10.36074/20.63588/20.82711/20.93612/20.96455/20.91401/20.78607/20.5823/20.30421,
+  horizontal-velocity| |0.11427/20.1074/20.10258/10.19532/20.17566/20.15685/20.13889/10.32243/20.16244/20.13548/20.11259/20.09395/10.27106/20.25955/20.24732/20.23498/20.21974/20.20579/20.19481/20.18497/10.34364/20.17919/20.15654/20.13775/20.12135/20.10852/20.09865/20.09084/20.08806'
+(13)[2022/08/06 18:25:02]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.9), (Hacker: false), (Online: 2), (instance: step-air(1),
+  extra: (difference: 1.1767592750642422, base-limit: 2.0, limit: 2.0), scenario:
+  neutral, up/down: 1, jump/fall: 1, motion: -0.07544406518948676, old-motion: 0.003016261509046103,
+  box: 0.17675927506424216, old-box: 0.2522033402537289, air: 1, horizontal: 0.25917604308571746)]'
+(14)[2022/08/06 18:25:10]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed HitReach (VL: 1) [(Version: Paper 1.18), (C-V: 3) (Silent: true), (Ping:
+  7ms), (TPS: 19.912), (Hacker: false), (Online: 2), (type: horizontal(short), distance:
+  3.6838721198420825, limit: 3.6, minimum-limit: 6.0, entities: 1)]'
+(15)[2022/08/06 18:25:10]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed HitReach (VL: 2) [(Version: Paper 1.18), (C-V: 3) (Silent: true), (Ping:
+  7ms), (TPS: 19.904), (Hacker: false), (Online: 2), (type: horizontal(short), distance:
+  4.1428552475024345, limit: 3.6, minimum-limit: 6.0, entities: 1)]'
+(16)[2022/08/06 18:26:28]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed HitReach (VL: 1) [(Version: Paper 1.18), (C-V: 3) (Silent: true), (Ping:
+  7ms), (TPS: 19.88), (Hacker: false), (Online: 2), (type: horizontal(short), distance:
+  3.8443513761756587, limit: 3.6, minimum-limit: 6.0, entities: 1)]'
+(17)[2022/08/06 18:29:17]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed KillAura (VL: 1) [(Version: Paper 1.18), (C-V: 1) (Silent: true), (Ping:
+  2ms), (TPS: 19.857), (Hacker: false), (Online: 2), (type: area(cases), c: -3)]'
+(18)[2022/08/06 18:29:21]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  won the fight against Castiel2503: outcome|kill, duration|37471, hits|4|44, hit-time-average|2080|848,
+  reach-average|2.5322824993905892|2.4622266196991838, max-cps|6|6, yaw-rate|10.087494|10.176133,
+  pitch-rate|0.11249924|1.4897732, vertical-velocity|0.0/20.0/20.0/10.02442/2-0.20327/20.4952/20.12129/10.0/20.0/20.41999/20.7532/21.00133/10.8674/21.05863/20.16764/20.19607/20.14553/20.0176/10.00133/20.16611/20.24918/20.2522/20.17675/20.02442/2-0.20327/10.63588/20.82711/20.93612/20.96455/20.91401/20.78607/20.5823/20.30421/10.63588/20.82711/20.93612/20.93612/20.96455/20.91401/20.78607/20.5823/20.30421/11.08632/20.33438/20.49908/20.58209/20.58209/20.50369/20.34846/20.11793/2-0.18638/20.43698/10.0/20.41999/20.7532/21.00133/20.16611/20.24918/20.2522/20.17675/20.02442/2-0.20327/20.4952/10.12422/20.0/20.41999/20.7532/21.00133/20.16611/20.24918/20.2522/20.17675/20.02442/2-0.20327/20.4952/20.12129|0.0/20.0/20.0/10.63588/20.82711/20.93612/20.96455/20.91401/20.78607/20.5823/10.78075/21.05588/20.24711/20.35612/20.38455/20.33401/20.20608/20.0023/2-0.27579/10.0/20.0/20.0/20.41999/20.7532/21.00133/20.16611/20.24918/20.2522/20.17675,
+  horizontal-velocity|0.2789/20.37405/20.33032/10.09913/20.09596/20.09583/20.09883/10.13469/20.13877/20.15917/20.10648/20.11648/10.35087/20.31722/20.27953/20.2349/20.19569/20.16192/10.85363/20.12277/20.13078/20.13165/20.13405/20.13749/20.1416/10.14586/20.11341/20.08471/20.05934/20.03768/20.02341/20.02483/20.03448/10.30179/20.29832/20.29746/20.0/20.25428/20.13404/20.14708/20.15381/20.15984/10.3813/20.32828/20.27965/20.23944/20.20421/20.17333/20.14062/20.12504/20.11425/20.10802/10.41756/20.47034/20.27537/20.26926/20.23839/20.21249/20.19075/20.17306/20.14612/20.12437/20.10821/10.28501/20.27504/20.33553/20.20126/20.2014/20.20163/20.20211/20.2028/20.20363/20.20522/20.20671/20.20808/20.20933|0.11289/20.16798/20.06439/10.13974/20.10368/20.09251/20.08663/20.08556/20.08833/20.0943/10.38419/20.3343/20.28944/20.24933/20.21372/20.18252/20.15575/20.13345/20.11608/10.09652/20.14002/20.16043/20.18395/20.12014/20.1291/20.13496/20.13671/20.13969/20.14352'
+(19)[2022/08/06 18:36:29]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.904), (Hacker: false), (Online: 2), (instance: inside-blocks(1),
+  extra: (to: [air, oak-planks], from: [air, spruce-planks]), scenario: inside-blocks,
+  up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box: 0.0, air: 0, horizontal:
+  0.2171039188574966)]'

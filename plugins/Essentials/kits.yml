@@ -1,0 +1,10 @@
+kits:
+  admin:
+    delay: 1
+    items:
+    - golden_hoe 1
+  claim:
+    delay: 1800
+    items:
+    - golden_shovel 1
+    - stick 1

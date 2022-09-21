@@ -1,0 +1,24 @@
+{
+  "DEFAULT_QUEUE": "play",
+  "ENABLED_QUEUES": [
+    "play"
+  ],
+  "DISABLED_QUEUES": [],
+  "autoGamesList": [
+    {
+      "name": "default",
+      "maps": [
+        "",
+        "",
+        ""
+      ],
+      "minplayers": 2,
+      "maxplayers": 10,
+      "mapnumber": 1,
+      "randomMapSorting": true,
+      "enabled": true,
+      "queue": "play",
+      "permission": null
+    }
+  ]
+}

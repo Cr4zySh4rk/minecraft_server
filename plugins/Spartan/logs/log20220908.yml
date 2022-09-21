@@ -1,0 +1,31 @@
+(1)[2022/09/08 10:49:19]: Yaotzin found 1 gold on 18, 60, -41
+(2)[2022/09/08 10:49:22]: Yaotzin found 1 gold on 18, 60, -40
+(3)[2022/09/08 10:49:23]: Yaotzin found 1 gold on 18, 60, -39
+(4)[2022/09/08 10:49:24]: Yaotzin found 1 gold on 18, 60, -39
+(5)[2022/09/08 10:49:25]: Yaotzin found 1 gold on 18, 60, -39
+(6)[2022/09/08 10:49:26]: Yaotzin found 1 gold on 18, 60, -39
+(7)[2022/09/08 10:49:27]: Yaotzin found 1 gold on 18, 60, -39
+(8)[2022/09/08 10:49:28]: Yaotzin found 1 gold on 18, 60, -39
+(9)[2022/09/08 10:49:29]: Yaotzin found 1 gold on 17, 60, -39
+(10)[2022/09/08 10:55:30]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin failed
+  IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping:
+  8ms), (TPS: 19.853), (Hacker: false), (Online: 1), (instance: horizontal-motion(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.5625, air: 91, horizontal: 0.0)]'
+(11)[2022/09/08 10:55:30]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin failed
+  IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping:
+  8ms), (TPS: 19.996), (Hacker: false), (Online: 1), (instance: horizontal-motion(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.5625, air: 94, horizontal: 0.15148480127371688)]'
+(12)[2022/09/08 10:55:31]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin failed
+  IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping:
+  8ms), (TPS: 19.868), (Hacker: false), (Online: 1), (instance: horizontal-motion(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.5625, air: 96, horizontal: 0.1966641975103093)]'
+(13)[2022/09/08 10:55:31]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin failed
+  IrregularMovements (VL: 4) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping:
+  8ms), (TPS: 19.996), (Hacker: false), (Online: 1), (instance: position-fall(2/20/2),
+  extra: (difference: 0), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.23052736891295922,
+  old-motion: -0.15523200451660557, box: 0.09834062504455687, old-box: 0.3288679939575161,
+  air: 99, horizontal: 0.13889482407421874)]'
+(14)[2022/09/08 10:58:46]: Yaotzin found 1 gold on -60, 48, -145

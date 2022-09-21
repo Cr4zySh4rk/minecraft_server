@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.1.194
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1657822710590
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1657824261499
+  login: 1657824165334
+  kits:
+    admin: 1657631483435
+money: '0'
+last-account-name: W4RL0CKM0NK3Y
+lastlocation:
+  world: 5291af83-a9c5-4c5e-8888-9fac3d41f84a
+  world-name: BWLobby
+  x: 9.182444371303411
+  y: 100.0
+  z: 8.423463368645466
+  yaw: -89.1998519897461
+  pitch: 13.050010681152344
+logoutlocation:
+  world: 5291af83-a9c5-4c5e-8888-9fac3d41f84a
+  world-name: BWLobby
+  x: 7.0512698188180485
+  y: 97.0
+  z: -17.04985658334648
+  yaw: -11.494110107421875
+  pitch: 6.449889659881592

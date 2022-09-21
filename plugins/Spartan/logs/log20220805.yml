@@ -1,0 +1,12 @@
+(1)[2022/08/05 03:32:03]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.904), (Hacker: false), (Online: 2), (instance: step-box(1),
+  extra: (difference: 1.0, base-limit: 2.0, limit: 2.0), scenario: neutral, up/down:
+  1, jump/fall: 1, motion: 0.4375, old-motion: 0.0, box: 0.0, old-box: 0.5625, air:
+  0, horizontal: 0.19183468948071297)]'
+(2)[2022/08/05 04:10:54]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 1ms), (TPS: 19.884), (Hacker: false), (Online: 3), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.12129684053920187, box: 0.41999998688697815, old-box: 0.0, air: 13, horizontal:
+  0.6121494312930197)]'

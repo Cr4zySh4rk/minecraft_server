@@ -1,0 +1,143 @@
+#######################################################################################
+##               | ___ \             (_)             |  \/  |                        ##
+##               | |_/ /  ___ __   __ _ __   __  ___ | .  . |  ___                   ##
+##               |    /  / _ \\ \ / /| |\ \ / / / _ \| |\/| | / _ \                  ##
+##               | |\ \ |  __/ \ V / | | \ V / |  __/| |  | ||  __/                  ##
+##               \_| \_| \___|  \_/  |_|  \_/   \___|\_|  |_/ \___|                  ##
+#######################################################################################
+
+victim_messages:
+  downed: 'You have been seriously injured!'
+  downed_for_player: '<enemy> has seriously injured you!'
+  start_reliving: '<reviver>  is reviving you.'
+  stop_reliving: '<reviver> has stopped reviving you.'
+  revived: 'You have been revived!'
+  revived_for_player: 'You have been revived by <reviver>!'
+
+enemy_messages:
+  downed: 'you have seriously injured <victim>'
+  
+reviver_messages:
+  start_reliving: 'You are reviving <victim>'
+  stop_reliving: 'You stopped reviving <victim>'
+  sucess_reliving: 'You have successfully revived <victim>'
+
+command_messages:
+  downed: 'you have seriously injured <victim>'
+  revived: 'You have successfully revived <victim>'
+  kill: 'you killed <victim>'
+  dont_permission: 'you dont have permission'
+  blocked_command: 'youre too hurt to use this command!'
+  player_no_downed: '&cThis player is not down!'
+  player_no_online: '&cThis player is not online!'
+
+plugin_messages:
+  config_reloaded: 'configuration reloaded successfully!'
+
+disable_death_message: false
+
+status_messages:
+  waiting: 'Waiting'
+  reliving: 'Reliving'
+  no_downed: 'No downed'
+  
+time_messages:
+  second: 'second:seconds'
+  minute: 'minute:minutes'
+  hour: 'hour:hours'
+
+action_bar_messages:
+  enabled: true
+  waiting_text: '&b✙&a: <invulnerability> status: <status> &4☠&c: <death_delay_time>'
+  reliving_text: 'status: <status>. &4☠&c: <death_delay_time> <bar1>'
+  receives: 'downed,reviver,picker'
+  
+suicide_bar_message:
+  enabled: true
+  text: '&cDeath in <suicideBar>'
+
+scoreboard_messages:
+  enabled: true
+  receives: 'downed,reviver,picker'
+  #firsh line is title
+  waiting_score_board:
+    - '&aWaiting...'
+    - ''
+    - '&4☠&c: <death_delay_time>'
+    - ''
+    - '&b✙&a: <invulnerability_time>'
+    - ''
+    - '<bar1>'
+    - ''
+    - '<bar2>'
+      
+  reliving_score_board:
+    - '&aReliving'
+    - ''
+    - '&4☠&c: <death_delay_time>'
+    - ''
+    - '&b✙&a: <invulnerability_time>'
+    - ''
+    - '<bar1>'
+    - ''
+    - '&eReliving: &e<reviver>'
+
+boss_bar_messages:
+  enable: false
+  receives: 'downed,reviver,picker'
+  waiting_boss_bar:
+    progress_type: BossBarDeathDelay
+    text: '&cWaiting for relive...'
+    color: red
+    style: solid
+    
+  reliving_boss_bar:
+    progress_type: BossBarRelivingCount
+    text: '&aReliving for <reviver>'
+    color: green
+    style: solid
+
+#You can create loading bars with the letters and symbols that you like the most, change their color and more. you can use as many as you like.
+#Modes RelivingCount, DeathDelay, SuicideCount
+bar_messages:
+  bar1:
+    first_char: '▌'
+    second_char: '▌'
+    first_color: '&a'
+    second_color: '&7'
+    amount: 20
+    bar: '&8&l&n|<chars>&8&l&n|'
+    holder: '<bar1>'
+    bar_mode: RelivingCount
+    
+  example_board:
+    first_char: '《'
+    second_char: '》'
+    first_color: '&a'
+    second_color: '&7'
+    amount: 15
+    bar: '&8&l&n『<chars>&8&l&n』'
+    holder: '<bar2>'
+    bar_mode: RelivingCount
+    
+  suicide_bar:
+    first_char: '☠'
+    second_char: '☠'
+    first_color: '&c'
+    second_color: '&7'
+    amount: 10
+    bar: '&8&l&n『<chars>&8&l&n』'
+    holder: '<suicideBar>'
+    bar_mode: SuicideCount
+
+#Messages that are sent in the title and subtitle of the screen
+title_messages:
+  enabled: false
+  receives: 'downed,reviver,picker'
+  waiting_title: '&cWaiting for reliving'
+  waiting_subtitle: '&cdeath in <death_delay_time>'
+  reliving_title: '&aReliving for <reviver>'
+  reliving_subtitle: '<bar1>'
+  
+price_messages:
+  no_has_pay: '&cYou need <amount> <type> to do this!'

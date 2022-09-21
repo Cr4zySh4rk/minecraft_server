@@ -1,0 +1,61 @@
+infohudVersion: '1.4'
+messageUpdateDelay: 5
+biomeUpdateDelay: 40
+colors:
+  bright1: GOLD
+  bright2: WHITE
+  dark1: DARK_BLUE
+  dark2: DARK_AQUA
+brightBiomes:
+- DESERT
+- DESERT_HILLS
+- ICE_DESERT
+- BEACH
+- SNOWY_BEACH
+- COLD_BEACH
+- SNOWY_TUNDRA
+- COLD_TUNDRA
+- ICE_FLATS
+- MUTATED_ICE_FLATS
+- SNOWY_TAIGA
+- SNOWY_TAIGA_HILLS
+- SNOWY_TAIGA_MOUNTAINS
+- COLD_TAIGA
+- COLD_TAIGA_HILLS
+- COLD_TAIGA_MOUNTAINS
+- ICE_MOUNTAINS
+- SNOWY_MOUNTAINS
+- COLD_MOUNTAINS
+- EXTREME_HILLS
+- EXTREME_HILLS_PLUS_MOUNTAINS
+- GRAVELLY_MOUNTAINS
+- MODIFIED_GRAVELLY_MOUNTAINS
+- ICE_PLAINS
+- ICE_PLAINS_SPIKE
+- ICE_SPIKES
+- FROZEN_RIVER
+playerConfig:
+  4cae416f-da2a-4962-8de6-a037f6772c67:
+    coordinatesMode: enabled
+    timeMode: clock24
+    darkMode: auto
+  85dbabb6-79a8-3894-8323-313256ace720:
+    coordinatesMode: enabled
+    timeMode: clock24
+    darkMode: auto
+  5230eda3-f65b-34e1-acae-ca59c2de6a7e:
+    coordinatesMode: enabled
+    timeMode: clock12
+    darkMode: auto
+  c2f5c4e9-d49e-321d-913f-f6ff5c9704a8:
+    coordinatesMode: enabled
+    timeMode: clock24
+    darkMode: auto
+  414235b5-90fc-3c10-b8f1-49f51ee0ce29:
+    coordinatesMode: enabled
+    timeMode: clock24
+    darkMode: auto
+  992552e0-eda4-3d9d-a1dc-a95a6df26293:
+    coordinatesMode: enabled
+    timeMode: clock24
+    darkMode: auto

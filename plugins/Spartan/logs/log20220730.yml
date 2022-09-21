@@ -1,0 +1,32 @@
+(1)[2022/07/30 15:28:21]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 19.92), (Hacker: false), (Online: 1), (instance: step-limit(1),
+  extra: (difference: 18.721151156971473, base-limit: 2.0, limit: 2.0), scenario:
+  neutral, up/down: 1, jump/fall: 1, motion: -2.6647494526800557, old-motion: -2.639132041649731,
+  box: 0.8247604179096868, old-box: 0.4895098705897425, air: 60, horizontal: 0.10523865622711563)]'
+(1)[2022/07/30 15:57:57]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.837), (Hacker: false), (Online: 2), (instance: identical-jump(1),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.41999998688697815,
+  box/old-box: 0.41999998688697815, air: 0, horizontal: 0.18910276752124724)]'
+(2)[2022/07/30 16:35:16]: W4RL0CKM0NK3Y found 1 diamond on -32, -15, -632
+(3)[2022/07/30 16:35:18]: W4RL0CKM0NK3Y found 1 diamond on -32, -15, -632
+(4)[2022/07/30 16:35:59]: W4RL0CKM0NK3Y found 1 gold on -33, 8, -606
+(5)[2022/07/30 16:36:00]: W4RL0CKM0NK3Y found 1 gold on -33, 8, -606
+(6)[2022/07/30 16:36:01]: W4RL0CKM0NK3Y found 1 gold on -33, 8, -606
+(7)[2022/07/30 16:36:07]: W4RL0CKM0NK3Y found 1 gold on -33, 8, -604
+(8)[2022/07/30 16:36:08]: W4RL0CKM0NK3Y found 1 gold on -33, 8, -604
+(9)[2022/07/30 16:36:09]: W4RL0CKM0NK3Y found 1 gold on -33, 8, -604
+(10)[2022/07/30 16:36:52]: W4RL0CKM0NK3Y found 1 gold on -32, -11, -626
+(11)[2022/07/30 16:36:54]: W4RL0CKM0NK3Y found 1 gold on -32, -11, -626
+(12)[2022/07/30 16:36:55]: W4RL0CKM0NK3Y found 1 gold on -32, -12, -627
+(13)[2022/07/30 16:36:57]: W4RL0CKM0NK3Y found 1 gold on -32, -12, -627
+(14)[2022/07/30 16:36:58]: W4RL0CKM0NK3Y found 1 gold on -32, -12, -627
+(15)[2022/07/30 16:37:00]: W4RL0CKM0NK3Y found 1 gold on -32, -12, -627
+(16)[2022/07/30 16:37:01]: W4RL0CKM0NK3Y found 1 gold on -32, -12, -627
+(17)[2022/07/30 16:37:03]: W4RL0CKM0NK3Y found 1 gold on -32, -12, -627
+(18)[2022/07/30 17:13:16]: Castiel2503 found 1 diamond on -35, -46, -608
+(19)[2022/07/30 17:14:17]: Castiel2503 found 1 gold on -15, -46, -638
+(20)[2022/07/30 17:14:19]: Castiel2503 found 1 gold on -15, -46, -638
+(21)[2022/07/30 17:14:20]: Castiel2503 found 1 gold on -15, -46, -638
+(22)[2022/07/30 17:14:22]: Castiel2503 found 1 gold on -15, -46, -638

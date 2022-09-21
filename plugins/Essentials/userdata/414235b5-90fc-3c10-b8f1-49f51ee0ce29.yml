@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 157.45.247.246
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1660992958435
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1662398281678
+  login: 1662397979045
+money: '0'
+last-account-name: Sid
+lastlocation:
+  world: a6f6322d-2f63-4b4d-a3fa-72aa7d349b23
+  world-name: survival
+  x: 15.112585276499566
+  y: 90.0
+  z: -506.2458988957602
+  yaw: 170.8470001220703
+  pitch: 11.100411415100098
+logoutlocation:
+  world: a6f6322d-2f63-4b4d-a3fa-72aa7d349b23
+  world-name: survival
+  x: 292.72627446170435
+  y: 92.0
+  z: -183.79901861982424
+  yaw: -69.604736328125
+  pitch: 24.4499454498291

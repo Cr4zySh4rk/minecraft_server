@@ -1,0 +1,18 @@
+(1)[2022/08/22 11:49:30]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin failed
+  MorePackets (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping: 7ms),
+  (TPS: 19.837), (Hacker: false), (Online: 1), (type: instant, overall: 3.029728933455628,
+  last-tick: 1, ticks-requirement: 10, decreased-requirement: false)]'
+(2)[2022/08/22 12:07:33]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin failed
+  IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping:
+  7ms), (TPS: 19.904), (Hacker: false), (Online: 1), (instance: step-abstract(1),
+  extra: (difference: 0.8156000397205361, base-limit: 2.0, limit: 2.0), scenario:
+  neutral, up/down: 1, jump/fall: 1, motion: 0.21560001587867816, old-motion: 0.30000001192092896,
+  box: 0.8156000397205361, old-box: 0.6000000238418579, air: 0, horizontal: 0.06729155481472532)]'
+(3)[2022/08/22 12:18:31]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin failed
+  MorePackets (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping: 10ms),
+  (TPS: 19.813), (Hacker: false), (Online: 1), (type: instant, overall: 3.2899499237990435,
+  last-tick: 0, ticks-requirement: 10, decreased-requirement: false)]'
+(4)[2022/08/22 12:18:31]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin failed
+  MorePackets (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping: 10ms),
+  (TPS: 19.716), (Hacker: false), (Online: 1), (type: instant, overall: 5.781461024499908,
+  last-tick: 1, ticks-requirement: 10, decreased-requirement: false)]'

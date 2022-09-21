@@ -1,0 +1,2 @@
+1) eval `ssh-agent` to start ssh agent
+2) ssh-add ~/.ssh/minecraft to add private key to ssh agent

@@ -1,0 +1,14 @@
+(1)[2022/09/01 10:56:50]: Yaotzin found 1 gold on 549, -5, -53
+(2)[2022/09/01 10:56:53]: Yaotzin found 1 gold on 550, -6, -53
+(3)[2022/09/01 10:56:57]: Yaotzin found 1 gold on 550, -7, -54
+(4)[2022/09/01 10:56:59]: Yaotzin found 1 gold on 550, -7, -54
+(5)[2022/09/01 11:00:37]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin failed
+  IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping:
+  7ms), (TPS: 19.864), (Hacker: false), (Online: 1), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.1621414210269876, box: 0.41999998688697815, old-box: 0.0, air: 13, horizontal:
+  0.5599066302785648)]'
+(6)[2022/09/01 11:01:02]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin failed
+  KillAura (VL: 1) [(Version: Paper 1.18), (C-V: 1) (Silent: true), (Ping: 7ms), (TPS:
+  19.872), (Hacker: false), (Online: 1), (type: modulo(cached), calculation: 0.0,
+  pitch: 27.0)]'

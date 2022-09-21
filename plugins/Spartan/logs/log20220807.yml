@@ -1,0 +1,1308 @@
+(1)[2022/08/07 06:14:55]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed MorePackets (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true), (Ping:
+  5ms), (TPS: 20.0), (Hacker: false), (Online: 2), (type: horizontal(positive), total-horizontal:
+  0.3185372197777941, total-vertical: -0.3015347236627832, extra-ticks: 5, extra-packets:
+  8, tick-average: 50.25)]'
+(2)[2022/08/07 06:22:09]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 12ms), (TPS: 20.0), (Hacker: false), (Online: 2), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.0, old-motion: -0.12129684053920187,
+  box/old-box: 0.0, air: 28, horizontal: 0.3841047636022674)]'
+(3)[2022/08/07 06:22:11]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 12ms), (TPS: 20.0), (Hacker: false), (Online: 2), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 14, horizontal: 0.27980760552446404)]'
+(4)[2022/08/07 06:29:50]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 5ms), (TPS: 19.527), (Hacker: false), (Online: 3), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 10, horizontal: 0.10187978124341747)]'
+(5)[2022/08/07 06:29:51]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 5ms), (TPS: 19.428), (Hacker: false), (Online: 3), (instance: horizontal-motion(5/20/7),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 13, horizontal: 0.1431833977087619)]'
+(6)[2022/08/07 06:30:47]: Castiel2503 found 1 gold on -86, 19, -642
+(7)[2022/08/07 06:30:48]: Castiel2503 found 1 gold on -87, 19, -642
+(8)[2022/08/07 06:30:52]: Castiel2503 found 1 gold on -87, 19, -642
+(9)[2022/08/07 06:30:54]: Castiel2503 found 1 gold on -87, 19, -643
+(10)[2022/08/07 06:34:29]: Darkphantom_21 found 1 diamond on -70, -8, -654
+(11)[2022/08/07 06:34:32]: Darkphantom_21 found 1 diamond on -70, -8, -655
+(12)[2022/08/07 06:34:34]: Darkphantom_21 found 1 diamond on -70, -8, -655
+(13)[2022/08/07 06:34:39]: Darkphantom_21 found 1 diamond on -70, -8, -656
+(14)[2022/08/07 06:36:00]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.88), (Hacker: true), (Online: 3), (instance: ground-up(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.03389078674550183, old-motion:
+  0.16477328182606651, box: 0.2000000476837159, old-box: 0.16610926093821407, air:
+  3, horizontal: 0.054879589186233625)]'
+(15)[2022/08/07 06:36:19]: Castiel2503 found 1 gold on -80, -1, -648
+(16)[2022/08/07 06:36:20]: Castiel2503 found 1 gold on -80, -1, -648
+(17)[2022/08/07 06:36:22]: Castiel2503 found 1 gold on -80, -1, -647
+(18)[2022/08/07 06:37:33]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 20.0), (Hacker: true), (Online: 3), (instance: horizontal-motion(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 60, horizontal: 0.16616510527681783)]'
+(19)[2022/08/07 06:40:52]: Castiel2503 found 1 gold on -81, 0, -626
+(20)[2022/08/07 06:40:54]: Castiel2503 found 1 gold on -80, 0, -626
+(21)[2022/08/07 06:40:56]: Castiel2503 found 1 gold on -80, 0, -626
+(22)[2022/08/07 06:40:57]: Castiel2503 found 1 gold on -80, 0, -626
+(23)[2022/08/07 06:41:03]: Castiel2503 found 1 gold on -81, 0, -619
+(24)[2022/08/07 06:41:28]: Darkphantom_21 found 1 gold on -76, -1, -618
+(25)[2022/08/07 06:43:10]: Castiel2503 found 1 diamond on -89, -18, -608
+(26)[2022/08/07 06:49:08]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.888), (Hacker: true), (Online: 3), (instance: normal-up-liquids(2/20/2),
+  scenario: liquids, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.09554087887207174, box: 0.41999998688697815, old-box: 0.0, air: 0, horizontal:
+  0.18909454050789354)]'
+(27)[2022/08/07 06:49:08]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.864), (Hacker: true), (Online: 3), (instance: horizontal-liquids(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.0, old-motion: 0.08100719611583784,
+  box/old-box: 0.24064757952371352, air: 0, horizontal: 0.20500986291935988)]'
+(28)[2022/08/07 06:50:05]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 19.829), (Hacker: false), (Online: 4), (instance: step-box(1),
+  extra: (difference: 1.0, base-limit: 2.0, limit: 2.0), scenario: neutral, up/down:
+  1, jump/fall: 1, motion/old-motion: 0.0, box/old-box: 0.0, air: 0, horizontal: 0.21724262779868975)]'
+(29)[2022/08/07 06:51:00]: Castiel2503 found 1 gold on 49, -1, -574
+(30)[2022/08/07 06:51:22]: Castiel2503 found 1 gold on 44, -1, -584
+(31)[2022/08/07 06:51:26]: Castiel2503 found 1 gold on 43, -2, -583
+(32)[2022/08/07 06:51:28]: Castiel2503 found 1 gold on 43, -2, -583
+(33)[2022/08/07 06:52:55]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.872), (Hacker: false), (Online: 4), (instance: step-box(1),
+  extra: (difference: 1.0, base-limit: 2.0, limit: 2.0), scenario: neutral, up/down:
+  1, jump/fall: 1, motion: 0.0, old-motion: -0.024424088213681472, box/old-box: 0.0,
+  air: 0, horizontal: 0.06582629252744306)]'
+(34)[2022/08/07 06:54:47]: W4RL0CKM0NK3Y found 1 gold on 45, -2, -582
+(35)[2022/08/07 06:54:48]: W4RL0CKM0NK3Y found 1 gold on 45, -2, -582
+(36)[2022/08/07 06:55:58]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.508), (Hacker: true), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 8, horizontal: 0.21589647262716966)]'
+(37)[2022/08/07 06:56:02]: Castiel2503 found 1 gold on 86, 7, -541
+(38)[2022/08/07 06:56:33]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.9), (Hacker: true), (Online: 4), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.0030162615090425504, old-motion:
+  0.08307781780646728, box: 0.2522033402537245, old-box: 0.24918707874468193, air:
+  22, horizontal: 0.16493202917125363)]'
+(39)[2022/08/07 06:56:33]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.86), (Hacker: true), (Online: 4), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.024424088213680584, box: 0.41999998688697815, old-box: 0.0, air: 24, horizontal:
+  0.014000910719758508)]'
+(40)[2022/08/07 06:56:39]: Darkphantom_21 found 1 gold on 114, -2, -537
+(41)[2022/08/07 06:56:41]: Darkphantom_21 found 1 gold on 113, -2, -537
+(42)[2022/08/07 06:56:43]: Darkphantom_21 found 1 gold on 113, -3, -537
+(43)[2022/08/07 06:56:44]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed Exploits (VL: 1) [(Version: Paper 1.18), (C-V: -3) (Silent: true), (Ping:
+  3ms), (TPS: 19.996), (Hacker: true), (Online: 4), (type: head-position(yaw), case:
+  1, difference: 3.0)]'
+(44)[2022/08/07 06:56:45]: Darkphantom_21 found 1 gold on 113, -3, -537
+(45)[2022/08/07 06:56:46]: Darkphantom_21 found 1 gold on 113, -3, -537
+(46)[2022/08/07 06:56:48]: Darkphantom_21 found 1 gold on 113, -3, -537
+(47)[2022/08/07 06:56:49]: Darkphantom_21 found 1 gold on 113, -3, -537
+(48)[2022/08/07 06:56:51]: Darkphantom_21 found 1 gold on 113, -3, -537
+(49)[2022/08/07 06:56:56]: Darkphantom_21 found 1 gold on 112, -3, -536
+(50)[2022/08/07 06:57:35]: Darkphantom_21 found 1 gold on 151, 7, -527
+(51)[2022/08/07 07:01:48]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.55), (Hacker: false), (Online: 4), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.12129684053918977, box: 0.41999998688697815, old-box: 0.0, air: 12, horizontal:
+  0.6106753522398661)]'
+(52)[2022/08/07 07:04:24]: Castiel2503 found 1 gold on 176, -8, -605
+(53)[2022/08/07 07:04:26]: Castiel2503 found 1 gold on 176, -8, -606
+(54)[2022/08/07 07:04:28]: Castiel2503 found 1 gold on 176, -8, -607
+(55)[2022/08/07 07:04:30]: Castiel2503 found 1 gold on 176, -8, -607
+(56)[2022/08/07 07:04:31]: Castiel2503 found 1 gold on 176, -8, -607
+(57)[2022/08/07 07:04:32]: Castiel2503 found 1 gold on 176, -8, -607
+(58)[2022/08/07 07:04:34]: Castiel2503 found 1 gold on 176, -9, -607
+(59)[2022/08/07 07:04:36]: Castiel2503 found 1 gold on 176, -9, -607
+(60)[2022/08/07 07:06:56]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.849), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 8, horizontal: 0.21121828291512085)]'
+(61)[2022/08/07 07:07:37]: '[Spartan Phase 478/155-656903/122613-002092] Sid failed
+  IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping:
+  18ms), (TPS: 19.853), (Hacker: false), (Online: 4), (instance: air-up(2/20/2), scenario:
+  neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion: 0.08307781780646906,
+  box: 0.2522033402537289, old-box: 0.24918707874468282, air: 24, horizontal: 0.06752018904435304)]'
+(62)[2022/08/07 07:07:37]: '[Spartan Phase 478/155-656903/122613-002092] Sid failed
+  IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping:
+  18ms), (TPS: 19.98), (Hacker: false), (Online: 4), (instance: repeated-fall(2/20/2),
+  extra: (ms: 459), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.15233518685055003,
+  old-motion: -0.07544406518948676, box: 0.02442408821369213, old-box: 0.17675927506424216,
+  air: 26, horizontal: 0.09643264320454632)]'
+(63)[2022/08/07 07:13:38]: Castiel2503 found 1 gold on 126, -6, -484
+(64)[2022/08/07 07:13:41]: Castiel2503 found 1 gold on 126, -6, -483
+(65)[2022/08/07 07:13:43]: Castiel2503 found 1 gold on 126, -6, -483
+(66)[2022/08/07 07:13:44]: Castiel2503 found 1 gold on 126, -6, -483
+(67)[2022/08/07 07:14:12]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 1ms), (TPS: 19.841), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 13, horizontal: 0.21559286778539988)]'
+(68)[2022/08/07 07:14:38]: Darkphantom_21 found 1 gold on 139, -1, -514
+(69)[2022/08/07 07:14:39]: Darkphantom_21 found 1 gold on 139, -1, -514
+(70)[2022/08/07 07:19:06]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 19.817), (Hacker: false), (Online: 4), (instance: step-box(1),
+  extra: (difference: 1.0, base-limit: 2.0, limit: 2.0), scenario: neutral, up/down:
+  1, jump/fall: 1, motion/old-motion: 0.0, box/old-box: 0.0, air: 0, horizontal: 0.18071655907614892)]'
+(71)[2022/08/07 07:19:34]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed FastBreak (VL: 1) [(Version: Paper 1.18), (C-V: -2) (Silent: true), (Ping:
+  4ms), (TPS: 19.876), (Hacker: true), (Online: 4), (type: delay, time: 944, limit:
+  4450, difference: 3506, block: sand, item: stone-shovel, enchantments: none, effects:
+  none)]'
+(72)[2022/08/07 07:20:14]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed FastBreak (VL: 2) [(Version: Paper 1.18), (C-V: -2) (Silent: true), (Ping:
+  4ms), (TPS: 19.809), (Hacker: true), (Online: 4), (type: delay, time: 664, limit:
+  700, difference: 36, block: sand, item: stone-shovel, enchantments: none, effects:
+  none)]'
+(73)[2022/08/07 07:20:18]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed FastBreak (VL: 3) [(Version: Paper 1.18), (C-V: -2) (Silent: true), (Ping:
+  4ms), (TPS: 19.809), (Hacker: true), (Online: 4), (type: delay, time: 659, limit:
+  700, difference: 41, block: sand, item: stone-shovel, enchantments: none, effects:
+  none)]'
+(74)[2022/08/07 07:22:01]: Darkphantom_21 found 1 gold on 157, -21, -627
+(75)[2022/08/07 07:22:03]: Darkphantom_21 found 1 gold on 157, -22, -627
+(76)[2022/08/07 07:22:06]: Darkphantom_21 found 1 gold on 157, -23, -627
+(77)[2022/08/07 07:22:07]: Darkphantom_21 found 1 gold on 157, -23, -627
+(78)[2022/08/07 07:22:09]: Darkphantom_21 found 1 gold on 157, -23, -627
+(79)[2022/08/07 07:22:10]: Darkphantom_21 found 1 gold on 157, -23, -627
+(80)[2022/08/07 07:22:13]: Darkphantom_21 found 1 gold on 158, -23, -628
+(81)[2022/08/07 07:24:26]: Darkphantom_21 found 1 gold on 192, -22, -671
+(82)[2022/08/07 07:24:28]: Darkphantom_21 found 1 gold on 192, -22, -671
+(83)[2022/08/07 07:24:35]: Darkphantom_21 found 1 gold on 191, -24, -673
+(84)[2022/08/07 07:26:22]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed KillAura (VL: 1) [(Version: Paper 1.18), (C-V: 1) (Silent: true), (Ping:
+  0ms), (TPS: 19.841), (Hacker: false), (Online: 4), (type: modulo(cached), calculation:
+  0.0, pitch: 34.5)]'
+(85)[2022/08/07 07:31:32]: '[Spartan Phase 478/155-656903/122613-002092] Sid failed
+  MorePackets (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping: 47ms),
+  (TPS: 19.813), (Hacker: false), (Online: 4), (type: instant, overall: 2.511723403525696,
+  last-tick: 0, ticks-requirement: 10, decreased-requirement: false)]'
+(86)[2022/08/07 07:31:39]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 9ms), (TPS: 19.932), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 8, horizontal: 0.19785676042474726)]'
+(87)[2022/08/07 07:36:55]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 20.0), (Hacker: true), (Online: 4), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion:
+  0.08307781780646906, box: 0.2522033402537289, old-box: 0.24918707874468282, air:
+  22, horizontal: 0.12244943380017048)]'
+(88)[2022/08/07 07:36:55]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.936), (Hacker: true), (Online: 4), (instance: repeated-fall(2/20/2),
+  extra: (ms: 449), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.15233518685055003,
+  old-motion: -0.07544406518948676, box: 0.02442408821369213, old-box: 0.17675927506424216,
+  air: 24, horizontal: 0.1153936876560806)]'
+(89)[2022/08/07 07:36:56]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.872), (Hacker: true), (Online: 4), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.02442408821369213, box: 0.41999998688697815, old-box: 0.0, air: 26, horizontal:
+  0.139729780497305)]'
+(90)[2022/08/07 07:36:56]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 20.0), (Hacker: true), (Online: 4), (instance: repeated-fall(2/20/2),
+  extra: (ms: 456), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.07544406518948676,
+  old-motion: 0.003016261509046103, box: 0.17675927506424216, old-box: 0.2522033402537289,
+  air: 32, horizontal: 0.10821329606687868)]'
+(91)[2022/08/07 07:36:56]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 5) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.892), (Hacker: true), (Online: 4), (instance: repeated-fall(2/20/2),
+  extra: (ms: 423), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.02442408821369213,
+  old-motion: -0.15233518685055003, box: 0.0, old-box: 0.02442408821369213, air: 34,
+  horizontal: 0.09763552431996914)]'
+(92)[2022/08/07 07:36:56]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 6) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.884), (Hacker: true), (Online: 4), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion:
+  0.08307781780646906, box: 0.2522033402537289, old-box: 0.24918707874468282, air:
+  40, horizontal: 0.09541288577978904)]'
+(93)[2022/08/07 07:36:56]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 7) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.996), (Hacker: true), (Online: 4), (instance: repeated-fall(2/20/2),
+  extra: (ms: 437), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.15233518685055003,
+  old-motion: -0.07544406518948676, box: 0.02442408821369213, old-box: 0.17675927506424216,
+  air: 42, horizontal: 0.12506809692724297)]'
+(94)[2022/08/07 07:36:56]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 8) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.868), (Hacker: true), (Online: 4), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.02442408821369213, box: 0.41999998688697815, old-box: 0.0, air: 44, horizontal:
+  0.44939425773794095)]'
+(95)[2022/08/07 07:36:57]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 9) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.86), (Hacker: true), (Online: 4), (instance: repeated-fall(2/20/2),
+  extra: (ms: 452), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.07544406518948676,
+  old-motion: 0.003016261509046103, box: 0.17675927506424216, old-box: 0.2522033402537289,
+  air: 50, horizontal: 0.1086488756771227)]'
+(96)[2022/08/07 07:36:57]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 10) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.996), (Hacker: true), (Online: 4), (instance: repeated-fall(2/20/2),
+  extra: (ms: 455), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.02442408821369213,
+  old-motion: -0.15233518685055003, box: 0.0, old-box: 0.02442408821369213, air: 52,
+  horizontal: 0.13744578986046363)]'
+(97)[2022/08/07 07:41:38]: '[Spartan Phase 478/155-656903/122613-002092] Sid failed
+  IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping:
+  60ms), (TPS: 19.774), (Hacker: false), (Online: 4), (instance: inside-blocks(1),
+  extra: (to: [dirt, air], from: [dirt, air]), scenario: inside-blocks, up/down: 1,
+  jump/fall: 1, motion/old-motion: 0.0, box/old-box: 0.0, air: 0, horizontal: 0.21582784300990046)]'
+(98)[2022/08/07 07:41:42]: '[Spartan Phase 478/155-656903/122613-002092] Sid failed
+  IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping:
+  60ms), (TPS: 19.892), (Hacker: false), (Online: 4), (instance: inside-blocks(1),
+  extra: (to: [dirt, air], from: [dirt, air]), scenario: inside-blocks, up/down: 1,
+  jump/fall: 1, motion/old-motion: 0.0, box/old-box: 0.0, air: 0, horizontal: 0.21585906861265916)]'
+(99)[2022/08/07 07:49:58]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed GhostHand (VL: 1) [(Version: Paper 1.18), (C-V: -5) (Silent: true), (Ping:
+  0ms), (TPS: 19.849), (Hacker: true), (Online: 3), (type: interact, block: oak-door,
+  real-block: cobblestone)]'
+(100)[2022/08/07 08:02:45]: '[Spartan Phase 478/155-656903/122613-002092] Sid failed
+  IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping:
+  111ms), (TPS: 19.876), (Hacker: false), (Online: 3), (instance: step-box(1), extra:
+  (difference: 1.0, base-limit: 2.0, limit: 2.0), scenario: neutral, up/down: 1, jump/fall:
+  1, motion: -0.02442408821369213, old-motion: -0.15233518685055003, box: 0.0, old-box:
+  0.02442408821369213, air: 0, horizontal: 0.16407170252176662)]'
+(101)[2022/08/07 08:06:24]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 19.868), (Hacker: false), (Online: 3), (instance: horizontal-liquids(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 0, horizontal: 0.28056473731614895)]'
+(102)[2022/08/07 08:10:42]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed NoFall (VL: 1) [(Version: Paper 1.18), (C-V: -3) (Silent: true), (Ping: 1ms),
+  (TPS: 19.857), (Hacker: true), (Online: 3), (type: ratio, blocks: 14, case: 1)]'
+(103)[2022/08/07 08:11:22]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed FastBreak (VL: 1) [(Version: Paper 1.18), (C-V: -2) (Silent: true), (Ping:
+  1ms), (TPS: 19.88), (Hacker: true), (Online: 3), (type: delay, time: 1343, limit:
+  4450, difference: 3107, block: sand, item: stone-shovel, enchantments: none, effects:
+  none)]'
+(104)[2022/08/07 11:10:04]: '[Spartan Phase 478/155-656903/122613-002092] Sid failed
+  MorePackets (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping: 88ms),
+  (TPS: 19.739), (Hacker: false), (Online: 1), (type: instant, overall: 1.98117784425437,
+  last-tick: 1, ticks-requirement: 11, decreased-requirement: false)]'
+(105)[2022/08/07 11:10:04]: '[Spartan Phase 478/155-656903/122613-002092] Sid failed
+  MorePackets (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping: 88ms),
+  (TPS: 19.892), (Hacker: false), (Online: 1), (type: instant, overall: 2.018381694106818,
+  last-tick: 2, ticks-requirement: 11, decreased-requirement: false)]'
+(106)[2022/08/07 11:29:42]: '[Spartan Phase 478/155-656903/122613-002092] Sid failed
+  IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping:
+  53ms), (TPS: 19.825), (Hacker: false), (Online: 2), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 9, horizontal: 0.20699846841177072)]'
+(107)[2022/08/07 11:30:40]: '[Spartan Phase 478/155-656903/122613-002092] Sid failed
+  IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping:
+  56ms), (TPS: 19.892), (Hacker: false), (Online: 2), (instance: inside-blocks(1),
+  extra: (to: [grass-block, air], from: [grass-block, air]), scenario: inside-blocks,
+  up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box: 0.0, air: 0, horizontal:
+  0.2014033109893306)]'
+(108)[2022/08/07 11:32:59]: '[Spartan Phase 478/155-656903/122613-002092] Sid failed
+  Speed (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping: 61ms), (TPS:
+  19.996), (Hacker: false), (Online: 2), (type: water, vertical: 0.4499999880879031,
+  horizontal: 3.599529124917128, limit: 0.225(14), dynamic-limit: 0.6, entity: craftboat)]'
+(109)[2022/08/07 11:33:06]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed Speed (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping: 7ms),
+  (TPS: 19.872), (Hacker: false), (Online: 2), (type: water, vertical: 0.7742772582860553,
+  horizontal: 15.2134956032666, limit: 0.225(14), dynamic-limit: 0.415, entity: craftboat)]'
+(110)[2022/08/07 11:39:54]: '[Spartan Phase 478/155-656903/122613-002092] Sid failed
+  MorePackets (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping: 61ms),
+  (TPS: 19.778), (Hacker: false), (Online: 4), (type: instant, overall: 1.6939481539529293,
+  last-tick: 0, ticks-requirement: 10, decreased-requirement: false)]'
+(111)[2022/08/07 11:39:57]: '[Spartan Phase 478/155-656903/122613-002092] Sid failed
+  MorePackets (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping: 61ms),
+  (TPS: 19.821), (Hacker: false), (Online: 4), (type: instant, overall: 2.1752430934299736,
+  last-tick: 0, ticks-requirement: 10, decreased-requirement: false)]'
+(112)[2022/08/07 11:42:07]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 5ms), (TPS: 19.88), (Hacker: true), (Online: 4), (instance: repeated-fall(2/20/2),
+  extra: (ms: 427), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.15233518685055003,
+  old-motion: -0.07544406518948676, box: 0.02442408821369213, old-box: 0.17675927506424216,
+  air: 22, horizontal: 0.1324057133487106)]'
+(113)[2022/08/07 11:43:00]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.984), (Hacker: false), (Online: 4), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.02442408821369213, box: 0.41999998688697815, old-box: 0.0, air: 16, horizontal:
+  0.4067817192114863)]'
+(114)[2022/08/07 11:44:36]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: horizontal-motion(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 42, horizontal: 0.0)]'
+(115)[2022/08/07 11:44:36]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: horizontal-motion(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 44, horizontal: 0.18072338737370888)]'
+(116)[2022/08/07 11:45:15]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.508), (Hacker: false), (Online: 4), (instance: step-abstract(1),
+  extra: (difference: 1.0244240882136921, base-limit: 2.0, limit: 2.0), scenario:
+  neutral, up/down: 1, jump/fall: 1, motion: -0.15233518685055003, old-motion: -0.07242780368044066,
+  box: 0.02442408821369213, old-box: 0.17675927506424216, air: 0, horizontal: 0.0)]'
+(117)[2022/08/07 11:45:15]: '[Spartan Phase 478/155-656903/122613-002092] Sid failed
+  IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping:
+  54ms), (TPS: 19.735), (Hacker: false), (Online: 4), (instance: step-box(1), extra:
+  (difference: 1.0, base-limit: 2.0, limit: 2.0), scenario: neutral, up/down: 1, jump/fall:
+  1, motion/old-motion: 0.0, box/old-box: 0.0, air: 0, horizontal: 0.21792372487688424)]'
+(118)[2022/08/07 11:45:17]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.421), (Hacker: true), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 6, horizontal: 0.2117375581842369)]'
+(119)[2022/08/07 11:45:18]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.015), (Hacker: true), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 8, horizontal: 0.2110717513189101)]'
+(120)[2022/08/07 11:45:22]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.451), (Hacker: false), (Online: 4), (instance: step-limit(1),
+  extra: (difference: 3.419999986886978, base-limit: 2.0, limit: 2.0), scenario: neutral,
+  up/down: 1, jump/fall: 1, motion: 0.395575898673286, old-motion: -0.15233518685055003,
+  box: 0.41999998688697815, old-box: 0.02442408821369213, air: 0, horizontal: 0.0)]'
+(121)[2022/08/07 11:45:23]: '[Spartan Phase 478/155-656903/122613-002092] Sid failed
+  IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping:
+  54ms), (TPS: 19.349), (Hacker: false), (Online: 4), (instance: step-limit(1), extra:
+  (difference: 2.024424088213692, base-limit: 2.0, limit: 2.0), scenario: neutral,
+  up/down: 1, jump/fall: 1, motion: -0.15233518685055003, old-motion: -0.07544406518948676,
+  box: 0.02442408821369213, old-box: 0.17675927506424216, air: 0, horizontal: 0.3027756482203558)]'
+(122)[2022/08/07 11:45:36]: '[Spartan Phase 478/155-656903/122613-002092] Sid failed
+  IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping:
+  64ms), (TPS: 19.92), (Hacker: false), (Online: 4), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.12129684053920187, box: 0.41999998688697815, old-box: 0.0, air: 38, horizontal:
+  0.3230736493270009)]'
+(123)[2022/08/07 11:45:37]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 19.888), (Hacker: false), (Online: 4), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.02442408821369213, box: 0.41999998688697815, old-box: 0.0, air: 12, horizontal:
+  0.16876120917358758)]'
+(124)[2022/08/07 11:46:03]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 9ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: position-fall(2/20/2),
+  extra: (difference: 0), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.12129684053920187,
+  old-motion: -0.3739040364667261, box: 0.0, old-box: 0.12129684053920187, air: 72,
+  horizontal: 0.31255314498019304)]'
+(125)[2022/08/07 11:46:10]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 5ms), (TPS: 20.0), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 7, horizontal: 0.21584612094913674)]'
+(126)[2022/08/07 11:46:10]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 5ms), (TPS: 20.0), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 11, horizontal: 0.21585843344507186)]'
+(127)[2022/08/07 11:46:10]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 9ms), (TPS: 19.841), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 6, horizontal: 0.17242329541228346)]'
+(128)[2022/08/07 11:46:11]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 9ms), (TPS: 19.825), (Hacker: false), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 22, horizontal: 0.19029896430944285)]'
+(129)[2022/08/07 11:48:10]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: step-box(1),
+  extra: (difference: 1.0, base-limit: 2.0, limit: 2.0), scenario: neutral, up/down:
+  1, jump/fall: 1, motion: 0.0, old-motion: -0.02442408821369213, box/old-box: 0.0,
+  air: 6, horizontal: 0.21427185166250645)]'
+(130)[2022/08/07 11:48:12]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 1ms), (TPS: 20.0), (Hacker: true), (Online: 5), (instance: step-box(1), extra:
+  (difference: 1.0, base-limit: 2.0, limit: 2.0), scenario: neutral, up/down: 1, jump/fall:
+  1, motion/old-motion: 0.0, box/old-box: 0.0, air: 0, horizontal: 0.0)]'
+(131)[2022/08/07 11:49:12]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 19.841), (Hacker: false), (Online: 5), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.1621414210270018, box: 0.41999998688697815, old-box: 0.0, air: 15, horizontal:
+  0.5968611110753655)]'
+(132)[2022/08/07 11:53:54]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: position-fall(2/20/2),
+  extra: (difference: 1), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.44482596439492283,
+  old-motion: -0.3739040364667261, box: 0.676470876144279, old-box: 0.12129684053920187,
+  air: 60, horizontal: 0.2939444137495756)]'
+(133)[2022/08/07 11:54:35]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.86), (Hacker: true), (Online: 5), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion:
+  0.08307781780646906, box: 0.2522033402537289, old-box: 0.24918707874468282, air:
+  22, horizontal: 0.11766759593350569)]'
+(134)[2022/08/07 11:54:35]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.868), (Hacker: true), (Online: 5), (instance: repeated-fall(2/20/2),
+  extra: (ms: 446), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.15233518685055003,
+  old-motion: -0.07544406518948676, box: 0.02442408821369213, old-box: 0.17675927506424216,
+  air: 33, horizontal: 0.14284108913103183)]'
+(135)[2022/08/07 11:54:35]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.849), (Hacker: true), (Online: 5), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.02442408821369213, box: 0.41999998688697815, old-box: 0.0, air: 35, horizontal:
+  0.4309259555124731)]'
+(136)[2022/08/07 11:54:43]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed NoFall (VL: 1) [(Version: Paper 1.18), (C-V: 3) (Silent: true), (Ping: 15ms),
+  (TPS: 19.805), (Hacker: false), (Online: 5), (type: ratio, blocks: 15, case: 1)]'
+(137)[2022/08/07 11:54:56]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.857), (Hacker: true), (Online: 5), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion:
+  0.08307781780646906, box: 0.2522033402537289, old-box: 0.24918707874468282, air:
+  29, horizontal: 0.29996979184185635)]'
+(138)[2022/08/07 11:55:20]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 11ms), (TPS: 19.825), (Hacker: false), (Online: 5), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.12129684053920187, box: 0.41999998688697815, old-box: 0.0, air: 19, horizontal:
+  0.6105539909632378)]'
+(139)[2022/08/07 11:55:35]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.527), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 15, horizontal: 0.28633643802706027)]'
+(140)[2022/08/07 11:55:36]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.323), (Hacker: true), (Online: 5), (instance: identical-jump(1),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.24813599859093927,
+  box/old-box: 0.001335979112141672, air: 0, horizontal: 0.27611247671690076)]'
+(141)[2022/08/07 11:55:55]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.743), (Hacker: true), (Online: 5), (instance: repeated-fall(2/20/2),
+  extra: (ms: 420), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.15233518685055003,
+  old-motion: -0.07544406518948676, box: 0.02442408821369213, old-box: 0.17675927506424216,
+  air: 23, horizontal: 0.31905123783415645)]'
+(142)[2022/08/07 11:55:55]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.762), (Hacker: true), (Online: 5), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.12129684053920187, box: 0.41999998688697815, old-box: 0.0, air: 28, horizontal:
+  0.6050263632904584)]'
+(143)[2022/08/07 11:55:57]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 20.0), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 14, horizontal: 0.23493010799515104)]'
+(144)[2022/08/07 11:56:04]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.696), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 8, horizontal: 0.27976244940577827)]'
+(145)[2022/08/07 11:59:07]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 9ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 18, horizontal: 0.26543355982866135)]'
+(146)[2022/08/07 12:00:10]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: position-fall(2/20/2),
+  extra: (difference: 1), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.22768848754498094,
+  old-motion: -0.15233518685055003, box: 0.7967356006687112, old-box: 0.02442408821369213,
+  air: 70, horizontal: 0.25928886152345143)]'
+(147)[2022/08/07 12:00:10]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: position-fall(2/20/2),
+  extra: (difference: 0), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.12129684053920187,
+  old-motion: -0.3739040364667261, box: 0.0, old-box: 0.12129684053920187, air: 86,
+  horizontal: 0.25785944955979057)]'
+(148)[2022/08/07 12:01:52]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.868), (Hacker: true), (Online: 5), (instance: normal-up-liquids(2/20/2),
+  scenario: liquids, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  0.0, box: 0.41999998688697815, old-box: 0.0, air: 0, horizontal: 0.1514443274982173)]'
+(149)[2022/08/07 12:02:04]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.661), (Hacker: true), (Online: 5), (instance: normal-up-liquids(2/20/2),
+  scenario: liquids, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.09554087887208595, box: 0.41999998688697815, old-box: 0.0, air: 0, horizontal:
+  0.19552862959108072)]'
+(150)[2022/08/07 12:02:24]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.849), (Hacker: true), (Online: 5), (instance: hop-micro(2/20/2),
+  extra: (box: 0.002559043369245728), scenario: neutral, up/down: 1, jump/fall: 1,
+  motion: -0.04228895792205378, old-motion: 0.0368480029601983, box: 0.002559043369245728,
+  old-box: 0.04484800129129951, air: 0, horizontal: 0.026646669013075552)]'
+(151)[2022/08/07 12:04:46]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed Speed (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping: 9ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: normal, reason: air, horizontal:
+  0.7307320644300471, limit: 0.3675, dynamic-limit: 0.6, vertical: 0.7531999805212024,
+  air: 103)]'
+(152)[2022/08/07 12:04:46]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 9ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: position-fall(2/20/2),
+  extra: (difference: 0), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.3739040364667261,
+  old-motion: -0.3015347236627832, box: 0.12129684053920187, old-box: 0.49520087700592796,
+  air: 107, horizontal: 0.27811432635126415)]'
+(153)[2022/08/07 12:04:47]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed Exploits (VL: 1) [(Version: Paper 1.18), (C-V: 3) (Silent: true), (Ping:
+  10ms), (TPS: 20.0), (Hacker: false), (Online: 5), (type: undetected-movement, ms:
+  5459, distance: 0.06248729151073703)]'
+(154)[2022/08/07 12:05:26]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 1ms), (TPS: 19.976), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 11, horizontal: 0.25166538558454954)]'
+(155)[2022/08/07 12:07:07]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 1ms), (TPS: 19.924), (Hacker: true), (Online: 5), (instance: ground-up(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.10331999924659385, old-motion:
+  0.0853999989032701, box: 0.28671999606370946, old-box: 0.1833999968171156, air:
+  0, horizontal: 0.0961786059957803)]'
+(156)[2022/08/07 12:07:22]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 19.849), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 11, horizontal: 0.20241929133621583)]'
+(157)[2022/08/07 12:08:58]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.841), (Hacker: false), (Online: 5), (instance: step-box(1),
+  extra: (difference: 1.0, base-limit: 2.0, limit: 2.0), scenario: neutral, up/down:
+  1, jump/fall: 1, motion: -0.07544406518948676, old-motion: 0.003016261509046103,
+  box: 0.17675927506424216, old-box: 0.2522033402537289, air: 22, horizontal: 0.2860785663369375)]'
+(158)[2022/08/07 12:09:14]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed Speed (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true), (Ping: 3ms),
+  (TPS: 20.0), (Hacker: true), (Online: 5), (type: normal, reason: ground, horizontal:
+  0.8397949767268988, limit: 0.3675, dynamic-limit: 0.6, vertical: 0.0, air: 196)]'
+(159)[2022/08/07 12:09:16]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 20.0), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 6, horizontal: 0.17030911205585397)]'
+(160)[2022/08/07 12:09:16]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.762), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 8, horizontal: 0.21336264518749526)]'
+(161)[2022/08/07 12:09:16]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.504), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 9, horizontal: 0.21243814390095045)]'
+(162)[2022/08/07 12:09:16]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.474), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 10, horizontal: 0.20870672321801)]'
+(163)[2022/08/07 12:09:17]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 5) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.275), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 11, horizontal: 0.2105711023427432)]'
+(164)[2022/08/07 12:09:17]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 6) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.065), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 12, horizontal: 0.2772170959932529)]'
+(165)[2022/08/07 12:09:17]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 7) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 18.85), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 13, horizontal: 0.28042977204691893)]'
+(166)[2022/08/07 12:09:33]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 8) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 20.0), (Hacker: true), (Online: 5), (instance: step-limit(1),
+  extra: (difference: 3.6503998374934525, base-limit: 2.0, limit: 2.0), scenario:
+  neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box: 0.0, air:
+  0, horizontal: 0.0)]'
+(167)[2022/08/07 12:10:29]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 14ms), (TPS: 19.786), (Hacker: false), (Online: 5), (instance: hop-dynamic(5/10/5),
+  extra: (difference: 0.05774878828547969), scenario: neutral, up/down: 1, jump/fall:
+  1, motion: -0.05774878828547969, old-motion: -0.057185984504712906, box: 0.025516740395993054,
+  old-box: 0.08326552868147274, air: 0, horizontal: 0.03409072797007196)]'
+(168)[2022/08/07 12:10:29]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 14ms), (TPS: 19.857), (Hacker: false), (Online: 5), (instance: hop-dynamic(5/10/5),
+  extra: (difference: 0.0536318224564738), scenario: neutral, up/down: 1, jump/fall:
+  1, motion: -0.0536318224564738, old-motion: -0.06078977716475009, box: 0.615301388399395,
+  old-box: 0.6689332108558688, air: 0, horizontal: 0.07505051129500898)]'
+(169)[2022/08/07 12:10:30]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.964), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 9, horizontal: 0.215911323468794)]'
+(170)[2022/08/07 12:10:30]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.857), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 13, horizontal: 0.2158615837378369)]'
+(171)[2022/08/07 12:10:30]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 20.0), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 18, horizontal: 0.2158591838529739)]'
+(172)[2022/08/07 12:10:31]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 20.0), (Hacker: true), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 22, horizontal: 0.21072597370269658)]'
+(173)[2022/08/07 12:10:31]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 19.992), (Hacker: false), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 23, horizontal: 0.0)]'
+(174)[2022/08/07 12:10:31]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 5) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.892), (Hacker: true), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 26, horizontal: 0.20365869329990685)]'
+(175)[2022/08/07 12:10:32]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 19.751), (Hacker: false), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 38, horizontal: 0.0)]'
+(176)[2022/08/07 12:10:32]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 19.665), (Hacker: false), (Online: 5), (instance: horizontal-motion(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 44, horizontal: 0.0)]'
+(177)[2022/08/07 12:10:38]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 12ms), (TPS: 19.786), (Hacker: false), (Online: 5), (instance: hop-dynamic(5/10/5),
+  extra: (difference: 0.036370929424098364), scenario: neutral, up/down: 1, jump/fall:
+  1, motion: -0.036370929424098364, old-motion: -0.039213661195791616, box: 0.20916650820937832,
+  old-box: 0.24553743763347669, air: 0, horizontal: 0.10000835728408035)]'
+(178)[2022/08/07 12:11:00]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 1ms), (TPS: 18.45), (Hacker: true), (Online: 5), (instance: distant-fall(2/20/2),
+  extra: (limit: 0.10200000000000001), scenario: neutral, up/down: 1, jump/fall: 1,
+  motion: -0.07242780368044066, old-motion: 0.08307781780646906, box: 0.17675927506424216,
+  old-box: 0.24918707874468282, air: 24, horizontal: 0.0)]'
+(179)[2022/08/07 12:11:00]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 1ms), (TPS: 18.158), (Hacker: true), (Online: 5), (instance: horizontal-motion(2/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 118, horizontal: 0.0)]'
+(180)[2022/08/07 12:11:01]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 1ms), (TPS: 18.241), (Hacker: true), (Online: 5), (instance: horizontal-motion(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 146, horizontal: 0.0)]'
+(181)[2022/08/07 12:11:01]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 1ms), (TPS: 18.158), (Hacker: true), (Online: 5), (instance: horizontal-motion(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 148, horizontal: 0.0)]'
+(182)[2022/08/07 12:11:15]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 10ms), (TPS: 19.346), (Hacker: false), (Online: 5), (instance: ground-up(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.030421904741913863, old-motion:
+  -0.005722617869743374, box: 0.29467009661329513, old-box: 0.26424819187138127, air:
+  0, horizontal: 0.11103554145256599)]'
+(183)[2022/08/07 12:11:16]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 10ms), (TPS: 19.223), (Hacker: false), (Online: 5), (instance: ground-up(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.025127077356486893, old-motion:
+  0.1056398743545337, box: 0.8025675886883512, old-box: 0.7774405113318643, air: 0,
+  horizontal: 0.08605448489550847)]'
+(184)[2022/08/07 12:13:09]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.841), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.9375, air: 15, horizontal: 0.2092859039461669)]'
+(185)[2022/08/07 12:13:55]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.817), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/6),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 14, horizontal: 0.11816268543344606)]'
+(186)[2022/08/07 12:14:15]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 20ms), (TPS: 19.952), (Hacker: false), (Online: 5), (instance: repeated-fall(2/20/2),
+  extra: (ms: 455), scenario: damage/explosion, up/down: 1, jump/fall: 1, motion:
+  -0.15233518685055714, old-motion: -0.07544406518948676, box: 0.02442408821367792,
+  old-box: 0.17675927506423506, air: 28, horizontal: 0.17424226830397208)]'
+(187)[2022/08/07 12:14:39]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.821), (Hacker: false), (Online: 5), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.12129684053920187, box: 0.41999998688697815, old-box: 0.0, air: 13, horizontal:
+  0.5905350002332503)]'
+(188)[2022/08/07 12:14:50]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.976), (Hacker: false), (Online: 5), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.02442408821369213, box: 0.41999998688697815, old-box: 0.0, air: 13, horizontal:
+  0.22700449254232713)]'
+(189)[2022/08/07 12:15:08]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.853), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.9375, air: 12, horizontal: 0.24141364162003598)]'
+(190)[2022/08/07 12:15:22]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.952), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 7, horizontal: 0.2806936680925665)]'
+(191)[2022/08/07 12:15:29]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.719), (Hacker: true), (Online: 5), (instance: ground-up(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.05181504078041144, old-motion:
+  0.13287248956321207, box: 0.26275554377845367, old-box: 0.21094050299804223, air:
+  0, horizontal: 0.06105665531504201)]'
+(192)[2022/08/07 12:17:04]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 10ms), (TPS: 19.615), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/9),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 8, horizontal: 0.13388666650096342)]'
+(193)[2022/08/07 12:17:04]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 10ms), (TPS: 19.657), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 10, horizontal: 0.273655506594679)]'
+(194)[2022/08/07 12:19:16]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 9ms), (TPS: 19.908), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: damage/explosion, up/down: 1, jump/fall: 1, motion: 0.0, old-motion: -0.12160004615783748,
+  box/old-box: 0.0, air: 13, horizontal: 0.2169357101853036)]'
+(195)[2022/08/07 12:19:18]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 7, horizontal: 0.280504202379249)]'
+(196)[2022/08/07 12:19:19]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 9, horizontal: 0.2772020512837974)]'
+(197)[2022/08/07 12:19:19]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 10, horizontal: 0.2803398282561616)]'
+(198)[2022/08/07 12:19:19]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 13, horizontal: 0.28041003605943143)]'
+(199)[2022/08/07 12:19:37]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 5ms), (TPS: 19.723), (Hacker: true), (Online: 5), (instance: repeated-fall(2/20/2),
+  extra: (ms: 440), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.15233518685055003,
+  old-motion: -0.07544406518948676, box: 0.02442408821369213, old-box: 0.17675927506424216,
+  air: 22, horizontal: 0.2960229996432828)]'
+(200)[2022/08/07 12:19:59]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed Speed (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true), (Ping: 6ms),
+  (TPS: 19.86), (Hacker: true), (Online: 5), (type: normal, reason: ground, horizontal:
+  1.1236464699236275, limit: 0.325, dynamic-limit: 0.6, vertical: 0.0, air: 0)]'
+(201)[2022/08/07 12:20:02]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 5) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 13ms), (TPS: 19.892), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 8, horizontal: 0.12775362292375247)]'
+(202)[2022/08/07 12:20:05]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 19.481), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.0, old-motion: -0.23152379758701613,
+  box/old-box: 0.0, air: 11, horizontal: 0.3129600831154844)]'
+(203)[2022/08/07 12:20:08]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 12ms), (TPS: 19.774), (Hacker: false), (Online: 5), (instance: ground-up(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.07046201686239328, old-motion:
+  0.15190001580715062, box: 0.468751763275403, old-box: 0.39828974641300974, air:
+  5, horizontal: 0.06716318285479622)]'
+(204)[2022/08/07 12:20:18]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 5ms), (TPS: 19.376), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 8, horizontal: 0.19447346043905522)]'
+(205)[2022/08/07 12:20:19]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 5ms), (TPS: 19.364), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 9, horizontal: 0.2004595257364185)]'
+(206)[2022/08/07 12:21:34]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 20.0), (Hacker: true), (Online: 4), (instance: ground-up(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.13288801814746876, old-motion:
+  0.21560001587867816, box: 0.4698681341212989, old-box: 0.33698011597383015, air:
+  0, horizontal: 8.490993087661991E-4)]'
+(207)[2022/08/07 12:22:43]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.845), (Hacker: false), (Online: 4), (instance: jumping-liquids(2/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  0.0, box: 0.41999998688697815, old-box: 0.0, air: 0, horizontal: 0.478037681598492)]'
+(208)[2022/08/07 12:22:56]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.849), (Hacker: true), (Online: 4), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.12129684053918766, box: 0.41999998688697815, old-box: 0.0, air: 27, horizontal:
+  0.2145059881639029)]'
+(209)[2022/08/07 12:22:56]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.837), (Hacker: true), (Online: 4), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.0030162615090425504, old-motion:
+  0.0830778178064655, box: 0.2522033402537218, old-box: 0.24918707874467927, air:
+  32, horizontal: 0.15204288853714687)]'
+(210)[2022/08/07 12:23:00]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.778), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 10, horizontal: 0.19122890335051343)]'
+(211)[2022/08/07 12:23:41]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.864), (Hacker: false), (Online: 4), (instance: ground-up(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.11765599973487895, old-motion:
+  0.1033199992465974, box: 0.40437599579858663, old-box: 0.2867199960637077, air:
+  0, horizontal: 0.03360701709169083)]'
+(212)[2022/08/07 12:23:41]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.853), (Hacker: false), (Online: 4), (instance: ground-up(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.15499049390011876, old-motion:
+  0.15025827536923764, box: 0.12268927970714927, old-box: 0.9676987858070305, air:
+  0, horizontal: 0.05826475721966414)]'
+(213)[2022/08/07 12:23:41]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.845), (Hacker: false), (Online: 4), (instance: greater-jump(1),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.16680410933203405, old-motion:
+  0.16475513532758512, box: 0.7754348383006189, old-box: 0.6086307289685848, air:
+  0, horizontal: 0.06251974333030343)]'
+(214)[2022/08/07 12:24:51]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 20.0), (Hacker: true), (Online: 4), (instance: horizontal-motion(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 42, horizontal: 0.07626365747746888)]'
+(215)[2022/08/07 12:24:51]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 20.0), (Hacker: true), (Online: 4), (instance: horizontal-motion(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 43, horizontal: 0.10850964969607446)]'
+(216)[2022/08/07 12:24:56]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.841), (Hacker: true), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 8, horizontal: 0.17518887078014928)]'
+(217)[2022/08/07 12:25:01]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.751), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 14, horizontal: 0.2008158515115617)]'
+(218)[2022/08/07 12:25:51]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.868), (Hacker: true), (Online: 4), (instance: normal-up-liquids(2/20/2),
+  scenario: liquids, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.09554087887208595, box: 0.41999998688697815, old-box: 0.0, air: 0, horizontal:
+  0.17287384947713946)]'
+(219)[2022/08/07 12:25:51]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.825), (Hacker: true), (Online: 4), (instance: ground-up(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.16266040259104386, old-motion:
+  0.24597999941349258, box: 0.15964038340788989, old-box: 0.996979980816846, air:
+  0, horizontal: 0.17859589763378775)]'
+(220)[2022/08/07 12:25:51]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.782), (Hacker: true), (Online: 4), (instance: hop-micro(2/20/2),
+  extra: (box: 0.007015573481240267), scenario: neutral, up/down: 1, jump/fall: 1,
+  motion: -0.15523200451660557, old-motion: -0.07840000152587834, box: 0.007015573481240267,
+  old-box: 0.16224757799784584, air: 0, horizontal: 0.20839734000965188)]'
+(221)[2022/08/07 12:25:51]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.988), (Hacker: true), (Online: 4), (instance: distant-jump(1),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.3309999945163753, old-motion:
+  0.41999998688697815, box: 0.7509999814033534, old-box: 0.41999998688697815, air:
+  0, horizontal: 0.17906856151003941)]'
+(222)[2022/08/07 12:25:51]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 5) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 20.0), (Hacker: true), (Online: 4), (instance: ground-up(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.16266040259104386, old-motion:
+  0.24597999941349258, box: 0.15964038340788989, old-box: 0.996979980816846, air:
+  0, horizontal: 0.19597852763484028)]'
+(223)[2022/08/07 12:25:55]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 19.267), (Hacker: false), (Online: 4), (instance: horizontal-motion(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 72, horizontal: 0.19679184715602865)]'
+(224)[2022/08/07 12:26:01]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 6) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 20.0), (Hacker: true), (Online: 4), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion:
+  0.08307781780646906, box: 0.2522033402537289, old-box: 0.24918707874468282, air:
+  23, horizontal: 0.28371371697834813)]'
+(225)[2022/08/07 12:26:06]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.841), (Hacker: true), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 6, horizontal: 0.27641708892034755)]'
+(226)[2022/08/07 12:26:07]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.845), (Hacker: true), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 8, horizontal: 0.26911329773782894)]'
+(227)[2022/08/07 12:26:08]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.837), (Hacker: true), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 13, horizontal: 0.25612768163240907)]'
+(228)[2022/08/07 12:26:12]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.817), (Hacker: true), (Online: 4), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 25, horizontal: 0.1478774202905994)]'
+(229)[2022/08/07 12:26:12]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 5) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.992), (Hacker: true), (Online: 4), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 26, horizontal: 0.20968407768670774)]'
+(230)[2022/08/07 12:28:49]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.512), (Hacker: true), (Online: 4), (instance: ground-up(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.14668844956983662, old-motion:
+  0.13961056099952884, box: 0.028572695740308518, old-box: 0.8818842461704719, air:
+  0, horizontal: 0.007393772288703833)]'
+(231)[2022/08/07 12:28:49]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.406), (Hacker: false), (Online: 4), (instance: slow-down(3/20/3),
+  extra: (difference: -3.381736680694303E-4, threshold: 0.051439999999999986), scenario:
+  neutral, up/down: 1, jump/fall: 1, motion: -0.026352696263177933, old-motion: -0.026690869931247363,
+  box: 0.4034292729742823, old-box: 0.42978196923746026, air: 15, horizontal: 0.10450181743655079)]'
+(232)[2022/08/07 12:28:49]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.646), (Hacker: false), (Online: 4), (instance: slow-fall(3/20/3),
+  extra: (difference: -0.01854356233575416, threshold: 0.051439999999999986), scenario:
+  neutral, up/down: 1, jump/fall: 1, motion: -0.10625858566683277, old-motion: -0.12480214800258693,
+  box: 0.6875400319801699, old-box: 0.7937986176470027, air: 17, horizontal: 0.12887970620273045)]'
+(233)[2022/08/07 12:28:50]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.485), (Hacker: false), (Online: 4), (instance: slow-fall(3/20/3),
+  extra: (difference: -0.012126138746683779, threshold: 0.04743999999999999), scenario:
+  neutral, up/down: 1, jump/fall: 1, motion: -0.07350456009071848, old-motion: -0.08563069883740226,
+  box: 0.4362473477120794, old-box: 0.5097519078027979, air: 18, horizontal: 0.11535508606377617)]'
+(234)[2022/08/07 12:28:58]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 19.809), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/6),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 7, horizontal: 0.17298674247191456)]'
+(235)[2022/08/07 12:28:58]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 5) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/6),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 10, horizontal: 0.18541324433254824)]'
+(236)[2022/08/07 12:28:59]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 6) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 19.9), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 11, horizontal: 0.15110313934445135)]'
+(237)[2022/08/07 12:29:01]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 7) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 19.692), (Hacker: false), (Online: 4), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 20, horizontal: 0.06742389936115956)]'
+(238)[2022/08/07 12:30:14]: Yaotzin found 1 gold on 656, -16, 183
+(239)[2022/08/07 12:30:18]: Yaotzin found 1 gold on 659, -15, 183
+(240)[2022/08/07 12:30:19]: Yaotzin found 1 gold on 659, -15, 183
+(241)[2022/08/07 12:30:21]: Yaotzin found 1 gold on 659, -15, 183
+(242)[2022/08/07 12:30:23]: Yaotzin found 1 gold on 660, -14, 183
+(243)[2022/08/07 12:30:25]: Yaotzin found 1 gold on 660, -14, 183
+(244)[2022/08/07 12:30:26]: Yaotzin found 1 gold on 660, -14, 183
+(245)[2022/08/07 12:30:28]: Yaotzin found 1 gold on 660, -14, 183
+(246)[2022/08/07 12:31:19]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.892), (Hacker: false), (Online: 4), (instance: ground-up(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.21560001587867816, old-motion:
+  0.30000001192092896, box: 0.056765752549623016, old-box: 0.8411657366709449, air:
+  0, horizontal: 0.015938957835032852)]'
+(247)[2022/08/07 12:32:13]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 13ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: step-box(1),
+  extra: (difference: 1.0, base-limit: 2.0, limit: 2.0), scenario: neutral, up/down:
+  1, jump/fall: 1, motion/old-motion: 0.0, box/old-box: 0.0, air: 0, horizontal: 0.1515037343052663)]'
+(248)[2022/08/07 12:34:45]: Yaotzin found 1 gold on 642, -18, 147
+(249)[2022/08/07 12:34:47]: Yaotzin found 1 gold on 643, -18, 147
+(250)[2022/08/07 12:34:51]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed NoFall (VL: 1) [(Version: Paper 1.18), (C-V: -3) (Silent: true), (Ping: 0ms),
+  (TPS: 19.868), (Hacker: true), (Online: 4), (type: ratio, blocks: 10, case: 1)]'
+(251)[2022/08/07 12:37:53]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 19.47), (Hacker: false), (Online: 4), (instance: ground-up(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.26700001287460395, old-motion:
+  0.3400000110268593, box: 0.44605261724380796, old-box: 0.179052604369204, air: 0,
+  horizontal: 0.05157672500762205)]'
+(252)[2022/08/07 12:38:15]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed Speed (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping: 7ms),
+  (TPS: 19.16), (Hacker: false), (Online: 4), (type: normal, reason: ground, horizontal:
+  1.1323014447734427, limit: 0.3675, dynamic-limit: 0.6, vertical: 0.0, air: 0)]'
+(253)[2022/08/07 12:38:39]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.988), (Hacker: true), (Online: 4), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  0.0, box: 0.41999998688697815, old-box: 0.0, air: 16, horizontal: 0.07296991835625732)]'
+(254)[2022/08/07 12:38:39]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 20.0), (Hacker: true), (Online: 4), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion:
+  0.08307781780646906, box: 0.2522033402537289, old-box: 0.24918707874468282, air:
+  29, horizontal: 0.09530761164927698)]'
+(255)[2022/08/07 12:38:39]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 20.0), (Hacker: true), (Online: 4), (instance: repeated-fall(2/20/2),
+  extra: (ms: 516), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.15233518685055003,
+  old-motion: -0.07544406518948676, box: 0.02442408821369213, old-box: 0.17675927506424216,
+  air: 31, horizontal: 0.12605257849207693)]'
+(256)[2022/08/07 12:38:39]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 20.0), (Hacker: true), (Online: 4), (instance: slow-fall(3/20/3),
+  extra: (difference: -0.1279110986368579, threshold: 0.03143999999999999), scenario:
+  neutral, up/down: 1, jump/fall: 1, motion: -0.02442408821369213, old-motion: -0.15233518685055003,
+  box: 0.0, old-box: 0.02442408821369213, air: 32, horizontal: 0.13977861339344896)]'
+(257)[2022/08/07 12:38:41]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.12129684053920187, box: 0.41999998688697815, old-box: 0.0, air: 19, horizontal:
+  0.5998314094120012)]'
+(258)[2022/08/07 12:39:12]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed Exploits (VL: 1) [(Version: Paper 1.18), (C-V: -3) (Silent: true), (Ping:
+  4ms), (TPS: 19.809), (Hacker: true), (Online: 4), (type: head-position(yaw), case:
+  1, difference: 3.0)]'
+(259)[2022/08/07 12:39:34]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.996), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 8, horizontal: 0.28157827145216613)]'
+(260)[2022/08/07 12:39:46]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.825), (Hacker: true), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 5, horizontal: 0.3128472244988676)]'
+(261)[2022/08/07 12:40:50]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.704), (Hacker: true), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 7, horizontal: 0.2797992855648455)]'
+(262)[2022/08/07 12:40:51]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.712), (Hacker: true), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 9, horizontal: 0.2802271954711571)]'
+(263)[2022/08/07 12:40:51]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.735), (Hacker: true), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 11, horizontal: 0.28058458124468716)]'
+(264)[2022/08/07 12:40:52]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.252), (Hacker: true), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.0, old-motion: -0.12129684053920187,
+  box/old-box: 0.0, air: 18, horizontal: 0.3864877030247878)]'
+(265)[2022/08/07 12:40:59]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed Speed (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true), (Ping: 6ms),
+  (TPS: 20.0), (Hacker: false), (Online: 4), (type: water, vertical: 0.514188070276461,
+  horizontal: 0.777276285683027, limit: 0.19(16), dynamic-limit: 0.6, entity: crafthorse{variant=horse,
+  owner=craftplayer{name=castiel2503}})]'
+(266)[2022/08/07 12:41:03]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.565), (Hacker: true), (Online: 4), (instance: ground-up(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.14668844956983662, old-motion:
+  0.13961056099952884, box: 0.031290614443271636, old-box: 0.884602164873435, air:
+  0, horizontal: 0.08831057036770538)]'
+(267)[2022/08/07 12:41:03]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.331), (Hacker: true), (Online: 4), (instance: hop-frequent(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.047330329063562715, old-motion:
+  0.031703746793482424, box: 0.1280147935777265, old-box: 0.1753451226412892, air:
+  0, horizontal: 0.11133969783411225)]'
+(268)[2022/08/07 12:41:04]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.301), (Hacker: false), (Online: 4), (instance: ground-up(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.26700001287460395, old-motion:
+  0.3400000110268593, box: 0.35843563247698285, old-box: 0.09143561960237889, air:
+  0, horizontal: 0.04705946528273256)]'
+(269)[2022/08/07 12:41:04]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.179), (Hacker: true), (Online: 4), (instance: ground-up(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.10668845046390629, old-motion:
+  0.13961056099952884, box: 0.09728343494619907, old-box: 0.9905949844822928, air:
+  0, horizontal: 0.09784742703385638)]'
+(270)[2022/08/07 12:41:06]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 20.0), (Hacker: true), (Online: 4), (instance: ground-up(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.09666728331212937, old-motion:
+  0.1270841022464566, box: 0.0902542393851391, old-box: 0.9935869560730097, air: 0,
+  horizontal: 0.09890154439417721)]'
+(271)[2022/08/07 12:41:08]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: air-up(2/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.3400000110268593,
+  box: 0.21382912305931967, old-box: 0.8738291120324604, air: 23, horizontal: 0.10046567343507314)]'
+(272)[2022/08/07 12:41:08]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.18326001618385135, old-motion:
+  0.26700001287460395, box: 0.664089152117775, old-box: 0.4808291359339236, air: 23,
+  horizontal: 0.11004813111722034)]'
+(273)[2022/08/07 12:41:08]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.020770921877371507, old-motion:
+  0.10119481782970752, box: 0.786054891824854, old-box: 0.7652839699474825, air: 24,
+  horizontal: 0.13740377728559314)]'
+(274)[2022/08/07 12:41:13]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.845), (Hacker: true), (Online: 4), (instance: position-fall(2/20/2),
+  extra: (difference: 0), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.3015347236627832,
+  old-motion: -0.22768848754498094, box: 0.49520087700592796, old-box: 0.7967356006687112,
+  air: 71, horizontal: 0.13592202536076212)]'
+(275)[2022/08/07 12:41:13]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.798), (Hacker: true), (Online: 4), (instance: position-fall(2/20/2),
+  extra: (difference: 0), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.12129684053920187,
+  old-motion: -0.3739040364667261, box: 0.0, old-box: 0.12129684053920187, air: 81,
+  horizontal: 0.14983958997363828)]'
+(276)[2022/08/07 12:41:13]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.996), (Hacker: true), (Online: 4), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion:
+  0.08307781780646906, box: 0.2522033402537289, old-box: 0.24918707874468282, air:
+  108, horizontal: 0.1347133732201015)]'
+(277)[2022/08/07 12:41:13]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 5) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.857), (Hacker: true), (Online: 4), (instance: position-fall(2/20/2),
+  extra: (difference: 1), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.22768848754498094,
+  old-motion: -0.15233518685055003, box: 0.7967356006687112, old-box: 0.02442408821369213,
+  air: 146, horizontal: 0.1533098207684733)]'
+(278)[2022/08/07 12:41:13]: '[Spartan Phase 478/155-656903/122613-002092] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 6) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.992), (Hacker: true), (Online: 4), (instance: position-fall(2/20/2),
+  extra: (difference: 0), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.3739040364667261,
+  old-motion: -0.3015347236627832, box: 0.12129684053920187, old-box: 0.49520087700592796,
+  air: 148, horizontal: 0.1634126679966623)]'
+(279)[2022/08/07 12:43:38]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 1ms), (TPS: 19.849), (Hacker: true), (Online: 4), (instance: ground-up(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.13288801814746876, old-motion:
+  0.21560001587867816, box: 0.5775399183539633, old-box: 0.4446519002064946, air:
+  0, horizontal: 0.13567749268354998)]'
+(280)[2022/08/07 12:43:47]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 1ms), (TPS: 19.908), (Hacker: true), (Online: 4), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion:
+  0.08307781780646906, box: 0.2522033402537289, old-box: 0.24918707874468282, air:
+  23, horizontal: 0.33480650749405094)]'
+(281)[2022/08/07 12:43:48]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 1ms), (TPS: 19.79), (Hacker: true), (Online: 4), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.12129684053920187, box: 0.41999998688697815, old-box: 0.0, air: 26, horizontal:
+  0.6117373602161975)]'
+(282)[2022/08/07 12:45:19]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 19.817), (Hacker: false), (Online: 4), (instance: step-box(1),
+  extra: (difference: 1.0, base-limit: 2.0, limit: 2.0), scenario: neutral, up/down:
+  1, jump/fall: 1, motion: 0.0, old-motion: 0.5, box/old-box: 0.0, air: 1, horizontal:
+  0.33605389716336165)]'
+(283)[2022/08/07 12:46:00]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 1ms), (TPS: 19.5), (Hacker: true), (Online: 4), (instance: ground-up(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.18326001618385135, old-motion:
+  0.26700001287460395, box: 0.566288209330466, old-box: 0.3830281931466146, air: 0,
+  horizontal: 0.06909935549785898)]'
+(284)[2022/08/07 12:46:04]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.727), (Hacker: false), (Online: 4), (instance: horizontal-motion(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 72, horizontal: 0.21958610356770808)]'
+(285)[2022/08/07 12:46:04]: '[Spartan Phase 478/155-656903/122613-002092] Castiel2503
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.813), (Hacker: false), (Online: 4), (instance: horizontal-motion(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 73, horizontal: 0.21964984597973108)]'
+(286)[2022/08/07 12:46:41]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 1ms), (TPS: 19.841), (Hacker: true), (Online: 4), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion:
+  0.08307781780646906, box: 0.2522033402537289, old-box: 0.24918707874468282, air:
+  21, horizontal: 0.3346536079815877)]'
+(287)[2022/08/07 12:46:41]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 1ms), (TPS: 20.0), (Hacker: true), (Online: 4), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.12129684053920187, box: 0.41999998688697815, old-box: 0.0, air: 30, horizontal:
+  0.611377090246969)]'
+(288)[2022/08/07 12:46:42]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 1ms), (TPS: 19.829), (Hacker: true), (Online: 4), (instance: repeated-fall(2/20/2),
+  extra: (ms: 555), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.15233518685055003,
+  old-motion: -0.07544406518948676, box: 0.02442408821369213, old-box: 0.17675927506424216,
+  air: 39, horizontal: 0.3263529016271445)]'
+(289)[2022/08/07 12:49:17]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 20.0), (Hacker: true), (Online: 4), (instance: ground-up(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.04210104279114546, old-motion:
+  0.12296024690994045, box: 0.19959911023286736, old-box: 0.1574980674417219, air:
+  0, horizontal: 0.17584454358714752)]'
+(290)[2022/08/07 12:52:06]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.86), (Hacker: true), (Online: 4), (instance: jumping-liquids(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.0827569852350507, old-motion:
+  0.1644459016575226, box: 0.6573252213290104, old-box: 0.5745682360939597, air: 0,
+  horizontal: 0.1779225070966484)]'
+(291)[2022/08/07 12:53:04]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed Speed (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true), (Ping: 0ms),
+  (TPS: 19.864), (Hacker: true), (Online: 4), (type: water, vertical: 0.41999998688697815,
+  horizontal: 0.6049402659974572, limit: 0.19(16), dynamic-limit: 0.6)]'
+(292)[2022/08/07 12:53:56]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed NoSwing (VL: 1) [(Version: Paper 1.18), (C-V: 2) (Silent: true), (Ping: 7ms),
+  (TPS: 19.86), (Hacker: false), (Online: 4), (type: break, block: grass-block, item:
+  stone-shovel)]'
+(293)[2022/08/07 12:55:22]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 1ms), (TPS: 19.872), (Hacker: true), (Online: 4), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion:
+  0.08307781780646906, box: 0.2522033402537289, old-box: 0.24918707874468282, air:
+  26, horizontal: 0.2811835399668607)]'
+(294)[2022/08/07 12:55:28]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 1ms), (TPS: 19.916), (Hacker: true), (Online: 4), (instance: repeated-fall(2/20/2),
+  extra: (ms: 457), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.02442408821369213,
+  old-motion: -0.15233518685055003, box: 0.0, old-box: 0.02442408821369213, air: 24,
+  horizontal: 0.19771937718643753)]'
+(295)[2022/08/07 12:55:28]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 1ms), (TPS: 19.868), (Hacker: true), (Online: 4), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.02442408821369213, box: 0.41999998688697815, old-box: 0.0, air: 24, horizontal:
+  0.49161793381543045)]'
+(296)[2022/08/07 12:56:19]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 19.849), (Hacker: false), (Online: 4), (instance: horizontal-liquids(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 9.667203926255752E-9,
+  box: 0.08576834382392917, old-box: 0.08576833415672525, air: 0, horizontal: 0.20464953142440878)]'
+(297)[2022/08/07 12:56:51]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 1ms), (TPS: 19.872), (Hacker: true), (Online: 4), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion:
+  0.08307781780646906, box: 0.2522033402537289, old-box: 0.24918707874468282, air:
+  21, horizontal: 0.13690775617140563)]'
+(298)[2022/08/07 12:56:51]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 1ms), (TPS: 19.88), (Hacker: true), (Online: 4), (instance: repeated-fall(2/20/2),
+  extra: (ms: 448), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.15233518685055003,
+  old-motion: -0.07544406518948676, box: 0.02442408821369213, old-box: 0.17675927506424216,
+  air: 25, horizontal: 0.15709134825469798)]'
+(299)[2022/08/07 12:56:51]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 1ms), (TPS: 19.868), (Hacker: true), (Online: 4), (instance: slow-fall(3/20/3),
+  extra: (difference: -0.0727930298705246, threshold: 0.03143999999999999), scenario:
+  neutral, up/down: 1, jump/fall: 1, motion: -0.23152379758701613, old-motion: -0.30431682745754074,
+  box: 0.0, old-box: 0.23152379758701613, air: 31, horizontal: 0.10093756875265569)]'
+(300)[2022/08/07 13:00:53]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin
+  failed FastBreak (VL: 1) [(Version: Paper 1.18), (C-V: 2) (Silent: true), (Ping:
+  13ms), (TPS: 19.88), (Hacker: false), (Online: 4), (type: delay, time: 1347, limit:
+  5400, difference: 4053, block: clay, item: stone-shovel, enchantments: none, effects:
+  none)]'

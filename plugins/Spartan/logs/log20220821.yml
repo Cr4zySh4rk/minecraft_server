@@ -1,0 +1,36 @@
+(1)[2022/08/21 07:08:12]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.968), (Hacker: true), (Online: 1), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion:
+  0.08307781780646906, box: 0.2522033402537289, old-box: 0.24918707874468282, air:
+  31, horizontal: 0.3438355963791561)]'
+(2)[2022/08/21 07:10:20]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.88), (Hacker: true), (Online: 1), (instance: normal-up-liquids(2/20/2),
+  scenario: liquids, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.09554087887208595, box: 0.41999998688697815, old-box: 0.0, air: 1, horizontal:
+  0.19354181760827435)]'
+(3)[2022/08/21 07:17:05]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 20.0), (Hacker: true), (Online: 1), (instance: normal-up-liquids(2/20/2),
+  scenario: liquids, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.09554087887208595, box: 0.41999998688697815, old-box: 0.0, air: 0, horizontal:
+  0.5172739373533801)]'
+(4)[2022/08/21 07:17:23]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed NoSwing (VL: 1) [(Version: Paper 1.18), (C-V: -2) (Silent: true), (Ping:
+  0ms), (TPS: 19.896), (Hacker: true), (Online: 1), (type: break, block: dirt, item:
+  diamond-shovel)]'
+(5)[2022/08/21 07:17:46]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed NoSwing (VL: 1) [(Version: Paper 1.18), (C-V: -2) (Silent: true), (Ping:
+  0ms), (TPS: 19.857), (Hacker: true), (Online: 1), (type: break, block: dirt, item:
+  diamond-shovel)]'
+(6)[2022/08/21 10:01:10]: '[Spartan Phase 478/155-656903/122613-002092] Darkphantom_21
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.18), (C-V: -4) (Silent: true),
+  (Ping: 0ms), (TPS: 19.896), (Hacker: true), (Online: 1), (instance: normal-up-liquids(2/20/2),
+  scenario: liquids, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.09554087887208595, box: 0.41999998688697815, old-box: 0.0, air: 0, horizontal:
+  0.18261418017363248)]'
+(7)[2022/08/21 11:27:59]: '[Spartan Phase 478/155-656903/122613-002092] Yaotzin failed
+  EntityMove (VL: 1) [(Version: Paper 1.18), (C-V: 3) (Silent: true), (Ping: 20ms),
+  (TPS: 19.988), (Hacker: false), (Online: 1), (entity: horse, type: speed, horizontal:
+  1.9570410475205158, limit: 1.0, dynamic-limit: 1.0)]'

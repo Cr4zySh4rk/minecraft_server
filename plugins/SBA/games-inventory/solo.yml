@@ -1,0 +1,14 @@
+#This is in a example inventory file for games inventory GUI!
+
+data:
+- stack: "RED_BED;1;§aBed Wars §7(Solo);§7[Random Map];§eClick to play!"
+  row: 2
+  column: 3
+  properties:
+    - name: randomly_join
+
+- stack: "BARRIER;1;§cExit"
+  row: 2
+  column: 5
+  properties:
+    - name: exit

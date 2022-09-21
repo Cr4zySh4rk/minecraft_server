@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 223.226.112.29
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1657826133664
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1657826554218
+  login: 1657824559616
+money: '0'
+last-account-name: bhagbsdk
+lastlocation:
+  world: 5291af83-a9c5-4c5e-8888-9fac3d41f84a
+  world-name: BWLobby
+  x: -38.53555463851558
+  y: 93.0
+  z: 28.999462329588553
+  yaw: 72.05368041992188
+  pitch: 33.89986801147461
+logoutlocation:
+  world: 0417e8b2-260a-47cc-954a-58f0e6ea9f1f
+  world-name: spawn
+  x: -5.079142969330849
+  y: 78.38926855400084
+  z: 40.852111371200664
+  yaw: 161.24560546875
+  pitch: 11.999565124511719

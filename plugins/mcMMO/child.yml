@@ -1,0 +1,7 @@
+ConfigPatchVersion: 2
+Salvage:
+- Fishing
+- Repair
+Smelting:
+- Mining
+- Repair
