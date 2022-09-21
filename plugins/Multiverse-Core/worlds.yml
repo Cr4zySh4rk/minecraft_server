@@ -1,51 +1,4 @@
 worlds:
-  Glacier:
-    ==: MVWorld
-    hidden: 'false'
-    alias: Glacier
-    color: WHITE
-    style: NORMAL
-    pvp: 'true'
-    scale: '1.0'
-    respawnWorld: ''
-    allowWeather: 'true'
-    difficulty: HARD
-    spawning:
-      ==: MVSpawnSettings
-      animals:
-        ==: MVSpawnSubSettings
-        spawn: 'false'
-        spawnrate: '-1'
-        exceptions: []
-      monsters:
-        ==: MVSpawnSubSettings
-        spawn: 'false'
-        spawnrate: '-1'
-        exceptions: []
-    entryfee:
-      ==: MVEntryFee
-      amount: '0.0'
-    hunger: 'true'
-    autoHeal: 'true'
-    adjustSpawn: 'true'
-    portalForm: ALL
-    gameMode: SURVIVAL
-    keepSpawnInMemory: 'true'
-    spawnLocation:
-      ==: MVSpawnLocation
-      x: 0.0
-      y: 118.0
-      z: 0.0
-      pitch: 0.0
-      yaw: 0.0
-    autoLoad: 'true'
-    bedRespawn: 'true'
-    worldBlacklist: []
-    environment: NORMAL
-    seed: '0'
-    generator: 'null'
-    playerLimit: '-1'
-    allowFlight: 'true'
   Waterfall:
     ==: MVWorld
     hidden: 'false'
@@ -93,10 +46,10 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Zarzul:
+  Glacier:
     ==: MVWorld
     hidden: 'false'
-    alias: Zarzul
+    alias: Glacier
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -128,7 +81,7 @@ worlds:
     spawnLocation:
       ==: MVSpawnLocation
       x: 0.0
-      y: 189.0
+      y: 118.0
       z: 0.0
       pitch: 0.0
       yaw: 0.0
@@ -176,6 +129,53 @@ worlds:
       ==: MVSpawnLocation
       x: 0.0
       y: 118.0
+      z: 0.0
+      pitch: 0.0
+      yaw: 0.0
+    autoLoad: 'true'
+    bedRespawn: 'true'
+    worldBlacklist: []
+    environment: NORMAL
+    seed: '0'
+    generator: 'null'
+    playerLimit: '-1'
+    allowFlight: 'true'
+  Zarzul:
+    ==: MVWorld
+    hidden: 'false'
+    alias: Zarzul
+    color: WHITE
+    style: NORMAL
+    pvp: 'true'
+    scale: '1.0'
+    respawnWorld: ''
+    allowWeather: 'true'
+    difficulty: HARD
+    spawning:
+      ==: MVSpawnSettings
+      animals:
+        ==: MVSpawnSubSettings
+        spawn: 'false'
+        spawnrate: '-1'
+        exceptions: []
+      monsters:
+        ==: MVSpawnSubSettings
+        spawn: 'false'
+        spawnrate: '-1'
+        exceptions: []
+    entryfee:
+      ==: MVEntryFee
+      amount: '0.0'
+    hunger: 'true'
+    autoHeal: 'true'
+    adjustSpawn: 'true'
+    portalForm: ALL
+    gameMode: SURVIVAL
+    keepSpawnInMemory: 'true'
+    spawnLocation:
+      ==: MVSpawnLocation
+      x: 0.0
+      y: 189.0
       z: 0.0
       pitch: 0.0
       yaw: 0.0
@@ -516,6 +516,53 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
+  Temple:
+    ==: MVWorld
+    hidden: 'false'
+    alias: ''
+    color: WHITE
+    style: NORMAL
+    pvp: 'true'
+    scale: '1.0'
+    respawnWorld: ''
+    allowWeather: 'true'
+    difficulty: HARD
+    spawning:
+      ==: MVSpawnSettings
+      animals:
+        ==: MVSpawnSubSettings
+        spawn: 'false'
+        spawnrate: '-1'
+        exceptions: []
+      monsters:
+        ==: MVSpawnSubSettings
+        spawn: 'false'
+        spawnrate: '-1'
+        exceptions: []
+    entryfee:
+      ==: MVEntryFee
+      amount: '0.0'
+    hunger: 'true'
+    autoHeal: 'true'
+    adjustSpawn: 'true'
+    portalForm: ALL
+    gameMode: SURVIVAL
+    keepSpawnInMemory: 'true'
+    spawnLocation:
+      ==: MVSpawnLocation
+      x: -1.0
+      y: 103.0
+      z: 2.0
+      pitch: 0.0
+      yaw: 0.0
+    autoLoad: 'true'
+    bedRespawn: 'true'
+    worldBlacklist: []
+    environment: NORMAL
+    seed: '0'
+    generator: 'null'
+    playerLimit: '-1'
+    allowFlight: 'true'
   spawn_the_end:
     ==: MVWorld
     hidden: 'false'
@@ -563,10 +610,10 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Temple:
+  Crogorm:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: Crogorm
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -597,11 +644,11 @@ worlds:
     keepSpawnInMemory: 'true'
     spawnLocation:
       ==: MVSpawnLocation
-      x: -1.0
-      y: 103.0
-      z: 2.0
-      pitch: 0.0
-      yaw: 0.0
+      x: 0.5751451320713925
+      y: 171.0
+      z: 0.42606720781487734
+      pitch: -2.4000297
+      yaw: 1.2000008
     autoLoad: 'true'
     bedRespawn: 'true'
     worldBlacklist: []
@@ -654,53 +701,6 @@ worlds:
     worldBlacklist: []
     environment: NORMAL
     seed: '-7273883145462526049'
-    generator: 'null'
-    playerLimit: '-1'
-    allowFlight: 'true'
-  Crogorm:
-    ==: MVWorld
-    hidden: 'false'
-    alias: Crogorm
-    color: WHITE
-    style: NORMAL
-    pvp: 'true'
-    scale: '1.0'
-    respawnWorld: ''
-    allowWeather: 'true'
-    difficulty: HARD
-    spawning:
-      ==: MVSpawnSettings
-      animals:
-        ==: MVSpawnSubSettings
-        spawn: 'false'
-        spawnrate: '-1'
-        exceptions: []
-      monsters:
-        ==: MVSpawnSubSettings
-        spawn: 'false'
-        spawnrate: '-1'
-        exceptions: []
-    entryfee:
-      ==: MVEntryFee
-      amount: '0.0'
-    hunger: 'true'
-    autoHeal: 'true'
-    adjustSpawn: 'true'
-    portalForm: ALL
-    gameMode: SURVIVAL
-    keepSpawnInMemory: 'true'
-    spawnLocation:
-      ==: MVSpawnLocation
-      x: 0.5751451320713925
-      y: 171.0
-      z: 0.42606720781487734
-      pitch: -2.4000297
-      yaw: 1.2000008
-    autoLoad: 'true'
-    bedRespawn: 'true'
-    worldBlacklist: []
-    environment: NORMAL
-    seed: '0'
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'

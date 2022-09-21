@@ -2657,3 +2657,32 @@
 [09-21 20:13:18]: [FINE] §7§aW4RL0CKM0NK3Y§7, p1zz4m4n.
 [09-21 20:13:18]: [FINE] W4RL0CKM0NK3Y logged in 192.168.1.194
 [09-21 20:14:14]: [INFO] AuthMe 5.6.0-SNAPSHOT-bCUSTOM disabled!
+[09-21 20:44:21]: [INFO] SQLite Setup finished
+[09-21 20:44:21]: [INFO] Hooked into LuckPerms!
+[09-21 20:44:21]: [INFO] Hooked successfully into Essentials
+[09-21 20:44:21]: [INFO] Hooked successfully into Multiverse-Core
+[09-21 20:44:22]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.CUSTOM successfully enabled!
+[09-21 20:44:31]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[09-21 20:44:31]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[09-21 20:44:31]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[09-21 20:44:31]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[09-21 20:44:31]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[09-21 20:44:48]: [FINE] The user W4RL0CKM0NK3Y has 2 accounts:
+[09-21 20:44:48]: [FINE] §7§aW4RL0CKM0NK3Y§7, p1zz4m4n.
+[09-21 20:44:48]: [FINE] W4RL0CKM0NK3Y logged in 192.168.1.194
+[09-21 20:45:39]: [INFO] AuthMe 5.6.0-SNAPSHOT-bCUSTOM disabled!

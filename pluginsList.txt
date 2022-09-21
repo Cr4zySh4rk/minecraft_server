@@ -10,7 +10,7 @@
 10)TangledMaze
 11)GriefPrevention
 12)Harbor
-13)HolographicDisplays
+13)DecentHolograms
 14)LuckPerms
 15)mcMMO
 16)MultiverseCore

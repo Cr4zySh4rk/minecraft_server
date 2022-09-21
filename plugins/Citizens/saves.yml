@@ -62,7 +62,7 @@ npc:
         z: '-19.4804'
         yaw: '7.4'
         pitch: '0.4499'
-    traitnames: scoreboardtrait,commandtrait,type,owner,skintrait,hologramtrait,age,inventory,location,mounttrait,equipment,spawned
+    traitnames: owner,type,inventory,hologramtrait,equipment,scoreboardtrait,mounttrait,commandtrait,location,skintrait,spawned,age
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -127,7 +127,7 @@ npc:
         z: '-19.5847'
         yaw: '-8.35'
         pitch: '2.0999'
-    traitnames: scoreboardtrait,commandtrait,type,skintrait,owner,hologramtrait,age,inventory,location,mounttrait,equipment,spawned
+    traitnames: owner,type,inventory,hologramtrait,equipment,scoreboardtrait,mounttrait,commandtrait,location,skintrait,spawned,age
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
