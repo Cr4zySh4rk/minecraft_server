@@ -340,12 +340,16 @@ custom_join_items:
       lore:
         - "&7Right-click to see information about the server!"
       actions:
-        - "[MESSAGE] &r"
         - "[MESSAGE] &e&lServer Information"
-        - "[MESSAGE] &r"
         - "[MESSAGE] &bIP: &fwww.wmcraft.xyz"
         - "[MESSAGE] &dDiscord: &fdiscord.gg/hmZpGYHf7t"
-        - "[MESSAGE] &r"
+        - "[MESSAGE] &6-=-=-= &cRules &6=-=-=-"
+        - "[MESSAGE] &f[1] Be ethical. (Don't hack/cheat)"
+        - "[MESSAGE] &f[2] No griefing. (Don't destroy builds)"
+        - "[MESSAGE] &f[3] Be kind and helpful."
+        - "[MESSAGE] &f[4] Report Violaters to Admin. (W4RL0CKM0NK3Y)"
+        - "[MESSAGE] &f[5] Don't be toxic."
+        - "[MESSAGE] &f[6] No bullying."
     server_selector:
       material: AMETHYST_CLUSTER
       amount: 1

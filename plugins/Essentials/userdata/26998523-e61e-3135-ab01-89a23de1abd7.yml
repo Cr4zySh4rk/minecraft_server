@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 122.172.82.234
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1664292603913
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1664293341463
+  login: 1664291282696
+money: '0'
+last-account-name: MightyArmour
+lastlocation:
+  world: a6f6322d-2f63-4b4d-a3fa-72aa7d349b23
+  world-name: survival
+  x: 312.2246829260796
+  y: 62.0
+  z: -433.30000001192093
+  yaw: -10.746337890625
+  pitch: 66.75010681152344
+logoutlocation:
+  world: a6f6322d-2f63-4b4d-a3fa-72aa7d349b23
+  world-name: survival
+  x: 315.380238003974
+  y: 68.0
+  z: -202.36829064095065
+  yaw: -3.81103515625
+  pitch: 31.949918746948242

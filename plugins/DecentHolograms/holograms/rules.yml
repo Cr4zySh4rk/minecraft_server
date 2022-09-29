@@ -1,0 +1,18 @@
+location: spawn:10.285:103.171:24.659
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '#ICON: BOOK !ENCHANTED'
+    height: 0.6
+  - content: '&f Type &c/rules&f to'
+    height: 0.3
+  - content: '&flearn about this'
+    height: 0.3
+  - content: '&fserver''s rules.'
+    height: 0.3
+  actions: {}

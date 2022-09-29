@@ -1,0 +1,46 @@
+(2)[2022/09/24 09:36:17]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 43ms), (TPS: 19.864), (Hacker: false), (Online: 1), (instance: step-air-down-3.87(1),
+  extra: (multiple: -5.5, ticks-used: 2), scenario: neutral, up/down: 1, jump/fall:
+  1, motion: 0.07333115768983589, old-motion: 0.18963059815213512, box: 0.5, old-box:
+  0.4266688423101641, air: 0, horizontal: 0.023370764284444297)]'
+(3)[2022/09/24 10:20:18]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 73ms), (TPS: 19.976), (Hacker: false), (Online: 1), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.5625, air: 16, horizontal: 0.18019849948735533)]'
+(4)[2022/09/24 17:51:13]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  FastBreak (VL: 1) [(Version: Paper 1.19), (C-V: 2) (Silent: true), (Ping: 59ms),
+  (TPS: 19.872), (Hacker: false), (Online: 1), (type: delay, time: 1195, limit: 3500,
+  difference: 2305, block: sand, item: arrow, enchantments: none, effects: none)]'
+(5)[2022/09/24 17:51:15]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  FastBreak (VL: 2) [(Version: Paper 1.19), (C-V: 2) (Silent: true), (Ping: 59ms),
+  (TPS: 19.892), (Hacker: false), (Online: 1), (type: delay, time: 1304, limit: 3500,
+  difference: 2196, block: sand, item: arrow, enchantments: none, effects: none)]'
+(6)[2022/09/24 17:51:16]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  FastBreak (VL: 3) [(Version: Paper 1.19), (C-V: 2) (Silent: true), (Ping: 59ms),
+  (TPS: 19.892), (Hacker: false), (Online: 1), (type: delay, time: 956, limit: 3500,
+  difference: 2544, block: sand, item: arrow, enchantments: none, effects: none)]'
+(7)[2022/09/24 18:20:27]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping:
+  50ms), (TPS: 19.829), (Hacker: false), (Online: 1), (instance: step-air-up-3.0(1),
+  extra: (multiple: 5.001335979112142, ticks-used: 2), scenario: neutral, up/down:
+  1, jump/fall: 1, motion: 0.24813599859093927, old-motion: 0.33319999363422426, box:
+  0.001335979112141672, old-box: 0.7531999805212024, air: 0, horizontal: 0.01960000046789488)]'
+(8)[2022/09/24 18:22:36]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  MorePackets (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 59ms),
+  (TPS: 19.77), (Hacker: false), (Online: 1), (type: instant, overall: 3.367167782678022,
+  last-tick: 1, ticks-requirement: 10, decreased-requirement: false)]'
+(9)[2022/09/24 18:23:12]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  FastBreak (VL: 1) [(Version: Paper 1.19), (C-V: 2) (Silent: true), (Ping: 55ms),
+  (TPS: 19.712), (Hacker: false), (Online: 1), (type: delay, time: 719, limit: 3500,
+  difference: 2781, block: sand, item: stick, enchantments: none, effects: none)]'
+(10)[2022/09/24 18:23:34]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  FastBreak (VL: 1) [(Version: Paper 1.19), (C-V: 2) (Silent: true), (Ping: 52ms),
+  (TPS: 19.794), (Hacker: false), (Online: 1), (type: delay, time: 850, limit: 4300,
+  difference: 3450, block: grass-block, item: stick, enchantments: none, effects:
+  none)]'
+(11)[2022/09/24 18:23:35]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  FastBreak (VL: 2) [(Version: Paper 1.19), (C-V: 2) (Silent: true), (Ping: 52ms),
+  (TPS: 19.813), (Hacker: false), (Online: 1), (type: delay, time: 751, limit: 3500,
+  difference: 2749, block: dirt, item: stick, enchantments: none, effects: none)]'

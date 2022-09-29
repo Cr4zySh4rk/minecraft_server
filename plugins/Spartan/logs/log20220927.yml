@@ -1,0 +1,1148 @@
+(2)[2022/09/27 15:09:10]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 19.758), (Hacker: true), (Online: 3), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 6, horizontal: 0.2841465899243511)]'
+(3)[2022/09/27 15:09:51]: '[Spartan Phase 484.1/153-695517/*1663979-48771] W4RL0CKM0NK3Y
+  failed NoSwing (VL: 1) [(Version: Paper 1.19), (C-V: 2) (Silent: true), (Ping: 4ms),
+  (TPS: 19.193), (Hacker: false), (Online: 3), (type: break, block: dirt, item: iron-shovel)]'
+(4)[2022/09/27 15:10:02]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping:
+  59ms), (TPS: 19.138), (Hacker: false), (Online: 3), (instance: step-ground-up-2.0(1),
+  extra: (single: 2.5, ticks-used: 0), scenario: neutral, up/down: 1, jump/fall: 1,
+  motion/old-motion: 0.0, box/old-box: 0.5, air: 0, horizontal: 0.2821599674507835)]'
+(5)[2022/09/27 15:10:03]: '[Spartan Phase 484.1/153-695517/*1663979-48771] W4RL0CKM0NK3Y
+  failed NoSwing (VL: 2) [(Version: Paper 1.19), (C-V: 2) (Silent: true), (Ping: 4ms),
+  (TPS: 20.0), (Hacker: false), (Online: 3), (type: break, block: grass-block, item:
+  iron-shovel)]'
+(6)[2022/09/27 15:16:44]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.857), (Hacker: true), (Online: 3), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 2, horizontal: 0.33797975414566594)]'
+(7)[2022/09/27 15:16:56]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed Speed (VL: 1) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 7ms),
+  (TPS: 19.884), (Hacker: true), (Online: 3), (type: normal, reason: ground, horizontal:
+  0.36878109708274215, limit: 0.3675, dynamic-limit: 0.3675, vertical: -0.07840000152587834,
+  air: 0)]'
+(8)[2022/09/27 15:20:14]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 3), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 8, horizontal: 0.11329986525546931)]'
+(9)[2022/09/27 15:20:14]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 3), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 11, horizontal: 0.19821623883078274)]'
+(10)[2022/09/27 15:20:15]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 3), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 14, horizontal: 0.1619221970306322)]'
+(11)[2022/09/27 15:23:48]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  MorePackets (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 42ms),
+  (TPS: 19.77), (Hacker: false), (Online: 3), (type: instant, overall: 1.8754312580133918,
+  last-tick: 0, ticks-requirement: 10, decreased-requirement: false)]'
+(12)[2022/09/27 15:23:49]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  MorePackets (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 42ms),
+  (TPS: 19.857), (Hacker: false), (Online: 3), (type: instant, overall: 2.2007068833634578,
+  last-tick: 4, ticks-requirement: 10, decreased-requirement: false)]'
+(13)[2022/09/27 15:23:56]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  MorePackets (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 42ms),
+  (TPS: 19.813), (Hacker: false), (Online: 3), (type: instant, overall: 2.1423233024924624,
+  last-tick: 1, ticks-requirement: 10, decreased-requirement: false)]'
+(14)[2022/09/27 15:24:06]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  GhostHand (VL: 1) [(Version: Paper 1.19), (C-V: 5) (Silent: true), (Ping: 174ms),
+  (TPS: 19.98), (Hacker: false), (Online: 3), (type: break, block: dirt, real-block:
+  grass-block)]'
+(15)[2022/09/27 15:25:30]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.778), (Hacker: false), (Online: 3), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 1, horizontal: 0.30348693307847147)]'
+(16)[2022/09/27 15:25:31]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.996), (Hacker: false), (Online: 3), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion:
+  0.08307781780646906, box: 0.2522033402537289, old-box: 0.24918707874468282, air:
+  25, horizontal: 0.08986281216323894)]'
+(17)[2022/09/27 15:29:14]: '[Spartan Phase 484.1/153-695517/*1663979-48771] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.489), (Hacker: false), (Online: 3), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 7, horizontal: 0.281100442952561)]'
+(18)[2022/09/27 15:30:58]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  GhostHand (VL: 1) [(Version: Paper 1.19), (C-V: 5) (Silent: true), (Ping: 48ms),
+  (TPS: 19.813), (Hacker: false), (Online: 3), (type: break, block: grass-block, real-block:
+  grass-block)]'
+(19)[2022/09/27 15:39:19]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed NoSwing (VL: 1) [(Version: Paper 1.19), (C-V: 2) (Silent: true), (Ping: 7ms),
+  (TPS: 18.615), (Hacker: false), (Online: 4), (type: break, block: grass-block, item:
+  iron-shovel)]'
+(20)[2022/09/27 15:40:00]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.12129684053920187, box: 0.41999998688697815, old-box: 0.0, air: 18, horizontal:
+  0.032121817872836904)]'
+(21)[2022/09/27 15:40:00]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 26, horizontal: 0.17223517402540334)]'
+(22)[2022/09/27 15:40:01]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 27, horizontal: 0.02337440115830293)]'
+(23)[2022/09/27 15:40:01]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 31, horizontal: 0.09800000548254859)]'
+(24)[2022/09/27 15:40:02]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 5) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 32, horizontal: 0.02071983656466614)]'
+(25)[2022/09/27 15:40:39]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping:
+  51ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 7, horizontal: 0.21156318142675992)]'
+(26)[2022/09/27 15:40:40]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping:
+  51ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 9, horizontal: 0.21552951989860392)]'
+(27)[2022/09/27 15:40:40]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  IrregularMovements (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping:
+  51ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/9),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 14, horizontal: 0.151508007271501)]'
+(28)[2022/09/27 15:40:41]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  IrregularMovements (VL: 4) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping:
+  51ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 16, horizontal: 0.20425626440478684)]'
+(29)[2022/09/27 15:41:16]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 11ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.02442408821369213, box: 0.41999998688697815, old-box: 0.0, air: 20, horizontal:
+  0.5309015315591746)]'
+(30)[2022/09/27 15:42:34]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.786), (Hacker: false), (Online: 4), (instance: step-ground-up-2.0(1),
+  extra: (single: 2.080000013113022, ticks-used: 0), scenario: neutral, up/down: 1,
+  jump/fall: 1, motion/old-motion: 0.0, box/old-box: 0.0, air: 0, horizontal: 0.0)]'
+(31)[2022/09/27 15:42:49]: '[Spartan Phase 484.1/153-695517/*1663979-48771] W4RL0CKM0NK3Y
+  failed NoSwing (VL: 1) [(Version: Paper 1.19), (C-V: 2) (Silent: true), (Ping: 4ms),
+  (TPS: 18.211), (Hacker: false), (Online: 4), (type: break, block: grass-block, item:
+  iron-shovel)]'
+(32)[2022/09/27 15:44:01]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 9ms), (TPS: 19.841), (Hacker: false), (Online: 4), (instance: position-fall(2/20/2),
+  extra: (difference: 1), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.44482596439492283,
+  old-motion: -0.3739040364667261, box: 0.676470876144279, old-box: 0.12129684053920187,
+  air: 74, horizontal: 0.1612213447672894)]'
+(33)[2022/09/27 15:44:06]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 9ms), (TPS: 19.809), (Hacker: false), (Online: 4), (instance: position-fall(2/20/2),
+  extra: (difference: 1), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.649194032438956,
+  old-motion: -0.5824428773508714, box: 0.9305045112371744, old-box: 0.5796985436761304,
+  air: 111, horizontal: 0.11831550149274277)]'
+(34)[2022/09/27 15:44:06]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 9ms), (TPS: 19.857), (Hacker: false), (Online: 4), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.21589434553872877, box: 0.41999998688697815, old-box: 0.0, air: 120, horizontal:
+  0.41867667414647747)]'
+(35)[2022/09/27 15:44:11]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 9ms), (TPS: 19.972), (Hacker: false), (Online: 4), (instance: position-fall(2/20/2),
+  extra: (difference: 0), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.3739040364667261,
+  old-motion: -0.3015347236627832, box: 0.12129684053920187, old-box: 0.49520087700592796,
+  air: 67, horizontal: 0.28489118503339617)]'
+(36)[2022/09/27 15:44:24]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 5) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 19.735), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 14, horizontal: 0.20689821320375373)]'
+(37)[2022/09/27 15:44:24]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 6) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 19.794), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 15, horizontal: 0.2799258309469322)]'
+(38)[2022/09/27 15:44:24]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 7) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 19.813), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 18, horizontal: 0.2657152019333681)]'
+(39)[2022/09/27 15:45:53]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping:
+  61ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: horizontal-motion(9/20/9),
+  scenario: damage/explosion, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 14, horizontal: 0.22000436984181176)]'
+(40)[2022/09/27 15:49:23]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.573), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/6),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 13, horizontal: 0.1515075336515329)]'
+(41)[2022/09/27 15:49:24]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.669), (Hacker: false), (Online: 4), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 20, horizontal: 0.08272338579861123)]'
+(42)[2022/09/27 15:49:25]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.535), (Hacker: false), (Online: 4), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 28, horizontal: 0.0)]'
+(43)[2022/09/27 15:50:28]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 23ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 11, horizontal: 0.15039370129882917)]'
+(44)[2022/09/27 15:50:29]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed KillAura (VL: 1) [(Version: Paper 1.19), (C-V: 2) (Silent: true), (Ping:
+  61ms), (TPS: 20.0), (Hacker: false), (Online: 4), (type: area(consistency), head:
+  0, body: 1, legs: 5)]'
+(45)[2022/09/27 15:50:34]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  NoSwing (VL: 1) [(Version: Paper 1.19), (C-V: 2) (Silent: true), (Ping: 56ms), (TPS:
+  20.0), (Hacker: false), (Online: 4), (type: break, block: dirt, item: stone-shovel)]'
+(46)[2022/09/27 15:50:41]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: horizontal-motion(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 65, horizontal: 0.059331677796194526)]'
+(47)[2022/09/27 15:50:42]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: horizontal-motion(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 80, horizontal: 0.005272995518140533)]'
+(48)[2022/09/27 15:50:44]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 61ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: horizontal-motion(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 75, horizontal: 0.0)]'
+(49)[2022/09/27 15:51:23]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping:
+  50ms), (TPS: 19.956), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 10, horizontal: 0.27908365900040627)]'
+(50)[2022/09/27 15:51:23]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping:
+  50ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 13, horizontal: 0.27346526443929275)]'
+(51)[2022/09/27 15:52:20]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 70ms), (TPS: 19.928), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 10, horizontal: 0.28035284208463007)]'
+(52)[2022/09/27 15:52:41]: '[Spartan Phase 484.1/153-695517/*1663979-48771] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.704), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 8, horizontal: 0.28059646614255446)]'
+(53)[2022/09/27 15:52:41]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 54ms), (TPS: 19.661), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 6, horizontal: 0.28063438287507153)]'
+(54)[2022/09/27 15:52:42]: '[Spartan Phase 484.1/153-695517/*1663979-48771] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.984), (Hacker: false), (Online: 4), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 12, horizontal: 0.28057681461301587)]'
+(55)[2022/09/27 15:53:27]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 28ms), (TPS: 19.912), (Hacker: false), (Online: 4), (instance: step-air-down-3.87(1),
+  extra: (multiple: -16.999294091027636, ticks-used: 2), scenario: neutral, up/down:
+  1, jump/fall: 1, motion/old-motion: 0.1176000022888175, box: 7.05908972364E-4, old-box:
+  0.8831059066835465, air: 0, horizontal: 0.09621025558556084)]'
+(56)[2022/09/27 15:53:45]: '[Spartan Phase 484.1/153-695517/*1663979-48771] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.523), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 7, horizontal: 0.1993765662873251)]'
+(57)[2022/09/27 15:53:45]: '[Spartan Phase 484.1/153-695517/*1663979-48771] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.58), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 10, horizontal: 0.22000983864652224)]'
+(58)[2022/09/27 15:53:45]: '[Spartan Phase 484.1/153-695517/*1663979-48771] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.542), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 11, horizontal: 0.2083741465094436)]'
+(59)[2022/09/27 15:53:49]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  MorePackets (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 42ms),
+  (TPS: 19.55), (Hacker: false), (Online: 5), (type: instant, overall: 2.1419160851415846,
+  last-tick: 0, ticks-requirement: 10, decreased-requirement: false)]'
+(60)[2022/09/27 15:55:00]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed NoSwing (VL: 1) [(Version: Paper 1.19), (C-V: 2) (Silent: true), (Ping: 7ms),
+  (TPS: 20.0), (Hacker: false), (Online: 4), (type: break, block: grass-block, item:
+  iron-shovel)]'
+(61)[2022/09/27 15:57:55]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 5ms), (TPS: 19.474), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 6, horizontal: 0.27696213651305157)]'
+(62)[2022/09/27 15:57:56]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 5ms), (TPS: 19.391), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 8, horizontal: 0.182413856972876)]'
+(63)[2022/09/27 15:57:56]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 5ms), (TPS: 19.436), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 10, horizontal: 0.2724576790156319)]'
+(64)[2022/09/27 15:58:37]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.845), (Hacker: false), (Online: 5), (instance: position-fall(2/20/2),
+  extra: (difference: 0), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.3739040364667261,
+  old-motion: -0.3015347236627832, box: 0.12129684053920187, old-box: 0.49520087700592796,
+  air: 64, horizontal: 0.31586888155029036)]'
+(65)[2022/09/27 15:58:55]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping:
+  49ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: air-jump(2/20/2), scenario:
+  neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion: -0.12129684053919121,
+  box: 0.41999998688697815, old-box: 0.0, air: 17, horizontal: 0.22323987624444852)]'
+(66)[2022/09/27 15:59:43]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 19.723), (Hacker: false), (Online: 5), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion:
+  0.08307781780646906, box: 0.2522033402537289, old-box: 0.24918707874468282, air:
+  20, horizontal: 0.30617223159023543)]'
+(67)[2022/09/27 16:00:21]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 19.813), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 7, horizontal: 0.2054743903662364)]'
+(68)[2022/09/27 16:00:48]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 19.992), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 10, horizontal: 0.21585884774488678)]'
+(69)[2022/09/27 16:00:49]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 19.988), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 12, horizontal: 0.21585535704544442)]'
+(70)[2022/09/27 16:00:49]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 14, horizontal: 0.21525451436814644)]'
+(71)[2022/09/27 16:00:55]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 12ms), (TPS: 19.523), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 11, horizontal: 0.19336191638815217)]'
+(72)[2022/09/27 16:00:56]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 12ms), (TPS: 19.619), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/6),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 18, horizontal: 0.1514894720012725)]'
+(73)[2022/09/27 16:00:56]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 12ms), (TPS: 19.821), (Hacker: false), (Online: 5), (instance: horizontal-motion(4/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 21, horizontal: 0.10269051919551091)]'
+(74)[2022/09/27 16:01:01]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 13ms), (TPS: 19.968), (Hacker: false), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 31, horizontal: 0.06757153300140178)]'
+(75)[2022/09/27 16:01:06]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 5) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 13ms), (TPS: 18.744), (Hacker: false), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 32, horizontal: 0.11376510700641823)]'
+(76)[2022/09/27 16:01:07]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: hop-jump(1),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.05107535017710774, old-motion:
+  0.13211770324799943, box: 0.2226045186725969, old-box: 0.17152916849548916, air:
+  0, horizontal: 0.10723887940374774)]'
+(77)[2022/09/27 16:01:09]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 5) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: hop-jump(1),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.235000013113023, old-motion:
+  0.30000001192092896, box: 0.2542512738059486, old-box: 0.019251260692925598, air:
+  0, horizontal: 0.045316559184643966)]'
+(78)[2022/09/27 16:01:09]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 6) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: hop-jump(1),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.15190001580715062, old-motion:
+  0.235000013113023, box: 0.4061512896130992, old-box: 0.2542512738059486, air: 0,
+  horizontal: 0.05967088217069947)]'
+(79)[2022/09/27 16:01:09]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 7) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: ground-up(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.07046201686239328, old-motion:
+  0.15190001580715062, box: 0.4766133064754925, old-box: 0.4061512896130992, air:
+  0, horizontal: 0.0733138659054113)]'
+(80)[2022/09/27 16:01:33]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.845), (Hacker: false), (Online: 5), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion:
+  0.08307781780646906, box: 0.2522033402537289, old-box: 0.24918707874468282, air:
+  28, horizontal: 0.33510252083796294)]'
+(81)[2022/09/27 16:01:34]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.992), (Hacker: false), (Online: 5), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.12129684053920187, box: 0.41999998688697815, old-box: 0.0, air: 35, horizontal:
+  0.6118824827923157)]'
+(82)[2022/09/27 16:01:34]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.872), (Hacker: false), (Online: 5), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion:
+  0.08307781780646906, box: 0.2522033402537289, old-box: 0.24918707874468282, air:
+  52, horizontal: 0.2091993947454634)]'
+(83)[2022/09/27 16:02:03]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 19.054), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 15, horizontal: 0.15355117257300088)]'
+(84)[2022/09/27 16:02:03]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 19.069), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 16, horizontal: 0.24517617192457486)]'
+(85)[2022/09/27 16:02:24]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.171859846197353,
+  limit: 0.3675)]'
+(86)[2022/09/27 16:02:24]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.1742707572716675,
+  limit: 0.3675)]'
+(87)[2022/09/27 16:02:24]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.17643839750382118,
+  limit: 0.3675)]'
+(88)[2022/09/27 16:02:24]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 4) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.17839037560940316,
+  limit: 0.3675)]'
+(89)[2022/09/27 16:02:24]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 5) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.1801480193150446,
+  limit: 0.3675)]'
+(90)[2022/09/27 16:02:24]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 6) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.1817297007910007,
+  limit: 0.3675)]'
+(91)[2022/09/27 16:02:24]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 7) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.18313314085306082,
+  limit: 0.3675)]'
+(92)[2022/09/27 16:02:25]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 8) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.18750741947978838,
+  limit: 0.3675)]'
+(93)[2022/09/27 16:02:25]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 9) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.18834792921944768,
+  limit: 0.3675)]'
+(94)[2022/09/27 16:02:25]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 10) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.18910610952578638,
+  limit: 0.3675)]'
+(95)[2022/09/27 16:02:25]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 11) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.1897898494754936,
+  limit: 0.3675)]'
+(96)[2022/09/27 16:02:25]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 12) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.1904063192794245,
+  limit: 0.3675)]'
+(97)[2022/09/27 16:02:25]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 13) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.19096202752853292,
+  limit: 0.325)]'
+(98)[2022/09/27 16:02:25]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 14) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.19268723617329048,
+  limit: 0.325)]'
+(99)[2022/09/27 16:02:25]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 15) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.19301726216243562,
+  limit: 0.325)]'
+(100)[2022/09/27 16:02:25]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 16) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.19331452556948717,
+  limit: 0.325)]'
+(101)[2022/09/27 16:02:25]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 17) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.1935822561497702,
+  limit: 0.325)]'
+(102)[2022/09/27 16:02:25]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 18) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.19382336976568976,
+  limit: 0.325)]'
+(103)[2022/09/27 16:02:26]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 8ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: normal, reason: ground, horizontal:
+  0.8384612309469867, limit: 0.3675, dynamic-limit: 0.3675, vertical: 0.0, air: 54)]'
+(104)[2022/09/27 16:02:27]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: horizontal-motion(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 55, horizontal: 0.2659784082963032)]'
+(105)[2022/09/27 16:02:27]: '[Spartan Phase 484.1/153-695517/*1663979-48771] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 5ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: step-ground-up-2.0(1),
+  extra: (single: 4.0, ticks-used: 0), scenario: neutral, up/down: 1, jump/fall: 1,
+  motion/old-motion: 0.0, box/old-box: 0.0, air: 0, horizontal: 0.28559280786078217)]'
+(106)[2022/09/27 16:02:28]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed Speed (VL: 1) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 7ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.18536927762578811,
+  limit: 0.3675)]'
+(107)[2022/09/27 16:02:28]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed Speed (VL: 2) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 7ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.18636242411546206,
+  limit: 0.3675)]'
+(108)[2022/09/27 16:02:28]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed Speed (VL: 3) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 7ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.18809815656584175,
+  limit: 0.3675)]'
+(109)[2022/09/27 16:02:29]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed Speed (VL: 4) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 7ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.18887200206378224,
+  limit: 0.3675)]'
+(110)[2022/09/27 16:02:29]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed Speed (VL: 5) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 7ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.18958393749162716,
+  limit: 0.3675)]'
+(111)[2022/09/27 16:02:29]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed Speed (VL: 6) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 7ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.19022363549931576,
+  limit: 0.3675)]'
+(112)[2022/09/27 16:02:29]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed Speed (VL: 7) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 7ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.1925835452616107,
+  limit: 0.3675)]'
+(113)[2022/09/27 16:02:29]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 19) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.17126063514054782,
+  limit: 0.3675)]'
+(114)[2022/09/27 16:02:29]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 20) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.17373218850647257,
+  limit: 0.3675)]'
+(115)[2022/09/27 16:02:29]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 21) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.1759581953533886,
+  limit: 0.3675)]'
+(116)[2022/09/27 16:02:29]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 22) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.17796233305307615,
+  limit: 0.3675)]'
+(117)[2022/09/27 16:02:29]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: hop-jump(1),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.12231143941878031, old-motion:
+  0.2048075888145604, box: 0.4195787009372651, old-box: 0.2972672615184848, air: 12,
+  horizontal: 0.017408517912571142)]'
+(118)[2022/09/27 16:02:29]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 23) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.17976475030551733,
+  limit: 0.3675)]'
+(119)[2022/09/27 16:02:29]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 24) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.18138319632190647,
+  limit: 0.3675)]'
+(120)[2022/09/27 16:02:29]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  was kicked for Speed'
+(121)[2022/09/27 16:02:29]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: air-up(2/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.21560001587867816, old-motion:
+  0.30000001192092896, box: 0.40675054019611423, old-box: 0.19115052431743607, air:
+  45, horizontal: 0.016085292410366492)]'
+(122)[2022/09/27 16:02:29]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 4), (instance: hop-jump(1),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.13288801814746876, old-motion:
+  0.21560001587867816, box: 0.539638558343583, old-box: 0.40675054019611423, air:
+  48, horizontal: 0.014485408802727306)]'
+(123)[2022/09/27 16:02:31]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed Speed (VL: 8) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 7ms),
+  (TPS: 19.627), (Hacker: false), (Online: 4), (type: hop(illegal), horizontal: 0.16898193579721035,
+  limit: 0.3675)]'
+(124)[2022/09/27 16:02:31]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  was kicked for Speed'
+(125)[2022/09/27 16:02:54]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping:
+  49ms), (TPS: 19.665), (Hacker: false), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 24, horizontal: 0.15146950895151481)]'
+(126)[2022/09/27 16:03:04]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 2ms), (TPS: 19.801), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 6, horizontal: 0.28881805525524545)]'
+(127)[2022/09/27 16:03:10]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 2ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 22, horizontal: 0.09850955691252301)]'
+(128)[2022/09/27 16:03:11]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 2ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 24, horizontal: 0.2660540530104368)]'
+(129)[2022/09/27 16:03:16]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.758), (Hacker: false), (Online: 5), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.1621414210270018, box: 0.41999998688697815, old-box: 0.0, air: 13, horizontal:
+  0.5337915315694777)]'
+(130)[2022/09/27 16:03:22]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.888), (Hacker: false), (Online: 5), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.02442408821369213, box: 0.41999998688697815, old-box: 0.0, air: 22, horizontal:
+  0.12334598312497747)]'
+(131)[2022/09/27 16:03:22]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 5) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.766), (Hacker: false), (Online: 5), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion:
+  0.08307781780646906, box: 0.2522033402537289, old-box: 0.24918707874468282, air:
+  25, horizontal: 0.06418569439292908)]'
+(132)[2022/09/27 16:03:22]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 6) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.688), (Hacker: false), (Online: 5), (instance: repeated-fall--0.1523351870255243(2/20/2),
+  extra: (ms: 438), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.15233518685055003,
+  old-motion: -0.07544406518948676, box: 0.02442408821369213, old-box: 0.17675927506424216,
+  air: 25, horizontal: 0.10144415483134142)]'
+(133)[2022/09/27 16:03:22]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 7) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.708), (Hacker: false), (Online: 5), (instance: repeated-fall--0.024424088664550377(2/20/2),
+  extra: (ms: 461), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.02442408821369213,
+  old-motion: -0.15233518685055003, box: 0.0, old-box: 0.02442408821369213, air: 25,
+  horizontal: 0.11778067061235803)]'
+(134)[2022/09/27 16:03:22]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 8) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.809), (Hacker: false), (Online: 5), (instance: repeated-fall--0.07544406553518217(2/20/2),
+  extra: (ms: 463), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.07544406518948676,
+  old-motion: 0.003016261509046103, box: 0.17675927506424216, old-box: 0.2522033402537289,
+  air: 26, horizontal: 0.263112304288654)]'
+(135)[2022/09/27 16:03:22]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  was kicked for IrregularMovements'
+(136)[2022/09/27 16:03:52]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.443), (Hacker: true), (Online: 5), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.12129684053920187, box: 0.41999998688697815, old-box: 0.0, air: 26, horizontal:
+  0.11796512767900917)]'
+(137)[2022/09/27 16:03:52]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 20.0), (Hacker: true), (Online: 5), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion:
+  0.08307781780646906, box: 0.2522033402537289, old-box: 0.24918707874468282, air:
+  30, horizontal: 0.12540941229511512)]'
+(138)[2022/09/27 16:03:53]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 20.0), (Hacker: true), (Online: 5), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.12129684053920187, box: 0.41999998688697815, old-box: 0.0, air: 54, horizontal:
+  0.06051322479262922)]'
+(139)[2022/09/27 16:04:01]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Exploits (VL: 1) [(Version: Paper 1.19), (C-V: 3) (Silent: true), (Ping:
+  8ms), (TPS: 19.916), (Hacker: false), (Online: 5), (type: undetected-movement, ms:
+  1200, distance: 0.026233853089195236)]'
+(140)[2022/09/27 16:04:09]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.157), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 7, horizontal: 0.2826227296435241)]'
+(141)[2022/09/27 16:04:11]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 3ms), (TPS: 19.0), (Hacker: false), (Online: 5), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion:
+  0.08307781780646906, box: 0.2522033402537289, old-box: 0.24918707874468282, air:
+  25, horizontal: 0.32995437029892966)]'
+(142)[2022/09/27 16:04:19]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.12129684053920187, box: 0.41999998688697815, old-box: 0.0, air: 12, horizontal:
+  0.5863057378921399)]'
+(143)[2022/09/27 16:04:20]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.79), (Hacker: false), (Online: 5), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.12129684053920187, box: 0.41999998688697815, old-box: 0.0, air: 26, horizontal:
+  0.5905965018756848)]'
+(144)[2022/09/27 16:04:20]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.665), (Hacker: false), (Online: 5), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion:
+  0.08307781780646906, box: 0.2522033402537289, old-box: 0.24918707874468282, air:
+  30, horizontal: 0.327444358082188)]'
+(145)[2022/09/27 16:04:20]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 7, horizontal: 0.28207262105836717)]'
+(146)[2022/09/27 16:04:21]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 5) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: air-jump(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.41999998688697815, old-motion:
+  -0.12129684053920187, box: 0.41999998688697815, old-box: 0.0, air: 48, horizontal:
+  0.6094353058562856)]'
+(147)[2022/09/27 16:04:21]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 6) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: air-up(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.003016261509046103, old-motion:
+  0.08307781780646906, box: 0.2522033402537289, old-box: 0.24918707874468282, air:
+  54, horizontal: 0.33455321822374884)]'
+(148)[2022/09/27 16:04:22]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 7) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: position-fall(2/20/2),
+  extra: (difference: 1), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.22768848754498094,
+  old-motion: -0.15233518685055003, box: 0.7967356006687112, old-box: 0.02442408821369213,
+  air: 68, horizontal: 0.26879781900144617)]'
+(149)[2022/09/27 16:04:22]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 8) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 19.876), (Hacker: false), (Online: 5), (instance: position-fall(2/20/2),
+  extra: (difference: 0), scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.3739040364667261,
+  old-motion: -0.3015347236627832, box: 0.12129684053920187, old-box: 0.49520087700592796,
+  air: 70, horizontal: 0.2190046438901439)]'
+(150)[2022/09/27 16:04:22]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  was kicked for IrregularMovements'
+(151)[2022/09/27 16:04:38]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 4ms), (TPS: 20.0), (Hacker: true), (Online: 3), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 21, horizontal: 0.2148609430539068)]'
+(152)[2022/09/27 16:06:25]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 19.708), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 10, horizontal: 0.21425008357362488)]'
+(153)[2022/09/27 16:06:25]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 19.565), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 14, horizontal: 0.21250457961826766)]'
+(154)[2022/09/27 16:06:26]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 19.131), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 18, horizontal: 0.2156772572025725)]'
+(155)[2022/09/27 16:06:26]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 18.935), (Hacker: true), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 20, horizontal: 0.21584283550583908)]'
+(156)[2022/09/27 16:06:26]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 5) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 18.832), (Hacker: true), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 21, horizontal: 0.21585762770135666)]'
+(157)[2022/09/27 16:06:26]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 6) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 18.793), (Hacker: true), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 23, horizontal: 0.21585894293645513)]'
+(158)[2022/09/27 16:06:26]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 7) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 18.521), (Hacker: true), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 23, horizontal: 0.215859458747622)]'
+(159)[2022/09/27 16:06:39]: '[Spartan Phase 484.1/153-695517/*1663979-48771] W4RL0CKM0NK3Y
+  failed Speed (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 5ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: normal, reason: ground, horizontal:
+  0.8410705863019018, limit: 0.7, dynamic-limit: 0.7, vertical: 0.0, air: 21)]'
+(160)[2022/09/27 16:06:39]: '[Spartan Phase 484.1/153-695517/*1663979-48771] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 5ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: step-ground-up-2.0(1),
+  extra: (single: 4.768476202412984, ticks-used: 0), scenario: neutral, up/down: 1,
+  jump/fall: 1, motion/old-motion: 0.0, box/old-box: 0.0, air: 21, horizontal: 0.2805425155659651)]'
+(161)[2022/09/27 16:06:39]: '[Spartan Phase 484.1/153-695517/*1663979-48771] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 5ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 23, horizontal: 0.28060553638548064)]'
+(162)[2022/09/27 16:06:40]: '[Spartan Phase 484.1/153-695517/*1663979-48771] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 5ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 25, horizontal: 0.28054907524396894)]'
+(163)[2022/09/27 16:06:40]: '[Spartan Phase 484.1/153-695517/*1663979-48771] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 5ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 26, horizontal: 0.28061325495492384)]'
+(164)[2022/09/27 16:06:40]: '[Spartan Phase 484.1/153-695517/*1663979-48771] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 5) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 5ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 28, horizontal: 0.2806122072982869)]'
+(165)[2022/09/27 16:06:41]: '[Spartan Phase 484.1/153-695517/*1663979-48771] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 6) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 5ms), (TPS: 19.841), (Hacker: false), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 29, horizontal: 0.28058768896288333)]'
+(166)[2022/09/27 16:06:41]: '[Spartan Phase 484.1/153-695517/*1663979-48771] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 7) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 5ms), (TPS: 19.696), (Hacker: false), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 30, horizontal: 0.2805730350640799)]'
+(167)[2022/09/27 16:06:41]: '[Spartan Phase 484.1/153-695517/*1663979-48771] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 8) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 5ms), (TPS: 19.512), (Hacker: false), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 31, horizontal: 0.26657354380608583)]'
+(168)[2022/09/27 16:06:48]: '[Spartan Phase 484.1/153-695517/*1663979-48771] W4RL0CKM0NK3Y
+  failed IrregularMovements (VL: 9) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 5ms), (TPS: 19.421), (Hacker: false), (Online: 5), (instance: step-air-down-3.87(1),
+  extra: (multiple: -4.078400001525878, ticks-used: 2), scenario: neutral, up/down:
+  1, jump/fall: 1, motion: -0.07840000152587834, old-motion: 0.0, box: 0.9215999984741217,
+  old-box: 0.0, air: 0, horizontal: 0.28301224576021405)]'
+(169)[2022/09/27 16:06:54]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 19.271), (Hacker: true), (Online: 5), (instance: step-ground-down-3.87(1),
+  extra: (single: -4.0, ticks-used: 0), scenario: neutral, up/down: 1, jump/fall:
+  1, motion/old-motion: 0.0, box/old-box: 0.0, air: 0, horizontal: 0.07323785127926398)]'
+(170)[2022/09/27 16:06:55]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 8, horizontal: 0.18014004839756007)]'
+(171)[2022/09/27 16:06:55]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  Speed (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 41ms), (TPS:
+  20.0), (Hacker: false), (Online: 5), (type: normal, reason: ground, horizontal:
+  0.8485424412550202, limit: 0.325, dynamic-limit: 0.325, vertical: -0.07840000152587834,
+  air: 0)]'
+(172)[2022/09/27 16:06:56]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/6),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 10, horizontal: 0.15150694272194085)]'
+(173)[2022/09/27 16:06:57]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 13, horizontal: 0.18069873287363014)]'
+(174)[2022/09/27 16:06:57]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 5) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: true), (Online: 5), (instance: horizontal-motion(9/20/9),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 16, horizontal: 0.0)]'
+(175)[2022/09/27 16:06:58]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 6) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: true), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 21, horizontal: 0.0)]'
+(176)[2022/09/27 16:06:59]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 7) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: true), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 24, horizontal: 0.15150611942004477)]'
+(177)[2022/09/27 16:06:59]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 8) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: true), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 26, horizontal: 0.11208488753105829)]'
+(178)[2022/09/27 16:06:59]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 9) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: true), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 28, horizontal: 0.17983887249279173)]'
+(179)[2022/09/27 16:06:59]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping:
+  41ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 7, horizontal: 0.21558988775771637)]'
+(180)[2022/09/27 16:06:59]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 10) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: true), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 30, horizontal: 0.06101482336258329)]'
+(181)[2022/09/27 16:07:00]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping:
+  41ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 9, horizontal: 0.18274563309294412)]'
+(182)[2022/09/27 16:07:00]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 11) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: true), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 31, horizontal: 0.0)]'
+(183)[2022/09/27 16:07:00]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 12) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 19.758), (Hacker: true), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 32, horizontal: 0.06982765028600514)]'
+(184)[2022/09/27 16:07:00]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 13) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 19.542), (Hacker: true), (Online: 5), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 33, horizontal: 0.0)]'
+(185)[2022/09/27 16:07:34]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: hop-jump(1),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.3400000110268593,
+  box: 0.20715587680781766, old-box: 0.8671558657809584, air: 0, horizontal: 0.025705439855101438)]'
+(186)[2022/09/27 16:07:34]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: hop-jump(1),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.26700001287460395, old-motion:
+  0.3400000110268593, box: 0.4741558896824216, old-box: 0.20715587680781766, air:
+  0, horizontal: 0.031218926835261854)]'
+(187)[2022/09/27 16:07:34]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: ground-up(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.18326001618385135, old-motion:
+  0.26700001287460395, box: 0.657415905866273, old-box: 0.4741558896824216, air: 0,
+  horizontal: 0.05063073193383684)]'
+(188)[2022/09/27 16:07:34]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: hop-jump(1),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.020770921877371507, old-motion:
+  0.10119481782970752, box: 0.779381645573352, old-box: 0.7586107236959805, air: 0,
+  horizontal: 0.08977077655695143)]'
+(189)[2022/09/27 16:07:34]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 5) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 20.0), (Hacker: false), (Online: 5), (instance: hop-frequent(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: -0.05804449768988462, old-motion:
+  0.020770921877371507, box: 0.7213371478834674, old-box: 0.779381645573352, air:
+  0, horizontal: 0.1071680834117201)]'
+(190)[2022/09/27 16:07:37]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed IrregularMovements (VL: 14) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: true), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 10, horizontal: 0.15328328147938242)]'
+(191)[2022/09/27 16:07:47]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 8ms),
+  (TPS: 19.527), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.16987324321139405,
+  limit: 0.3675)]'
+(192)[2022/09/27 16:07:47]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 8ms),
+  (TPS: 19.623), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.17248424059276457,
+  limit: 0.3675)]'
+(193)[2022/09/27 16:07:47]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 8ms),
+  (TPS: 19.5), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.174834494799727,
+  limit: 0.3675)]'
+(194)[2022/09/27 16:07:47]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 4) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 8ms),
+  (TPS: 19.516), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.17695000084422308,
+  limit: 0.3675)]'
+(195)[2022/09/27 16:07:47]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 5) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 8ms),
+  (TPS: 19.477), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.17885417285824828,
+  limit: 0.3675)]'
+(196)[2022/09/27 16:07:47]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 6) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 8ms),
+  (TPS: 19.466), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.1609687513082083,
+  limit: 0.3675)]'
+(197)[2022/09/27 16:07:50]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 9ms),
+  (TPS: 19.86), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.18736185082343246,
+  limit: 0.3675)]'
+(198)[2022/09/27 16:07:50]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 9ms),
+  (TPS: 19.685), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.18821419881524654,
+  limit: 0.3675)]'
+(199)[2022/09/27 16:07:50]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 9ms),
+  (TPS: 19.619), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.1889835700138427,
+  limit: 0.3675)]'
+(200)[2022/09/27 16:07:50]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 4) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 9ms),
+  (TPS: 19.361), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.19295982164170644,
+  limit: 0.3675)]'
+(201)[2022/09/27 16:07:50]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 5) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 9ms),
+  (TPS: 19.821), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.19326251719708024,
+  limit: 0.3675)]'
+(202)[2022/09/27 16:07:51]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 6) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 9ms),
+  (TPS: 19.845), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.1935351966782749,
+  limit: 0.3675)]'
+(203)[2022/09/27 16:07:51]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 7) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 9ms),
+  (TPS: 19.872), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.19378081266064862,
+  limit: 0.3675)]'
+(204)[2022/09/27 16:07:51]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 8) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 9ms),
+  (TPS: 19.849), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.1940020320168031,
+  limit: 0.3675)]'
+(205)[2022/09/27 16:07:51]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 9) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 9ms),
+  (TPS: 19.79), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.19420126260577933,
+  limit: 0.3675)]'
+(206)[2022/09/27 16:07:51]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 10) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 9ms),
+  (TPS: 19.778), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.19438067766893014,
+  limit: 0.3675)]'
+(207)[2022/09/27 16:07:51]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed GhostHand (VL: 1) [(Version: Paper 1.19), (C-V: 5) (Silent: true), (Ping:
+  9ms), (TPS: 19.747), (Hacker: false), (Online: 5), (type: break, block: dirt, real-block:
+  stone)]'
+(208)[2022/09/27 16:07:51]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 11) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 9ms),
+  (TPS: 19.5), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.19537164782042277,
+  limit: 0.3675)]'
+(209)[2022/09/27 16:07:51]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 12) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 9ms),
+  (TPS: 19.432), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.19543442357405266,
+  limit: 0.3675)]'
+(210)[2022/09/27 16:07:51]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 9ms), (TPS: 19.323), (Hacker: false), (Online: 5), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 8, horizontal: 0.19632619053045466)]'
+(211)[2022/09/27 16:07:52]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 1) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 6ms),
+  (TPS: 18.719), (Hacker: true), (Online: 5), (type: hop(illegal), horizontal: 0.19468072289242624,
+  limit: 0.3675)]'
+(212)[2022/09/27 16:07:52]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 9ms), (TPS: 18.698), (Hacker: false), (Online: 5), (instance: horizontal-motion(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 168, horizontal: 0.15451819652791302)]'
+(213)[2022/09/27 16:07:53]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 2) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 6ms),
+  (TPS: 18.684), (Hacker: true), (Online: 5), (type: hop(illegal), horizontal: 0.19481259512343505,
+  limit: 0.3675)]'
+(214)[2022/09/27 16:07:53]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 3) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 6ms),
+  (TPS: 18.667), (Hacker: true), (Online: 5), (type: hop(illegal), horizontal: 0.19493128981949082,
+  limit: 0.3675)]'
+(215)[2022/09/27 16:07:53]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 13) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 9ms),
+  (TPS: 18.635), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.19593342789293322,
+  limit: 0.3675)]'
+(216)[2022/09/27 16:07:53]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 4) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 6ms),
+  (TPS: 18.635), (Hacker: true), (Online: 5), (type: hop(illegal), horizontal: 0.19503815250857093,
+  limit: 0.3675)]'
+(217)[2022/09/27 16:07:53]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 14) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 9ms),
+  (TPS: 18.615), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.19593993957672112,
+  limit: 0.3675)]'
+(218)[2022/09/27 16:07:53]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 3) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 9ms), (TPS: 18.726), (Hacker: false), (Online: 5), (instance: horizontal-motion(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 169, horizontal: 0.07121549942639792)]'
+(219)[2022/09/27 16:07:53]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 5) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 6ms),
+  (TPS: 18.723), (Hacker: true), (Online: 5), (type: hop(illegal), horizontal: 0.19513424416196387,
+  limit: 0.3675)]'
+(220)[2022/09/27 16:07:53]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 15) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 9ms),
+  (TPS: 18.716), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.19594582696756152,
+  limit: 0.3675)]'
+(221)[2022/09/27 16:07:53]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 6) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 6ms),
+  (TPS: 18.59), (Hacker: true), (Online: 5), (type: hop(illegal), horizontal: 0.19522074356106478,
+  limit: 0.3675)]'
+(222)[2022/09/27 16:07:53]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 16) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 9ms),
+  (TPS: 18.573), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.19595114738642969,
+  limit: 0.3675)]'
+(223)[2022/09/27 16:07:53]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 17) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 9ms),
+  (TPS: 18.501), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.19595595339331623,
+  limit: 0.3675)]'
+(224)[2022/09/27 16:07:53]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 4) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 9ms), (TPS: 18.684), (Hacker: false), (Online: 5), (instance: horizontal-motion(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 170, horizontal: 0.003999363725142757)]'
+(225)[2022/09/27 16:07:53]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 7) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 6ms),
+  (TPS: 18.681), (Hacker: true), (Online: 5), (type: hop(illegal), horizontal: 0.19548856914537618,
+  limit: 0.3675)]'
+(226)[2022/09/27 16:07:53]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  failed Speed (VL: 8) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 6ms),
+  (TPS: 18.583), (Hacker: true), (Online: 5), (type: hop(illegal), horizontal: 0.19553968285652665,
+  limit: 0.3675)]'
+(227)[2022/09/27 16:07:53]: '[Spartan Phase 484.1/153-695517/*1663979-48771] MightyArmour
+  was kicked for Speed'
+(228)[2022/09/27 16:08:03]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 18) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 8ms),
+  (TPS: 19.149), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.1959690775612217,
+  limit: 0.3675)]'
+(229)[2022/09/27 16:08:03]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 19) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 8ms),
+  (TPS: 19.275), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.1959721112250652,
+  limit: 0.3675)]'
+(230)[2022/09/27 16:08:03]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 20) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 8ms),
+  (TPS: 19.149), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.19597485178985316,
+  limit: 0.3675)]'
+(231)[2022/09/27 16:08:03]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 21) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 8ms),
+  (TPS: 19.12), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.195977326614375,
+  limit: 0.3675)]'
+(232)[2022/09/27 16:08:03]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 22) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 8ms),
+  (TPS: 19.062), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.1959795606922932,
+  limit: 0.3675)]'
+(233)[2022/09/27 16:08:03]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 23) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 8ms),
+  (TPS: 19.011), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.19598157681825798,
+  limit: 0.3675)]'
+(234)[2022/09/27 16:08:03]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 24) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 8ms),
+  (TPS: 19.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.19598339575073692,
+  limit: 0.3675)]'
+(235)[2022/09/27 16:08:03]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 25) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 8ms),
+  (TPS: 19.142), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.19598503636934198,
+  limit: 0.3675)]'
+(236)[2022/09/27 16:08:03]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  was kicked for Speed'
+(237)[2022/09/27 16:08:18]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 1) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 0ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.1717255571775561,
+  limit: 0.3675)]'
+(238)[2022/09/27 16:08:18]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 2) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 0ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.17632872881241315,
+  limit: 0.3675)]'
+(239)[2022/09/27 16:08:18]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 3) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 0ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.17829253889480426,
+  limit: 0.3675)]'
+(240)[2022/09/27 16:08:18]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 4) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 0ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.1800606529816131,
+  limit: 0.3675)]'
+(241)[2022/09/27 16:08:19]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 5) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 0ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.1816524942527534,
+  limit: 0.3675)]'
+(242)[2022/09/27 16:08:19]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 6) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 0ms),
+  (TPS: 19.956), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.18308557623123722,
+  limit: 0.3675)]'
+(243)[2022/09/27 16:08:19]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 7) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 0ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.18437568606993338,
+  limit: 0.3675)]'
+(244)[2022/09/27 16:08:19]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 8) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 0ms),
+  (TPS: 20.0), (Hacker: false), (Online: 5), (type: hop(illegal), horizontal: 0.18837065066301278,
+  limit: 0.3675)]'
+(245)[2022/09/27 16:08:19]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  was kicked for Speed'
+(246)[2022/09/27 16:08:42]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Castiel2503
+  failed IrregularMovements (VL: 5) [(Version: Paper 1.19), (C-V: -4) (Silent: true),
+  (Ping: 19ms), (TPS: 19.864), (Hacker: false), (Online: 4), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 38, horizontal: 0.01590799757761374)]'

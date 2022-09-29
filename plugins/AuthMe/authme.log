@@ -2686,3 +2686,89 @@
 [09-21 20:44:48]: [FINE] §7§aW4RL0CKM0NK3Y§7, p1zz4m4n.
 [09-21 20:44:48]: [FINE] W4RL0CKM0NK3Y logged in 192.168.1.194
 [09-21 20:45:39]: [INFO] AuthMe 5.6.0-SNAPSHOT-bCUSTOM disabled!
+[09-21 21:08:31]: [INFO] SQLite Setup finished
+[09-21 21:08:31]: [INFO] Hooked into LuckPerms!
+[09-21 21:08:31]: [INFO] Hooked successfully into Essentials
+[09-21 21:08:31]: [INFO] Hooked successfully into Multiverse-Core
+[09-21 21:08:32]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.CUSTOM successfully enabled!
+[09-21 21:08:41]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[09-21 21:08:41]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[09-21 21:08:41]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[09-21 21:08:41]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[09-21 21:08:41]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[09-21 21:10:05]: [FINE] The user W4RL0CKM0NK3Y has 2 accounts:
+[09-21 21:10:05]: [FINE] §7§aW4RL0CKM0NK3Y§7, p1zz4m4n.
+[09-21 21:10:05]: [FINE] W4RL0CKM0NK3Y logged in 192.168.1.194
+[09-22 12:01:23]: [FINE] The user W4RL0CKM0NK3Y has 2 accounts:
+[09-22 12:01:23]: [FINE] §7§aW4RL0CKM0NK3Y§7, p1zz4m4n.
+[09-22 12:01:23]: [FINE] W4RL0CKM0NK3Y logged in 192.168.1.194
+[09-22 12:57:19]: [FINE] The user W4RL0CKM0NK3Y has 2 accounts:
+[09-22 12:57:19]: [FINE] §7§aW4RL0CKM0NK3Y§7, p1zz4m4n.
+[09-22 12:57:19]: [FINE] W4RL0CKM0NK3Y logged in 192.168.1.194
+[09-23 16:55:14]: [FINE] Yaotzin logged in 103.5.132.5
+[09-24 09:19:27]: [FINE] Yaotzin logged in 103.5.132.5
+[09-24 17:12:18]: [FINE] Sid logged in 157.45.187.127
+[09-24 18:26:40]: [FINE] Sid logged in 157.45.187.127
+[09-25 06:59:01]: [FINE] Darkphantom_21 logged in 106.51.66.210
+[09-25 07:13:34]: [FINE] Castiel2503 used the wrong password
+[09-25 07:15:14]: [FINE] Castiel2503 logged in 171.76.83.2
+[09-25 18:00:39]: [FINE] Castiel2503 logged in 171.76.83.2
+[09-26 05:05:48]: [FINE] Castiel2503 logged in 171.76.83.2
+[09-26 06:19:31]: [FINE] Yaotzin logged in 103.5.132.5
+[09-26 06:59:50]: [FINE] The user W4RL0CKM0NK3Y has 2 accounts:
+[09-26 06:59:50]: [FINE] §7§aW4RL0CKM0NK3Y§7, darkphantom_21.
+[09-26 06:59:50]: [FINE] W4RL0CKM0NK3Y logged in 106.51.66.210
+[09-26 09:04:48]: [FINE] Castiel2503 logged in 171.76.83.2
+[09-27 15:05:11]: [FINE] Sid logged in 157.45.163.71
+[09-27 15:05:15]: [FINE] Castiel2503 logged in 171.76.85.146
+[09-27 15:08:06]: [FINE] The user W4RL0CKM0NK3Y has 2 accounts:
+[09-27 15:08:06]: [FINE] §7§aW4RL0CKM0NK3Y§7, p1zz4m4n.
+[09-27 15:08:06]: [FINE] W4RL0CKM0NK3Y logged in 192.168.1.194
+[09-27 15:17:58]: [FINE] The user W4RL0CKM0NK3Y has 2 accounts:
+[09-27 15:17:58]: [FINE] §7§aW4RL0CKM0NK3Y§7, p1zz4m4n.
+[09-27 15:17:58]: [FINE] W4RL0CKM0NK3Y logged in 192.168.1.194
+[09-27 15:38:42]: [FINE] Yaotzin logged in 103.5.132.5
+[09-27 15:49:21]: [FINE] Yaotzin logged in 103.5.132.5
+[09-27 15:55:36]: [FINE] MightyArmour registered 122.172.82.234
+[09-27 15:55:36]: [FINE] MightyArmour logged in 122.172.82.234
+[09-27 16:02:58]: [FINE] Castiel2503 logged in 171.76.85.146
+[09-27 16:03:43]: [FINE] MightyArmour logged in 122.172.82.234
+[09-27 16:03:55]: [FINE] Castiel2503 logged in 171.76.85.146
+[09-27 16:05:06]: [FINE] Castiel2503 logged in 171.76.85.146
+[09-27 16:05:23]: [FINE] Sid logged in 157.45.163.71
+[09-27 16:08:17]: [FINE] Yaotzin logged in 103.5.132.5
+[09-27 16:09:10]: [FINE] MightyArmour logged in 122.172.82.234
+[09-27 16:09:42]: [FINE] Yaotzin logged in 103.5.132.5
+[09-28 03:38:24]: [FINE] The user W4RL0CKM0NK3Y has 2 accounts:
+[09-28 03:38:24]: [FINE] §7§aW4RL0CKM0NK3Y§7, p1zz4m4n.
+[09-28 03:38:24]: [FINE] W4RL0CKM0NK3Y logged in 192.168.1.194
+[09-28 05:15:01]: [FINE] Castiel2503 logged in 171.76.85.146
+[09-28 05:28:25]: [FINE] The user W4RL0CKM0NK3Y has 2 accounts:
+[09-28 05:28:25]: [FINE] §7§aW4RL0CKM0NK3Y§7, p1zz4m4n.
+[09-28 05:28:25]: [FINE] W4RL0CKM0NK3Y logged in 192.168.1.194
+[09-28 05:31:29]: [FINE] Castiel2503 logged in 171.76.85.146
+[09-28 05:50:52]: [FINE] Castiel2503 logged in 171.76.85.146
+[09-28 10:05:44]: [FINE] The user W4RL0CKM0NK3Y has 2 accounts:
+[09-28 10:05:44]: [FINE] §7§aW4RL0CKM0NK3Y§7, p1zz4m4n.
+[09-28 10:05:44]: [FINE] W4RL0CKM0NK3Y logged in 192.168.1.194
+[09-28 13:04:31]: [FINE] Castiel2503 logged in 171.76.87.111
+[09-28 16:39:19]: [FINE] The user W4RL0CKM0NK3Y has 2 accounts:
+[09-28 16:39:19]: [FINE] §7§aW4RL0CKM0NK3Y§7, p1zz4m4n.
+[09-28 16:39:19]: [FINE] W4RL0CKM0NK3Y logged in 192.168.1.194
+[09-29 05:07:17]: [FINE] Castiel2503 logged in 171.76.87.90
+[09-29 08:51:56]: [INFO] AuthMe 5.6.0-SNAPSHOT-bCUSTOM disabled!

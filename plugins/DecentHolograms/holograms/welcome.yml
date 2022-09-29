@@ -1,0 +1,21 @@
+location: spawn:8.542:105.494:12.574
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '#ICON: GRASS_BLOCK'
+    height: 0.6
+    facing: 180.0
+  - content: '&a&lWelcome to the server!'
+    height: 0.3
+  - content: '&fWe''ve got some awesome plugins'
+    height: 0.3
+  - content: installed just for you.
+    height: 0.3
+  - content: '&u&lHAVE FUN!'
+    height: 0.3
+  actions: {}

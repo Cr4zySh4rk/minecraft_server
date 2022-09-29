@@ -1,0 +1,18 @@
+location: survival:-44.476:66.860:-68.538
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '#ICON: STONE_PICKAXE'
+    height: 0.6
+  - content: You will be able to
+    height: 0.3
+  - content: place/break blocks once
+    height: 0.3
+  - content: you move further away.
+    height: 0.3
+  actions: {}

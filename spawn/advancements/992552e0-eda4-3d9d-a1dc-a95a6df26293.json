@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2022-09-27 16:43:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2022-08-07 11:52:36 +0100"
@@ -194,6 +200,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2022-09-01 11:16:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-09-23 16:56:09 +0100"
     },
     "done": true
   },
@@ -347,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-09-23 16:55:04 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-08-07 12:29:22 +0100"
@@ -446,6 +464,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2022-08-07 12:32:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-09-23 16:55:04 +0100"
     },
     "done": true
   },
@@ -608,6 +632,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2022-08-11 14:30:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-09-23 16:55:04 +0100"
     },
     "done": true
   },
@@ -1099,6 +1129,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2022-07-27 12:34:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-09-23 16:55:04 +0100"
     },
     "done": true
   },
@@ -1970,6 +2006,7 @@
       "rotten_flesh": "2022-08-12 14:44:52 +0100",
       "glow_berries": "2022-09-09 12:57:15 +0100",
       "dried_kelp": "2022-08-25 16:33:34 +0100",
+      "melon_slice": "2022-09-23 17:04:36 +0100",
       "beetroot": "2022-09-06 06:32:37 +0100",
       "cooked_chicken": "2022-07-27 12:33:41 +0100",
       "cod": "2022-09-06 08:00:24 +0100",
@@ -2174,6 +2211,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2022-08-14 13:39:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-09-23 16:55:04 +0100"
     },
     "done": true
   },
@@ -2423,6 +2466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2022-09-26 08:47:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-07-26 13:36:02 +0100"
@@ -2465,6 +2514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2022-09-26 08:47:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-07-27 12:39:49 +0100"
@@ -2480,6 +2535,12 @@
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2022-08-22 11:34:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-09-23 16:55:04 +0100"
     },
     "done": true
   },
@@ -2849,6 +2910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-09-23 16:55:04 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2022-08-21 11:32:27 +0100"
@@ -3197,5 +3264,5 @@
     },
     "done": true
   },
-  "DataVersion": 2975
+  "DataVersion": 3120
 }
