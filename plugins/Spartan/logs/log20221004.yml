@@ -1,0 +1,11 @@
+(2)[2022/10/04 18:32:45]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 19.849), (Hacker: false), (Online: 1), (instance: horizontal-motion(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.5625, air: 291, horizontal: 0.09800000303356092)]'
+(3)[2022/10/04 18:33:04]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.876), (Hacker: false), (Online: 1), (instance: step-air-down-3.87(1),
+  extra: (multiple: -9.264799995422365, ticks-used: 3), scenario: neutral, up/down:
+  1, jump/fall: 1, motion/old-motion: 0.1176000022888175, box: 0.47040000915527, old-box:
+  0.3528000068664525, air: 0, horizontal: 0.11628757700958574)]'

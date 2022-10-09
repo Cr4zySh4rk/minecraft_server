@@ -1,0 +1,37 @@
+(2)[2022/10/01 14:59:07]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  MorePackets (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 47ms),
+  (TPS: 19.708), (Hacker: false), (Online: 1), (type: instant, overall: 3.36522330962102,
+  last-tick: 0, ticks-requirement: 10, decreased-requirement: false)]'
+(3)[2022/10/01 14:59:07]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  MorePackets (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 47ms),
+  (TPS: 19.685), (Hacker: false), (Online: 1), (type: instant, overall: 3.367400252976544,
+  last-tick: 1, ticks-requirement: 10, decreased-requirement: false)]'
+(4)[2022/10/01 14:59:08]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  MorePackets (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 47ms),
+  (TPS: 19.9), (Hacker: false), (Online: 1), (type: instant, overall: 3.367401380467105,
+  last-tick: 1, ticks-requirement: 10, decreased-requirement: false)]'
+(5)[2022/10/01 14:59:10]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  MorePackets (VL: 4) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping: 151ms),
+  (TPS: 19.884), (Hacker: false), (Online: 1), (type: horizontal(positive), total-horizontal:
+  0.28061493528292825, total-vertical: 0.0, extra-ticks: 33, extra-packets: 0, tick-average:
+  49.81666666666667)]'
+(6)[2022/10/01 15:08:21]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping:
+  58ms), (TPS: 19.964), (Hacker: false), (Online: 1), (instance: horizontal-motion(5/20/5),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 11, horizontal: 0.18666380275715982)]'
+(7)[2022/10/01 15:08:25]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping:
+  57ms), (TPS: 19.857), (Hacker: false), (Online: 1), (instance: horizontal-motion(4/20/4),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 37, horizontal: 0.10000000316378421)]'
+(8)[2022/10/01 15:08:25]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  IrregularMovements (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping:
+  57ms), (TPS: 19.805), (Hacker: false), (Online: 1), (instance: horizontal-motion(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 42, horizontal: 0.1872386931069618)]'
+(9)[2022/10/01 15:08:27]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  IrregularMovements (VL: 4) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping:
+  57ms), (TPS: 19.86), (Hacker: false), (Online: 1), (instance: horizontal-motion(5/20/6),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.0, air: 19, horizontal: 0.15147376861302098)]'
