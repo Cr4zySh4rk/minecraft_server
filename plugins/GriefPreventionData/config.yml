@@ -5,10 +5,10 @@ GriefPrevention:
     spawn: -1
     spawn_nether: -1
     spawn_the_end: -1
-    Waterfall: -1
     Glacier: -1
-    Lectus: -1
+    Waterfall: -1
     Zarzul: -1
+    Lectus: -1
     survival: -1
     Stonekeep: -1
     survival_the_end: -1
@@ -16,8 +16,8 @@ GriefPrevention:
     survival_nether: -1
     BWLobby: -1
     Temple: -1
-    Crogorm: -1
     ParkourLobby: -1
+    Crogorm: -1
     Airshow: -1
     Speedway: -1
     Ashore: -1
@@ -109,10 +109,10 @@ GriefPrevention:
       spawn: false
       spawn_nether: false
       spawn_the_end: false
-      Waterfall: true
       Glacier: true
-      Lectus: true
+      Waterfall: true
       Zarzul: true
+      Lectus: true
       survival: false
       Stonekeep: true
       survival_the_end: false
@@ -120,8 +120,8 @@ GriefPrevention:
       survival_nether: false
       BWLobby: true
       Temple: true
-      Crogorm: true
       ParkourLobby: true
+      Crogorm: true
       Airshow: true
       Speedway: true
       Ashore: true

@@ -2930,3 +2930,85 @@
 	at java.base/java.lang.Thread.run(Thread.java:833)
 
 [10-09 17:12:57]: [INFO] AuthMe 5.6.0-SNAPSHOT-bCUSTOM disabled!
+[10-09 17:29:40]: [INFO] SQLite Setup finished
+[10-09 17:29:40]: [INFO] Hooked into LuckPerms!
+[10-09 17:29:40]: [INFO] Hooked successfully into Essentials
+[10-09 17:29:40]: [INFO] Hooked successfully into Multiverse-Core
+[10-09 17:29:41]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.CUSTOM successfully enabled!
+[10-09 17:29:51]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[10-09 17:29:51]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[10-09 17:29:51]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[10-09 17:29:51]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[10-09 17:29:51]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[10-10 00:50:11]: [FINE] Sid logged in 157.45.116.15
+[10-10 10:48:07]: [FINE] Yaotzin logged in 103.5.132.5
+[10-10 15:06:47]: [FINE] Yaotzin logged in 103.5.132.5
+[10-10 17:49:34]: [FINE] Sid logged in 157.45.155.243
+[10-10 21:37:16]: [INFO] SQLite Setup finished
+[10-10 21:37:16]: [INFO] Hooked into LuckPerms!
+[10-10 21:37:16]: [INFO] Hooked successfully into Essentials
+[10-10 21:37:16]: [INFO] Hooked successfully into Multiverse-Core
+[10-10 21:37:17]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.CUSTOM successfully enabled!
+[10-10 21:37:26]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[10-10 21:37:26]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[10-10 21:37:26]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[10-10 21:37:26]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[10-10 21:37:26]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[10-11 11:10:33]: [FINE] Yaotzin logged in 223.186.8.115
+[10-11 12:08:33]: [INFO] AuthMe 5.6.0-SNAPSHOT-bCUSTOM disabled!
+[10-11 12:15:17]: [INFO] SQLite Setup finished
+[10-11 12:15:18]: [INFO] Hooked into LuckPerms!
+[10-11 12:15:18]: [INFO] Hooked successfully into Essentials
+[10-11 12:15:18]: [INFO] Hooked successfully into Multiverse-Core
+[10-11 12:15:18]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.CUSTOM successfully enabled!
+[10-11 12:15:27]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[10-11 12:15:27]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[10-11 12:15:27]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[10-11 12:15:27]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[10-11 12:15:27]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[10-11 12:58:35]: [INFO] AuthMe 5.6.0-SNAPSHOT-bCUSTOM disabled!
