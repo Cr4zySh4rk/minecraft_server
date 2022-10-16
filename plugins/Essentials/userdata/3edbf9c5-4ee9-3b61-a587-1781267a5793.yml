@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 106.51.240.180
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1665500041138
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1665500050673
+  login: 1665499949566
+money: '0'
+last-account-name: anand
+lastlocation:
+  world: a6f6322d-2f63-4b4d-a3fa-72aa7d349b23
+  world-name: survival
+  x: -59.64684785976507
+  y: 64.0
+  z: -64.29669153530706
+  yaw: 111.59999084472656
+  pitch: 14.249975204467773
+logoutlocation:
+  world: 0417e8b2-260a-47cc-954a-58f0e6ea9f1f
+  world-name: spawn
+  x: 8.078753559749654
+  y: 103.0
+  z: 8.976818790772013
+  yaw: -36.06258773803711
+  pitch: 21.74992561340332
