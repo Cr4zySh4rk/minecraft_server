@@ -2,7 +2,7 @@ cd /home/warlock/minecraft_server
 #JAR="paper.jar"
 JAR="purpur.jar"
 RAM="6400M"
-FLAGS="--add-modules=jdk.incubator.vector"
+FLAGS="-XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:MaxGCPauseMillis=100 -XX:+DisableExplicitGC -XX:TargetSurvivorRatio=90 -XX:G1NewSizePercent=50 -XX:G1MaxNewSizePercent=80 -XX:G1MixedGCLiveThresholdPercent=50 -XX:+AlwaysPreTouch --add-modules=jdk.incubator.vector"
 echo "-=-=-=-=-=STARTING MINECRAFT SERVER=-=-=-=-=-"
 sudo -u warlock tmux new-session -d -s minecraft java -Xms${RAM} -Xmx${RAM} ${FLAGS} -jar ${JAR} --nogui
 sudo -u warlock tmux set -g status off
