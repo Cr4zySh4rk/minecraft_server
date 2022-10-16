@@ -26,6 +26,10 @@ chunk-loading:
   player-max-chunk-load-rate: -1.0
   player-max-concurrent-loads: 20.0
   target-player-chunk-send-rate: 100.0
+chunk-system:
+  gen-parallelism: default
+  io-threads: -1
+  worker-threads: -1
 collisions:
   enable-player-collisions: true
   send-full-pos-for-hard-colliding-entities: true
@@ -113,6 +117,7 @@ timings:
   - proxies.velocity.secret
   history-interval: 300
   history-length: 3600
+  really-enabled: false
   server-name: Unknown Server
   server-name-privacy: false
   url: https://timings.aikar.co/
