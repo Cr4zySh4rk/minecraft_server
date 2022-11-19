@@ -1,0 +1,33 @@
+(2)[2022/11/12 09:29:30]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  MorePackets (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 15ms),
+  (TPS: 19.88), (Hacker: false), (Online: 1), (type: instant, overall: 3.2056741729405167,
+  last-tick: 0, ticks-requirement: 10, decreased-requirement: false)]'
+(3)[2022/11/12 09:29:30]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  MorePackets (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 15ms),
+  (TPS: 19.837), (Hacker: false), (Online: 1), (type: instant, overall: 6.691120689001638,
+  last-tick: 0, ticks-requirement: 10, decreased-requirement: false)]'
+(4)[2022/11/12 09:29:30]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  MorePackets (VL: 4) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 15ms),
+  (TPS: 19.813), (Hacker: false), (Online: 1), (type: instant, overall: 5.8691249986760345,
+  last-tick: 0, ticks-requirement: 10, decreased-requirement: false)]'
+(5)[2022/11/12 09:29:30]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping:
+  15ms), (TPS: 19.896), (Hacker: false), (Online: 1), (instance: step-ground-down-3.87(1),
+  extra: (single: -4.0, ticks-used: 0), scenario: neutral, up/down: 1, jump/fall:
+  1, motion/old-motion: 0.0, box/old-box: 0.0, air: 0, horizontal: 0.0644526801935161)]'
+(6)[2022/11/12 09:29:33]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  MorePackets (VL: 5) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 15ms),
+  (TPS: 19.762), (Hacker: false), (Online: 1), (type: instant, overall: 1.7216555540534875,
+  last-tick: 0, ticks-requirement: 10, decreased-requirement: false)]'
+(7)[2022/11/12 09:29:33]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  MorePackets (VL: 6) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 15ms),
+  (TPS: 19.829), (Hacker: false), (Online: 1), (type: instant, overall: 2.2976110785651156,
+  last-tick: 0, ticks-requirement: 10, decreased-requirement: false)]'
+(8)[2022/11/12 09:29:33]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  MorePackets (VL: 7) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 15ms),
+  (TPS: 19.809), (Hacker: false), (Online: 1), (type: instant, overall: 4.481301887090093,
+  last-tick: 0, ticks-requirement: 10, decreased-requirement: false)]'
+(9)[2022/11/12 10:42:21]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Sid failed
+  MorePackets (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 12ms),
+  (TPS: 19.786), (Hacker: false), (Online: 1), (type: instant, overall: 2.376401604062351,
+  last-tick: 1, ticks-requirement: 10, decreased-requirement: false)]'

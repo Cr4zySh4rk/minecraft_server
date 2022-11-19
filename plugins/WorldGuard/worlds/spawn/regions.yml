@@ -11,31 +11,36 @@
 #
 regions:
     spawn:
-        min: {x: -122, y: -2, z: -107}
-        max: {x: 137, y: 177, z: 138}
+        min: {x: -196, y: 7, z: -149}
+        max: {x: 172, y: 272, z: 171}
         members: {}
         flags: {other-explosion: deny, lava-fire: deny, water-flow: allow, use: deny,
-            invincible: deny, leaf-decay: deny, snow-fall: deny, firework-damage: deny,
-            heal-min-health: 0.0, coral-fade: deny, feed-delay: 0, mob-damage: deny,
-            passthrough: allow, ravager-grief: deny, heal-delay: 0, use-anvil: deny,
-            mushroom-growth: deny, respawn-anchors: deny, lightning: deny, wither-damage: deny,
+            leaf-decay: deny, snow-fall: deny, firework-damage: deny, coral-fade: deny,
+            mob-damage: deny, passthrough: allow, ravager-grief: deny, mushroom-growth: deny,
+            respawn-anchors: deny, use-anvil: deny, lightning: deny, wither-damage: deny,
             ice-form: deny, chorus-fruit-teleport: deny, feed-amount: 0, enderman-grief: deny,
-            pvp: deny, mob-spawning: deny, natural-hunger-drain: allow, crop-growth: deny,
-            entry: allow, exit: allow, exit-override: true, send-chat: allow, creeper-explosion: deny,
-            mcmmo-hardcore: deny, vine-growth: deny, heal-max-health: 10.0, damage-animals: deny,
-            snow-melt: deny, notify-enter: true, receive-chat: allow, tnt: deny, exit-via-teleport: allow,
-            ghast-fireball: deny, entity-item-frame-destroy: deny, time-lock: '6000',
-            natural-health-regen: allow, feed-max-hunger: 10, frosted-ice-form: deny,
-            mycelium-spread: deny, ice-melt: deny, block-trampling: deny, interact: deny,
-            vehicle-destroy: deny, chest-access: deny, weather-lock: clear, ride: deny,
-            fire-spread: deny, enderdragon-block-damage: deny, mcmmo-xp: deny, sleep: deny,
-            vehicle-place: deny, snowman-trails: deny, rock-growth: deny, mcmmo: deny,
-            block-break: deny, entity-painting-destroy: deny, heal-amount: 0, lighter: deny,
-            use-dripleaf: deny, pistons: deny, block-place: deny, enderpearl: deny,
-            item-drop: deny, soil-dry: deny, exp-drops: deny, build: deny, game-mode: survival,
-            fall-damage: allow, item-frame-rotation: deny, item-pickup: deny, potion-splash: deny,
-            frosted-ice-melt: deny, lava-flow: deny, feed-min-hunger: 0, grass-growth: deny,
-            notify-leave: true}
+            pvp: deny, mob-spawning: deny, crop-growth: deny, natural-hunger-drain: allow,
+            exit-override: true, entry: allow, exit: allow, creeper-explosion: deny,
+            send-chat: allow, mcmmo-hardcore: deny, vine-growth: deny, damage-animals: deny,
+            snow-melt: deny, notify-enter: true, exit-via-teleport: allow, tnt: deny,
+            receive-chat: allow, entity-item-frame-destroy: deny, ghast-fireball: deny,
+            allow-shop: deny, time-lock: '11000', natural-health-regen: allow, graves-create: deny,
+            frosted-ice-form: deny, mycelium-spread: deny, ice-melt: deny, block-trampling: deny,
+            interact: deny, vehicle-destroy: deny, graves-teleport: deny, chest-access: deny,
+            weather-lock: clear, ride: deny, fire-spread: deny, enderdragon-block-damage: deny,
+            mcmmo-xp: deny, sleep: deny, sculk-growth: deny, vehicle-place: deny,
+            snowman-trails: deny, rock-growth: deny, mcmmo: deny, block-break: deny,
+            entity-painting-destroy: deny, heal-amount: 0, lighter: deny, use-dripleaf: deny,
+            pistons: deny, block-place: deny, enderpearl: deny, item-drop: deny, soil-dry: deny,
+            exp-drops: deny, build: deny, game-mode: survival, fall-damage: allow,
+            item-pickup: deny, item-frame-rotation: deny, potion-splash: deny, frosted-ice-melt: deny,
+            lava-flow: deny, grass-growth: deny, notify-leave: true}
         owners: {}
         type: cuboid
+        priority: 0
+    __global__:
+        members: {}
+        flags: {}
+        owners: {}
+        type: global
         priority: 0

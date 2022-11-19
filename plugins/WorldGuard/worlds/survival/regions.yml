@@ -10,21 +10,29 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
-    survival_spawn:
-        min: {x: -65, y: -64, z: -90}
-        max: {x: -15, y: 319, z: -51}
+    surv_spawn:
+        min: {x: -59, y: -64, z: -86}
+        max: {x: -21, y: 319, z: -52}
         members: {}
-        flags: {other-explosion: deny, lava-fire: deny, use: allow, block-trampling: deny,
-            vehicle-destroy: deny, interact: allow, chest-access: deny, firework-damage: deny,
-            ride: deny, fire-spread: deny, enderdragon-block-damage: deny, sleep: deny,
-            vehicle-place: deny, snowman-trails: deny, mob-damage: deny, passthrough: allow,
-            block-break: deny, entity-painting-destroy: deny, ravager-grief: deny,
+        flags: {other-explosion: deny, lava-fire: deny, water-flow: allow, use: deny,
+            leaf-decay: deny, snow-fall: deny, firework-damage: deny, coral-fade: deny,
+            mob-damage: deny, passthrough: allow, ravager-grief: deny, mushroom-growth: deny,
             respawn-anchors: deny, use-anvil: deny, lightning: deny, wither-damage: deny,
-            lighter: deny, enderman-grief: deny, use-dripleaf: deny, pistons: deny,
-            pvp: deny, block-place: deny, mob-spawning: deny, item-drop: deny, creeper-explosion: deny,
-            exp-drops: deny, build: deny, item-frame-rotation: deny, item-pickup: deny,
-            potion-splash: deny, damage-animals: deny, tnt: deny, entity-item-frame-destroy: deny,
-            ghast-fireball: deny}
+            ice-form: deny, chorus-fruit-teleport: deny, enderman-grief: deny, pvp: deny,
+            mob-spawning: deny, crop-growth: deny, exit-override: true, entry: allow,
+            exit: allow, creeper-explosion: deny, send-chat: allow, mcmmo-hardcore: deny,
+            vine-growth: deny, damage-animals: deny, snow-melt: deny, exit-via-teleport: allow,
+            tnt: deny, receive-chat: allow, entity-item-frame-destroy: deny, ghast-fireball: deny,
+            allow-shop: deny, graves-create: allow, frosted-ice-form: deny, mycelium-spread: deny,
+            ice-melt: deny, block-trampling: deny, interact: deny, vehicle-destroy: deny,
+            graves-teleport: allow, chest-access: deny, ride: deny, fire-spread: deny,
+            enderdragon-block-damage: deny, mcmmo-xp: deny, sleep: deny, sculk-growth: deny,
+            vehicle-place: deny, snowman-trails: deny, rock-growth: deny, mcmmo: deny,
+            block-break: deny, entity-painting-destroy: deny, lighter: deny, use-dripleaf: deny,
+            pistons: deny, block-place: deny, enderpearl: deny, item-drop: deny, soil-dry: deny,
+            exp-drops: deny, build: deny, game-mode: survival, item-pickup: deny,
+            item-frame-rotation: deny, potion-splash: deny, frosted-ice-melt: deny,
+            lava-flow: deny, grass-growth: allow}
         owners: {}
         type: cuboid
         priority: 0

@@ -1,0 +1,51 @@
+(2)[2022/11/15 20:12:45]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Exploits (VL: 1) [(Version: Paper 1.19), (C-V: 3) (Silent: true), (Ping:
+  5ms), (TPS: 20.0), (Hacker: false), (Online: 1), (type: undetected-movement, ms:
+  17048, distance: 0.05389842897264071)]'
+(3)[2022/11/15 20:12:45]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 5ms), (TPS: 20.0), (Hacker: false), (Online: 1), (instance: step-ground-down-3.87(1),
+  extra: (single: -7.200000047683716, ticks-used: 0), scenario: neutral, up/down:
+  1, jump/fall: 1, motion/old-motion: 0.0, box/old-box: 0.0, air: 0, horizontal: 0.06397788598756352)]'
+(4)[2022/11/15 20:13:57]: Yaotzin found 1 gold on 534, -52, -115
+(5)[2022/11/15 20:14:18]: Yaotzin found 1 gold on 552, -40, -124
+(6)[2022/11/15 20:14:19]: Yaotzin found 1 gold on 552, -40, -125
+(7)[2022/11/15 20:14:20]: Yaotzin found 1 gold on 552, -40, -125
+(8)[2022/11/15 20:14:21]: Yaotzin found 1 gold on 552, -40, -125
+(9)[2022/11/15 20:14:22]: Yaotzin found 1 gold on 552, -40, -125
+(10)[2022/11/15 20:17:51]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: false), (Online: 1), (instance: step-ground-down-3.87(1),
+  extra: (single: -3.966368041641239, ticks-used: 0), scenario: neutral, up/down:
+  1, jump/fall: 1, motion/old-motion: 0.0, box/old-box: 0.0, air: 0, horizontal: 0.0)]'
+(11)[2022/11/15 20:17:52]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed FastEat (VL: 1) [(Version: Paper 1.19), (C-V: 2) (Silent: true), (Ping: 6ms),
+  (TPS: 20.0), (Hacker: false), (Online: 1), (type: eat, ms: 622)]'
+(12)[2022/11/15 20:17:52]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed FastEat (VL: 2) [(Version: Paper 1.19), (C-V: 2) (Silent: true), (Ping: 6ms),
+  (TPS: 20.0), (Hacker: false), (Online: 1), (type: eat, ms: 644)]'
+(13)[2022/11/15 20:23:02]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 20.0), (Hacker: false), (Online: 1), (instance: air-jump(2/20/2),
+  scenario: damage/explosion, up/down: 1, jump/fall: 1, motion: 0.41999998688697815,
+  old-motion: -0.12129684053920187, box: 0.41999998688697815, old-box: 0.0, air: 20,
+  horizontal: 0.5677134025028409)]'
+(14)[2022/11/15 20:28:01]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 6ms), (TPS: 19.716), (Hacker: false), (Online: 1), (instance: step-ground-up-2.0(1),
+  extra: (single: 3.0, ticks-used: 0), scenario: neutral, up/down: 1, jump/fall: 1,
+  motion/old-motion: 0.0, box/old-box: 0.0, air: 0, horizontal: 0.2806758620921314)]'
+(15)[2022/11/15 20:34:26]: Yaotzin found 1 gold on -24, 49, 97
+(16)[2022/11/15 20:34:27]: Yaotzin found 1 gold on -24, 49, 97
+(17)[2022/11/15 20:34:28]: Yaotzin found 1 gold on -24, 49, 97
+(18)[2022/11/15 20:34:28]: Yaotzin found 1 gold on -24, 49, 97
+(19)[2022/11/15 20:34:29]: Yaotzin found 1 gold on -24, 49, 97
+(20)[2022/11/15 20:34:30]: Yaotzin found 1 gold on -24, 49, 97
+(21)[2022/11/15 20:34:30]: Yaotzin found 1 gold on -24, 49, 97
+(22)[2022/11/15 20:34:31]: Yaotzin found 1 gold on -24, 49, 97
+(23)[2022/11/15 20:46:01]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 5ms), (TPS: 19.829), (Hacker: false), (Online: 1), (instance: step-air-down-3.87(1),
+  extra: (multiple: -16.40925305450274, ticks-used: 2), scenario: neutral, up/down:
+  1, jump/fall: 1, motion: -0.2254000102281566, old-motion: -0.15000000596046448,
+  box: 0.5907469454972585, old-box: 0.8161469557254151, air: 0, horizontal: 0.10738644340515215)]'
