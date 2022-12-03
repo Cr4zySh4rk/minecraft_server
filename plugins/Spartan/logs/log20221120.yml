@@ -1,0 +1,109 @@
+(2)[2022/11/20 12:56:39]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 7ms),
+  (TPS: 19.201), (Hacker: false), (Online: 1), (type: hop(illegal), horizontal: 0.2122743616795139,
+  limit: 0.3675)]'
+(3)[2022/11/20 12:56:39]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 3) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 7ms),
+  (TPS: 19.094), (Hacker: false), (Online: 1), (type: hop(illegal), horizontal: 0.21227436197144853,
+  limit: 0.3675)]'
+(4)[2022/11/20 12:56:39]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 4) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 7ms),
+  (TPS: 19.241), (Hacker: false), (Online: 1), (type: hop(illegal), horizontal: 0.21227436218250942,
+  limit: 0.3675)]'
+(5)[2022/11/20 12:56:39]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 5) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 7ms),
+  (TPS: 19.421), (Hacker: false), (Online: 1), (type: hop(illegal), horizontal: 0.21227436233514155,
+  limit: 0.3675)]'
+(6)[2022/11/20 12:56:39]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 6) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 7ms),
+  (TPS: 19.573), (Hacker: false), (Online: 1), (type: hop(illegal), horizontal: 0.21227436244542802,
+  limit: 0.3675)]'
+(7)[2022/11/20 12:56:39]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 7) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 7ms),
+  (TPS: 19.65), (Hacker: false), (Online: 1), (type: hop(illegal), horizontal: 0.2122743625252076,
+  limit: 0.3675)]'
+(8)[2022/11/20 13:06:09]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.813), (Hacker: false), (Online: 1), (instance: step-air-down-3.87(1),
+  extra: (multiple: -5.418182945641809, ticks-used: 10), scenario: neutral, up/down:
+  1, jump/fall: 1, motion: -0.6997397209684451, old-motion: -0.6340201095404012, box:
+  0.23475766783096574, old-box: 0.9344973887994108, air: 29, horizontal: 0.037435999452366094)]'
+(9)[2022/11/20 13:06:11]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.786), (Hacker: false), (Online: 1), (instance: horizontal-motion(2/20/2),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion: 0.0, old-motion: -1.8965587178111356,
+  box/old-box: 0.7188578438333035, air: 53, horizontal: 0.0)]'
+(10)[2022/11/20 13:12:59]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed NoSwing (VL: 1) [(Version: Paper 1.19), (C-V: 2) (Silent: true), (Ping: 8ms),
+  (TPS: 19.829), (Hacker: false), (Online: 1), (type: break, block: grass-block, item:
+  iron-shovel)]'
+(11)[2022/11/20 13:15:31]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 9ms), (TPS: 19.888), (Hacker: false), (Online: 1), (instance: step-air-down-3.87(1),
+  extra: (multiple: -11.036992528380456, ticks-used: 10), scenario: neutral, up/down:
+  1, jump/fall: 1, motion: -0.0807745793108623, old-motion: -0.02523425819378744,
+  box: 0.0, old-box: 0.0807745793108623, air: 0, horizontal: 0.08707638314676842)]'
+(12)[2022/11/20 13:26:07]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 5ms), (TPS: 19.908), (Hacker: false), (Online: 1), (instance: hop-jump(2/20/2),
+  extra: (ms: 449, old-vertical: -0.15233518685055003), scenario: neutral, up/down:
+  1, jump/fall: 1, motion: 0.395575898673286, old-motion: -0.15233518685055003, box:
+  0.41999998688697815, old-box: 0.02442408821369213, air: 0, horizontal: 0.0)]'
+(13)[2022/11/20 13:28:53]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 9ms),
+  (TPS: 19.868), (Hacker: false), (Online: 1), (type: normal, reason: air, horizontal:
+  0.39138030820645614, limit: 0.3675, dynamic-limit: 0.3675, vertical: -0.07840000152587834,
+  air: 14)]'
+(14)[2022/11/20 17:07:34]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 19.864), (Hacker: false), (Online: 1), (instance: step-air-up-3.0(1),
+  extra: (multiple: 4.761543729474308, ticks-used: 5), scenario: neutral, up/down:
+  1, jump/fall: 1, motion: -0.005440954961855482, old-motion: 0.11760000228882461,
+  box: 0.046174917897232604, old-box: 0.051615872859088086, air: 7, horizontal: 0.08867134005059135)]'
+(15)[2022/11/20 17:41:18]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 8ms), (TPS: 19.928), (Hacker: false), (Online: 1), (instance: horizontal-liquids(3/20/3),
+  scenario: neutral, up/down: 1, jump/fall: 1, motion/old-motion: 0.0, box/old-box:
+  0.08576431274415341, air: 0, horizontal: 0.2799423924874758)]'
+(16)[2022/11/20 17:41:43]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed MorePackets (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping:
+  8ms), (TPS: 19.719), (Hacker: false), (Online: 1), (type: instant, overall: 5.286981681703445,
+  last-tick: 1, ticks-requirement: 10, decreased-requirement: false)]'
+(17)[2022/11/20 17:41:46]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed MorePackets (VL: 2) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping:
+  8ms), (TPS: 19.817), (Hacker: false), (Online: 1), (type: horizontal(positive),
+  total-horizontal: 0.3366305627482088, total-vertical: 0.24813599859093927, extra-ticks:
+  24, extra-packets: 0, tick-average: 49.983333333333334)]'
+(18)[2022/11/20 17:45:20]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 47ms),
+  (TPS: 19.968), (Hacker: false), (Online: 1), (type: water, vertical: 0.41999998688697815,
+  horizontal: 0.6099486753824865, limit: 0.19(16), dynamic-limit: 0.6)]'
+(19)[2022/11/20 17:45:27]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed MorePackets (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping:
+  47ms), (TPS: 19.782), (Hacker: false), (Online: 1), (type: instant, overall: 4.70362371801456,
+  last-tick: 1, ticks-requirement: 10, decreased-requirement: false)]'
+(20)[2022/11/20 17:45:30]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed MorePackets (VL: 2) [(Version: Paper 1.19), (C-V: -4) (Silent: true), (Ping:
+  47ms), (TPS: 19.9), (Hacker: false), (Online: 1), (type: horizontal(positive), total-horizontal:
+  0.39999478349750456, total-vertical: 3.071605192417337E-10, extra-ticks: 21, extra-packets:
+  0, tick-average: 49.85)]'
+(21)[2022/11/20 17:46:51]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 2370ms),
+  (TPS: 19.825), (Hacker: false), (Online: 1), (type: normal, reason: air, horizontal:
+  0.40120523943536573, limit: 0.3675, dynamic-limit: 0.3675, vertical: -0.07840000152587834,
+  air: 16)]'
+(22)[2022/11/20 17:46:55]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Speed (VL: 2) [(Version: Paper 1.19), (C-V: 4) (Silent: true), (Ping: 2370ms),
+  (TPS: 19.853), (Hacker: false), (Online: 1), (type: normal, reason: air, horizontal:
+  0.38810331980418444, limit: 0.3675, dynamic-limit: 0.3675, vertical: -0.07840000152587834,
+  air: 0)]'
+(23)[2022/11/20 18:04:37]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 7ms), (TPS: 19.888), (Hacker: false), (Online: 1), (instance: step-air-down-3.87(1),
+  extra: (multiple: -87.0920891553529, ticks-used: 2), scenario: neutral, up/down:
+  1, jump/fall: 1, motion: -1.2374963313526024, old-motion: -1.1827513339464595, box:
+  0.9079108446471089, old-box: 0.1454071759997113, air: 36, horizontal: 0.0)]'
+(24)[2022/11/20 18:19:00]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed Exploits (VL: 1) [(Version: Paper 1.19), (C-V: 3) (Silent: true), (Ping:
+  8ms), (TPS: 19.857), (Hacker: false), (Online: 1), (type: undetected-movement, ms:
+  2882, distance: 0.04545187754187681)]'

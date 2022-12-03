@@ -4,18 +4,15 @@
   "link": "chooseit.io/er",
   "RaceMode": {
     "perState": {
-      "SPECTATOR": {
+      "WAITING": {
         "title": "ElytraRacing",
         "lines": [
           "",
-          "Time left: &c{TIME_LEFT}",
           "&fPlayer(s): {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "&fMap: {CURRENT_MAP}",
+          "&fMode: &aRace",
           "",
-          "&e1st - {RACE_RANK_PLAYER_1}",
-          "&72nd - {RACE_RANK_PLAYER_2}",
-          "&63rd - {RACE_RANK_PLAYER_3}",
-          "&f4th - {RACE_RANK_PLAYER_4}",
-          "&f5th - {RACE_RANK_PLAYER_5}",
+          "&cNeed {NEEDED_PLAYER} player(s) to start",
           "",
           "{LINK}"
         ]
@@ -38,33 +35,6 @@
           "{LINK}"
         ]
       },
-      "HOST_STARTING": {
-        "title": "{HOST_NAME}",
-        "lines": [
-          "",
-          "&fPlayer(s): {CURRENT_PLAYER}/{MAX_PLAYER}",
-          "&fMap: {CURRENT_MAP}",
-          "&fMode: &aRace",
-          "",
-          "Host: {HOST}",
-          "&cStarting in {STARTING_COUNTDOWN} second(s)",
-          "",
-          "{LINK}"
-        ]
-      },
-      "HOST_SPECTATOR_FINISHED": {
-        "title": "{HOST_NAME}",
-        "lines": [
-          "",
-          "&e1st - {RANK_PLAYER_1}",
-          "&72nd - {RANK_PLAYER_2}",
-          "&63rd - {RANK_PLAYER_3}",
-          "&f4th - {RANK_PLAYER_4}",
-          "&f5th - {RANK_PLAYER_5}",
-          "",
-          "{LINK}"
-        ]
-      },
       "SPECTATOR_FINISHED": {
         "title": "ElytraRacing",
         "lines": [
@@ -78,15 +48,15 @@
           "{LINK}"
         ]
       },
-      "WAITING": {
-        "title": "ElytraRacing",
+      "HOST_WAITING": {
+        "title": "{HOST_NAME}",
         "lines": [
           "",
           "&fPlayer(s): {CURRENT_PLAYER}/{MAX_PLAYER}",
           "&fMap: {CURRENT_MAP}",
           "&fMode: &aRace",
           "",
-          "&cNeed {NEEDED_PLAYER} player(s) to start",
+          "Host: {HOST}",
           "",
           "{LINK}"
         ]
@@ -99,24 +69,6 @@
           "&72nd - {RANK_PLAYER_2}",
           "&63rd - {RANK_PLAYER_3}",
           "Your rank: {SELF_RANK_PLAYER}",
-          "",
-          "{LINK}"
-        ]
-      },
-      "HOST_STARTED": {
-        "title": "{HOST_NAME}",
-        "lines": [
-          "",
-          "Time left: &c{TIME_LEFT}",
-          "&fPlayer(s): {CURRENT_PLAYER}/{MAX_PLAYER}",
-          "",
-          "&e1st - {RACE_RANK_PLAYER_1}",
-          "&72nd - {RACE_RANK_PLAYER_2}",
-          "&63rd - {RACE_RANK_PLAYER_3}",
-          "Your rank: {SELF_RACE_RANK_PLAYER}",
-          "",
-          "Checkpoints: &6{SELF_CPS}/{MAX_CPS}",
-          "Laps: &6{SELF_LAPS}/{MAX_LAPS}",
           "",
           "{LINK}"
         ]
@@ -149,6 +101,20 @@
           "{LINK}"
         ]
       },
+      "HOST_STARTING": {
+        "title": "{HOST_NAME}",
+        "lines": [
+          "",
+          "&fPlayer(s): {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "&fMap: {CURRENT_MAP}",
+          "&fMode: &aRace",
+          "",
+          "Host: {HOST}",
+          "&cStarting in {STARTING_COUNTDOWN} second(s)",
+          "",
+          "{LINK}"
+        ]
+      },
       "STARTING": {
         "title": "ElytraRacing",
         "lines": [
@@ -162,15 +128,49 @@
           "{LINK}"
         ]
       },
-      "HOST_WAITING": {
+      "HOST_SPECTATOR_FINISHED": {
         "title": "{HOST_NAME}",
         "lines": [
           "",
-          "&fPlayer(s): {CURRENT_PLAYER}/{MAX_PLAYER}",
-          "&fMap: {CURRENT_MAP}",
-          "&fMode: &aRace",
+          "&e1st - {RANK_PLAYER_1}",
+          "&72nd - {RANK_PLAYER_2}",
+          "&63rd - {RANK_PLAYER_3}",
+          "&f4th - {RANK_PLAYER_4}",
+          "&f5th - {RANK_PLAYER_5}",
           "",
-          "Host: {HOST}",
+          "{LINK}"
+        ]
+      },
+      "SPECTATOR": {
+        "title": "ElytraRacing",
+        "lines": [
+          "",
+          "Time left: &c{TIME_LEFT}",
+          "&fPlayer(s): {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "",
+          "&e1st - {RACE_RANK_PLAYER_1}",
+          "&72nd - {RACE_RANK_PLAYER_2}",
+          "&63rd - {RACE_RANK_PLAYER_3}",
+          "&f4th - {RACE_RANK_PLAYER_4}",
+          "&f5th - {RACE_RANK_PLAYER_5}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "HOST_STARTED": {
+        "title": "{HOST_NAME}",
+        "lines": [
+          "",
+          "Time left: &c{TIME_LEFT}",
+          "&fPlayer(s): {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "",
+          "&e1st - {RACE_RANK_PLAYER_1}",
+          "&72nd - {RACE_RANK_PLAYER_2}",
+          "&63rd - {RACE_RANK_PLAYER_3}",
+          "Your rank: {SELF_RACE_RANK_PLAYER}",
+          "",
+          "Checkpoints: &6{SELF_CPS}/{MAX_CPS}",
+          "Laps: &6{SELF_LAPS}/{MAX_LAPS}",
           "",
           "{LINK}"
         ]
@@ -198,40 +198,8 @@
           "{LINK}"
         ]
       },
-      "HOST_STARTING": {
-        "title": "{HOST_NAME}",
-        "lines": [
-          "",
-          "&fPlayer(s): {CURRENT_PLAYER}/{MAX_PLAYER}",
-          "&fMap: {CURRENT_MAP}",
-          "&fMode: &aGrandPrix",
-          "Round: 1/{MAX_ROUND}",
-          "",
-          "Host: {HOST}",
-          "&cStarting in {STARTING_COUNTDOWN} second(s)",
-          "",
-          "{LINK}"
-        ]
-      },
-      "BETWEENROUND": {
+      "SPECTATOR_FINISHED": {
         "title": "ElytraRacing",
-        "lines": [
-          "",
-          "Next map: {CURRENT_MAP}",
-          "{CURRENT_MAP_DIFFICULTY}",
-          "&6PB: {SELF_MAP_PB}",
-          "",
-          "&e1st - {RANK_PLAYER_1} - {RANK_PLAYER_1_SCORE}",
-          "&72nd - {RANK_PLAYER_2} - {RANK_PLAYER_2_SCORE}",
-          "&63rd - {RANK_PLAYER_3} - {RANK_PLAYER_3_SCORE}",
-          "Your rank: {SELF_RANK_PLAYER}",
-          "Your score: {SELF_RANK_PLAYER_SCORE}",
-          "",
-          "{LINK}"
-        ]
-      },
-      "HOST_SPECTATOR_FINISHED": {
-        "title": "{HOST_NAME}",
         "lines": [
           "",
           "&e1st - {RANK_PLAYER_1} - {RANK_PLAYER_1_SCORE}",
@@ -243,21 +211,20 @@
           "{LINK}"
         ]
       },
-      "WAITING": {
+      "FINISHED": {
         "title": "ElytraRacing",
         "lines": [
           "",
-          "&fPlayer(s): {CURRENT_PLAYER}/{MAX_PLAYER}",
-          "&fMap: {CURRENT_MAP}",
-          "&fMode: &aGrandPrix",
-          "Round: 1/{MAX_ROUND}",
-          "",
-          "&cNeed {NEEDED_PLAYER} player(s) to start",
+          "&e1st - {RANK_PLAYER_1} - {RANK_PLAYER_1_SCORE}",
+          "&72nd - {RANK_PLAYER_2} - {RANK_PLAYER_2_SCORE}",
+          "&63rd - {RANK_PLAYER_3} - {RANK_PLAYER_3_SCORE}",
+          "Your rank: {SELF_RANK_PLAYER}",
+          "Your score: {SELF_RANK_PLAYER_SCORE}",
           "",
           "{LINK}"
         ]
       },
-      "HOST_STARTED": {
+      "HOST_SPECTATOR": {
         "title": "{HOST_NAME}",
         "lines": [
           "",
@@ -268,10 +235,23 @@
           "&e1st - {RACE_RANK_PLAYER_1}",
           "&72nd - {RACE_RANK_PLAYER_2}",
           "&63rd - {RACE_RANK_PLAYER_3}",
-          "Your rank: {SELF_RACE_RANK_PLAYER}",
+          "&f4th - {RACE_RANK_PLAYER_4}",
+          "&f5th - {RACE_RANK_PLAYER_5}",
           "",
-          "Checkpoints: &6{SELF_CPS}/{MAX_CPS}",
-          "Laps: &6{SELF_LAPS}/{MAX_LAPS}",
+          "{LINK}"
+        ]
+      },
+      "HOST_STARTING": {
+        "title": "{HOST_NAME}",
+        "lines": [
+          "",
+          "&fPlayer(s): {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "&fMap: {CURRENT_MAP}",
+          "&fMode: &aGrandPrix",
+          "Round: 1/{MAX_ROUND}",
+          "",
+          "Host: {HOST}",
+          "&cStarting in {STARTING_COUNTDOWN} second(s)",
           "",
           "{LINK}"
         ]
@@ -289,19 +269,6 @@
           "&63rd - {RANK_PLAYER_3} - {RANK_PLAYER_3_SCORE}",
           "&f4th - {RANK_PLAYER_4} - {RANK_PLAYER_4_SCORE}",
           "&f5th - {RANK_PLAYER_5} - {RANK_PLAYER_5_SCORE}",
-          "",
-          "{LINK}"
-        ]
-      },
-      "HOST_FINISHED": {
-        "title": "{HOST_NAME}",
-        "lines": [
-          "",
-          "&e1st - {RANK_PLAYER_1} - {RANK_PLAYER_1_SCORE}",
-          "&72nd - {RANK_PLAYER_2} - {RANK_PLAYER_2_SCORE}",
-          "&63rd - {RANK_PLAYER_3} - {RANK_PLAYER_3_SCORE}",
-          "Your rank: {SELF_RANK_PLAYER}",
-          "Your score: {SELF_RANK_PLAYER_SCORE}",
           "",
           "{LINK}"
         ]
@@ -337,6 +304,20 @@
           "{LINK}"
         ]
       },
+      "WAITING": {
+        "title": "ElytraRacing",
+        "lines": [
+          "",
+          "&fPlayer(s): {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "&fMap: {CURRENT_MAP}",
+          "&fMode: &aGrandPrix",
+          "Round: 1/{MAX_ROUND}",
+          "",
+          "&cNeed {NEEDED_PLAYER} player(s) to start",
+          "",
+          "{LINK}"
+        ]
+      },
       "HOST_WAITING": {
         "title": "{HOST_NAME}",
         "lines": [
@@ -351,38 +332,8 @@
           "{LINK}"
         ]
       },
-      "SPECTATOR": {
-        "title": "ElytraRacing",
-        "lines": [
-          "",
-          "Time left: &c{TIME_LEFT}",
-          "&fPlayer(s): {CURRENT_PLAYER}/{MAX_PLAYER}",
-          "Round: {CURRENT_ROUND}/{MAX_ROUND}",
-          "",
-          "&e1st - {RACE_RANK_PLAYER_1}",
-          "&72nd - {RACE_RANK_PLAYER_2}",
-          "&63rd - {RACE_RANK_PLAYER_3}",
-          "&f4th - {RACE_RANK_PLAYER_4}",
-          "&f5th - {RACE_RANK_PLAYER_5}",
-          "",
-          "{LINK}"
-        ]
-      },
-      "SPECTATOR_FINISHED": {
-        "title": "ElytraRacing",
-        "lines": [
-          "",
-          "&e1st - {RANK_PLAYER_1} - {RANK_PLAYER_1_SCORE}",
-          "&72nd - {RANK_PLAYER_2} - {RANK_PLAYER_2_SCORE}",
-          "&63rd - {RANK_PLAYER_3} - {RANK_PLAYER_3_SCORE}",
-          "&f4th - {RANK_PLAYER_4} - {RANK_PLAYER_4_SCORE}",
-          "&f5th - {RANK_PLAYER_5} - {RANK_PLAYER_5_SCORE}",
-          "",
-          "{LINK}"
-        ]
-      },
-      "FINISHED": {
-        "title": "ElytraRacing",
+      "HOST_FINISHED": {
+        "title": "{HOST_NAME}",
         "lines": [
           "",
           "&e1st - {RANK_PLAYER_1} - {RANK_PLAYER_1_SCORE}",
@@ -411,8 +362,38 @@
           "{LINK}"
         ]
       },
-      "HOST_SPECTATOR": {
+      "HOST_SPECTATOR_FINISHED": {
         "title": "{HOST_NAME}",
+        "lines": [
+          "",
+          "&e1st - {RANK_PLAYER_1} - {RANK_PLAYER_1_SCORE}",
+          "&72nd - {RANK_PLAYER_2} - {RANK_PLAYER_2_SCORE}",
+          "&63rd - {RANK_PLAYER_3} - {RANK_PLAYER_3_SCORE}",
+          "&f4th - {RANK_PLAYER_4} - {RANK_PLAYER_4_SCORE}",
+          "&f5th - {RANK_PLAYER_5} - {RANK_PLAYER_5_SCORE}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "BETWEENROUND": {
+        "title": "ElytraRacing",
+        "lines": [
+          "",
+          "Next map: {CURRENT_MAP}",
+          "{CURRENT_MAP_DIFFICULTY}",
+          "&6PB: {SELF_MAP_PB}",
+          "",
+          "&e1st - {RANK_PLAYER_1} - {RANK_PLAYER_1_SCORE}",
+          "&72nd - {RANK_PLAYER_2} - {RANK_PLAYER_2_SCORE}",
+          "&63rd - {RANK_PLAYER_3} - {RANK_PLAYER_3_SCORE}",
+          "Your rank: {SELF_RANK_PLAYER}",
+          "Your score: {SELF_RANK_PLAYER_SCORE}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "SPECTATOR": {
+        "title": "ElytraRacing",
         "lines": [
           "",
           "Time left: &c{TIME_LEFT}",
@@ -424,6 +405,25 @@
           "&63rd - {RACE_RANK_PLAYER_3}",
           "&f4th - {RACE_RANK_PLAYER_4}",
           "&f5th - {RACE_RANK_PLAYER_5}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "HOST_STARTED": {
+        "title": "{HOST_NAME}",
+        "lines": [
+          "",
+          "Time left: &c{TIME_LEFT}",
+          "&fPlayer(s): {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "Round: {CURRENT_ROUND}/{MAX_ROUND}",
+          "",
+          "&e1st - {RACE_RANK_PLAYER_1}",
+          "&72nd - {RACE_RANK_PLAYER_2}",
+          "&63rd - {RACE_RANK_PLAYER_3}",
+          "Your rank: {SELF_RACE_RANK_PLAYER}",
+          "",
+          "Checkpoints: &6{SELF_CPS}/{MAX_CPS}",
+          "Laps: &6{SELF_LAPS}/{MAX_LAPS}",
           "",
           "{LINK}"
         ]

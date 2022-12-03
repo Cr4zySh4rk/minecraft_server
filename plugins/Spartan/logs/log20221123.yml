@@ -1,0 +1,40 @@
+(2)[2022/11/23 17:02:33]: Yaotzin found 1 gold on -9, 15, -44
+(3)[2022/11/23 17:02:33]: Yaotzin found 1 gold on -9, 15, -44
+(4)[2022/11/23 17:02:34]: Yaotzin found 1 gold on -9, 15, -44
+(5)[2022/11/23 17:02:36]: Yaotzin found 1 gold on -9, 15, -44
+(6)[2022/11/23 17:02:36]: Yaotzin found 1 gold on -9, 15, -44
+(7)[2022/11/23 17:02:38]: Yaotzin found 1 gold on -11, 15, -44
+(8)[2022/11/23 17:02:39]: Yaotzin found 1 gold on -11, 15, -44
+(9)[2022/11/23 17:03:50]: Yaotzin found 1 gold on -7, 16, -64
+(10)[2022/11/23 17:04:14]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed FastBreak (VL: 1) [(Version: Paper 1.19), (C-V: 2) (Silent: true), (Ping:
+  22ms), (TPS: 19.755), (Hacker: false), (Online: 1), (type: delay, time: 500, limit:
+  550, difference: 50, block: gravel, item: iron-shovel, enchantments: none, effects:
+  none)]'
+(11)[2022/11/23 17:04:37]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed NoSwing (VL: 1) [(Version: Paper 1.19), (C-V: 2) (Silent: true), (Ping: 18ms),
+  (TPS: 19.884), (Hacker: false), (Online: 1), (type: break, block: gravel, item:
+  iron-shovel)]'
+(12)[2022/11/23 17:06:58]: Yaotzin found 1 gold on 66, 15, -13
+(13)[2022/11/23 17:07:00]: Yaotzin found 1 gold on 66, 15, -13
+(14)[2022/11/23 17:07:01]: Yaotzin found 1 gold on 66, 15, -13
+(15)[2022/11/23 17:07:02]: Yaotzin found 1 gold on 66, 15, -13
+(16)[2022/11/23 17:07:03]: Yaotzin found 1 gold on 66, 15, -13
+(17)[2022/11/23 17:07:05]: Yaotzin found 1 gold on 66, 15, -13
+(18)[2022/11/23 17:07:25]: Yaotzin found 1 gold on 43, 14, -13
+(19)[2022/11/23 17:07:26]: Yaotzin found 1 gold on 43, 14, -13
+(20)[2022/11/23 17:07:27]: Yaotzin found 1 gold on 43, 11, -13
+(21)[2022/11/23 17:07:27]: Yaotzin found 1 gold on 43, 11, -13
+(22)[2022/11/23 17:07:28]: Yaotzin found 1 gold on 43, 11, -13
+(23)[2022/11/23 17:07:29]: Yaotzin found 1 gold on 43, 11, -13
+(24)[2022/11/23 17:07:29]: Yaotzin found 1 gold on 43, 11, -13
+(25)[2022/11/23 17:07:30]: Yaotzin found 1 gold on 43, 11, -13
+(26)[2022/11/23 17:21:40]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed IrregularMovements (VL: 1) [(Version: Paper 1.19), (C-V: 4) (Silent: true),
+  (Ping: 17ms), (TPS: 19.849), (Hacker: false), (Online: 1), (instance: step-air-up-3.87(1),
+  extra: (multiple: 4.995200877005928, ticks-used: 2), scenario: neutral, up/down:
+  1, jump/fall: 1, motion: -0.3015347236627832, old-motion: -0.22768848754498094,
+  box: 0.995200877005928, old-box: 0.2967356006687112, air: 7, horizontal: 0.2498702108613238)]'
+(27)[2022/11/23 17:39:30]: '[Spartan Phase 484.1/153-695517/*1663979-48771] Yaotzin
+  failed NoSwing (VL: 1) [(Version: Paper 1.19), (C-V: 2) (Silent: true), (Ping: 10ms),
+  (TPS: 19.805), (Hacker: false), (Online: 1), (type: break, block: dirt, item: iron-shovel)]'
